@@ -1,0 +1,65 @@
+@import "./../variables.scss";
+
+/* this make sure that every element inherits the parent box-sizing type*/
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: $space;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: $white;
+  border: 3px solid $blue;
+  border-radius: 1rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  // background: $space;
+  
+}
+/* setting the root font size to be 62.5% of default browser font size.
+   This enables the web page to adapt according to default browser font size(even if user changes the default browser font size)
+   and enables author to use "rem" in the complete document for calculations.
+   10px beacuse it is easy to calculate the fraction. */
+html {
+  font-size: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  /* by default all the block display are border-box*/
+  box-sizing: border-box;
+  /* Smoothen font which is better normal display of the font*/
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto', sans-serif !important;
+  color: $white;
+  background-color: $white;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: $white;
+  font-weight: 600;
+
+  &:hover {
+    color: $red;
+  }
+}

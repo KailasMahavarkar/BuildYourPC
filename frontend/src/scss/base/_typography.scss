@@ -1,0 +1,65 @@
+@import "./../variables.scss";
+
+.fontXSmall {
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+.fontSmall {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.fontMedium {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.fontLarge {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.fontXLarge {
+  font-size: 3rem;
+  font-weight: 400;
+}
+
+.fontXXLarge {
+  font-size: 4.5rem;
+  font-weight: 400;
+}
+
+.fontMontserrat {
+  font-family: "montserrat", sans-serif;
+}
+
+.fontMontserratXBold {
+  font-family: "montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.fontSmallMont {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.fontXSmallMont {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.fontSemiHuge {
+  font-size: 18rem;
+  font-weight: 700;
+}
+
+.fontHuge {
+  font-size: 20rem;
+  font-weight: 700;
+}
+
+.fontOswald400 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+}

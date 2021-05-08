@@ -1,0 +1,1059 @@
+{
+	"0": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 23400,
+		"imageurl": "processor/ryzen-5-3600xt-3-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-3600xt"
+	},
+	"1": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 39600,
+		"imageurl": "processor/ryzen-7-3700x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-7-3700x"
+	},
+	"2": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 28800,
+		"imageurl": "processor/ryzen-7-3800x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-7-3800x"
+	},
+	"3": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 35800,
+		"imageurl": "processor/ryzen-9-3900xt-1-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-9-3900xt"
+	},
+	"4": {
+		"brand": "Intel",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 33400,
+		"imageurl": "processor/i7-10700-k-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "i7-10700k"
+	},
+	"5": {
+		"brand": "Intel",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 29000,
+		"imageurl": "processor/i9-10900k-1-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "i9-10900k"
+	},
+	"6": {
+		"brand": "Intel",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 19400,
+		"imageurl": "processor/i9-9900kf-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "i9-9900kf"
+	},
+	"7": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 15400,
+		"imageurl": "processor/yd2200c5fbbox-3-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-3-2200G"
+	},
+	"8": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 20800,
+		"imageurl": "processor/ryzen-3-3100-3-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-3-3100"
+	},
+	"9": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 36600,
+		"imageurl": "processor/ryzen-3-3200g-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-3-3200g"
+	},
+	"10": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 34800,
+		"imageurl": "processor/ryzen-3-3300x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-3-3300x"
+	},
+	"11": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 25400,
+		"imageurl": "processor/ryzen-5-3400g-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-3400g"
+	},
+	"12": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 42400,
+		"imageurl": "processor/ryzen-5-3500-1-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-3500"
+	},
+	"13": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 40200,
+		"imageurl": "processor/ryzen-5-3500x_3-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-3500x"
+	},
+	"14": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 21000,
+		"imageurl": "processor/ryzen-5-3600-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-3600"
+	},
+	"15": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 32600,
+		"imageurl": "processor/ryzen-5-3600x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-3600x"
+	},
+	"16": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 42200,
+		"imageurl": "processor/100-100000065box_2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-5700x"
+	},
+	"17": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 25200,
+		"imageurl": "processor/ryzen-5-pro-4650g-1-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-5-pro-4650g"
+	},
+	"18": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 23200,
+		"imageurl": "processor/ryzen-7-2700x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-7-2700"
+	},
+	"19": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 44200,
+		"imageurl": "processor/ryzen-7-3800xt-1-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-7-3800xt"
+	},
+	"20": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 25600,
+		"imageurl": "processor/Ryzen-7-5800X-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-7-5800x"
+	},
+	"21": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 42200,
+		"imageurl": "processor/ryzen-9-3900x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-9-3900x"
+	},
+	"22": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 49400,
+		"imageurl": "processor/ryzen-9-3950x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-9-3950x"
+	},
+	"23": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 25600,
+		"imageurl": "processor/ryzen-9-5900x-2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-9-5900x"
+	},
+	"24": {
+		"brand": "AMD",
+		"socket": "AM4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 20800,
+		"imageurl": "processor/100-100000059wof_2-250x250.jpg",
+		"motherboard": ["a520m-hdv", "b450-pro4", "b450-steel-legend", "b450m-pro4", "b450m-steel-legend", "b550-steel-legend", "b550-taichi", "b550m-pro4", "b550m-steel-legend", "b550m-hdv", "x570-phantom-gaming-4", "x570-phantom-gaming-x", "x570-steel-legend", "x570-taichi", "ex-a320m-gaming", "prime-a320m-k", "prime-a520m-e", "prime-a520m-k", "prime-b450m-a", "prime-b450m-k", "prime-b550m-a", "prime-b550m-k", "prime-x470-pro", "rog-crosshair-viii-dark-hero", "rog-crosshair-viii-formula", "rog-crosshair-viii-hero", "rog-strix-b450-e-gaming", "rog-strix-b450-f-gaming", "rog-strix-b450-f-gaming-ii", "rog-strix-b550-e-gaming", "rog-strix-b550-f-gaming", "rog-strix-b550-i-gaming", "rog-strix-x570-e-gaming", "rog-strix-x570-f-gaming", "tuf-b450-plus-gaming", "tuf-b450m-pro-gaming", "tuf-gaming-a520m-plus", "tuf-gaming-b550-plus", "tuf-gaming-b550m-plus", "tuf-gaming-x570-plus", "b450-aorus-elite-v2", "b450-aorus-m", "b450-aorus-pro", "b450-gaming-x", "b450m-aorus-elite", "b450m-ds3h-v2", "b450m-ds3h-wifi", "b450m-gaming", "b450m-h", "b550-aorus-elite", "b550-aorus-elite-ax", "b550-aorus-master", "b550-aorus-pro", "b550-aorus-pro-ac", "b550-aorus-pro-ax", "b550-aorus-pro-v2", "b550-gaming-x", "b550-vision-d", "b550i-aorus-pro-ax", "b550m-aorus-pro", "b550m-aorus-pro-p", "b550m-ds3h", "b550m-gaming", "ga-a320m-h", "ga-a320m-hd2", "ga-a320m-s2h", "ga-a320m-s2h-v2", "x570-aorus-elite", "x570-aorus-elite-wifi", "x570-aorus-master", "x570-aorus-pro", "x570-aorus-pro-wifi", "x570-aorus-ultra", "x570-aorus-xtreme", "x570-gaming-x", "x570-ud", "a320m-a-pro-max", "b450-gaming-pro-carbon-max-wifi", "b450-gaming-plus-max", "b450-tomahawk-max", "b450-a-pro", "b450i-gaming-plus-ac", "b450m-bazooka-max-wifi", "b450m-bazooka-plus", "b450m-mortar-max", "b450m-mortar-titanium", "b450m-pro-m2-max", "b450m-pro-vdh-max", "b450m-a-pro-max", "b550-a-pro", "b550m-pro-vdh-wifi", "mag-b550-tomahawk", "mag-b550m-bazooka", "mag-b550m-mortar-wifi", "mag-x570-tomahawk-wifi", "meg-x570-ace", "meg-x570-godlike", "meg-x570-unify", "mpg-b550-gaming-carbon-wifi", "mpg-b550-gaming-edge-wifi", "mpg-b550-gaming-plus", "mpg-b550i-gaming-edge-wifi", "mpg-x570-gaming-edge-wifi", "mpg-x570-gaming-plus", "mpg-x570-gaming-pro-carbon-wifi", "prestige-x570-creation", "x570-a-pro"],
+		"name": "ryzen-9-5900"
+	},
+	"25": {
+		"brand": "AMD",
+		"socket": "sTRX4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 47000,
+		"imageurl": "processor/ryzen-threadripper-pro-3955wx_2-250x250.jpg",
+		"motherboard": ["rog-strix-trx40-e-gaming", "trx40-aorus-pro-wifi", "creator-trx40", "trx40-pro-10g", "trx40-pro-wifi"],
+		"name": "threadripper-pro-3955wx"
+	},
+	"26": {
+		"brand": "AMD",
+		"model": "2650",
+		"socket": "sTRX4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 17600,
+		"imageurl": "processor/ryzen-threadripper-pro-3995wx_2-250x250.jpg",
+		"motherboard": ["rog-strix-trx40-e-gaming", "trx40-aorus-pro-wifi", "creator-trx40", "trx40-pro-10g", "trx40-pro-wifi"],
+		"name": "threadripper-pro-3995wx"
+	},
+	"27": {
+		"brand": "AMD",
+		"socket": "sTR4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 33000,
+		"imageurl": "processor/ryzen-threadripper-1950x-2-250x250.jpg",
+		"motherboard": ["prime-x399-a", "rog-strix-x399-e-gaming", "rog-zenith-extreme", "x399-aorus-gaming-7", "x399-aorus-pro", "x399-aorus-xtreme", "x399-designare-ex", "meg-x399-creation", "x399-gaming-pro-carbon-ac", "x399-sli-plus"],
+		"name": "threadripper-1950x"
+	},
+	"28": {
+		"brand": "AMD",
+		"socket": "sTR4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 36400,
+		"imageurl": "processor/threadripper-2970wx-2-250x250.jpg",
+		"motherboard": ["prime-x399-a", "rog-strix-x399-e-gaming", "rog-zenith-extreme", "x399-aorus-gaming-7", "x399-aorus-pro", "x399-aorus-xtreme", "x399-designare-ex", "meg-x399-creation", "x399-gaming-pro-carbon-ac", "x399-sli-plus"],
+		"name": "threadripper-2970wx"
+	},
+	"29": {
+		"brand": "AMD",
+		"socket": "sTR4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 15000,
+		"imageurl": "processor/threadripper-2990wx-2-250x250.jpg",
+		"motherboard": ["prime-x399-a", "rog-strix-x399-e-gaming", "rog-zenith-extreme", "x399-aorus-gaming-7", "x399-aorus-pro", "x399-aorus-xtreme", "x399-designare-ex", "meg-x399-creation", "x399-gaming-pro-carbon-ac", "x399-sli-plus"],
+		"name": "threadripper-2990wx"
+	},
+	"30": {
+		"brand": "AMD",
+		"socket": "sTR4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 21000,
+		"imageurl": "processor/threadripper-3960x-2-250x250.jpg",
+		"motherboard": ["prime-x399-a", "rog-strix-x399-e-gaming", "rog-zenith-extreme", "x399-aorus-gaming-7", "x399-aorus-pro", "x399-aorus-xtreme", "x399-designare-ex", "meg-x399-creation", "x399-gaming-pro-carbon-ac", "x399-sli-plus"],
+		"name": "threadripper-3960x"
+	},
+	"31": {
+		"brand": "AMD",
+		"socket": "sTR4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 25800,
+		"imageurl": "processor/threadripper-3970x-2-250x250.jpg",
+		"motherboard": ["prime-x399-a", "rog-strix-x399-e-gaming", "rog-zenith-extreme", "x399-aorus-gaming-7", "x399-aorus-pro", "x399-aorus-xtreme", "x399-designare-ex", "meg-x399-creation", "x399-gaming-pro-carbon-ac", "x399-sli-plus"],
+		"name": "threadripper-3970x"
+	},
+	"32": {
+		"brand": "AMD",
+		"socket": "sTR4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 36600,
+		"imageurl": "processor/threadripper-3990x-1-250x250.jpg",
+		"motherboard": ["prime-x399-a", "rog-strix-x399-e-gaming", "rog-zenith-extreme", "x399-aorus-gaming-7", "x399-aorus-pro", "x399-aorus-xtreme", "x399-designare-ex", "meg-x399-creation", "x399-gaming-pro-carbon-ac", "x399-sli-plus"],
+		"name": "threadripper-3990x"
+	},
+	"33": {
+		"brand": "AMD",
+		"socket": "sTR4",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1450000000
+		},
+		"boost_clock": null,
+		"tdp": 25,
+		"integrated_graphics": "Radeon HD 8240",
+		"multithreading": false,
+		"price": 20600,
+		"imageurl": "processor/ryzen-threadripper-pro-3975wx_2-250x250.jpg",
+		"motherboard": ["prime-x399-a", "rog-strix-x399-e-gaming", "rog-zenith-extreme", "x399-aorus-gaming-7", "x399-aorus-pro", "x399-aorus-xtreme", "x399-designare-ex", "meg-x399-creation", "x399-gaming-pro-carbon-ac", "x399-sli-plus"],
+		"name": "threadripper-pro-3975wx"
+	},
+	"34": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 28400,
+		"imageurl": "processor/i3-10100-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i3-10100"
+	},
+	"35": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 40400,
+		"imageurl": "processor/bx8070110100f_2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i3-10100F"
+	},
+	"36": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 16400,
+		"imageurl": "processor/intel-core-i3-8100-2-250x250h.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i3-8100"
+	},
+	"37": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 43800,
+		"imageurl": "processor/i3-9100f-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i3-9100f"
+	},
+	"38": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 42800,
+		"imageurl": "processor/i5-10400-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i5-10400"
+	},
+	"39": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 47000,
+		"imageurl": "processor/bx8070110400f_2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i5-10400f"
+	},
+	"40": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 41400,
+		"imageurl": "processor/i5-10500-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i5-10500"
+	},
+	"41": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 47000,
+		"imageurl": "processor/i5-10600-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i5-10600"
+	},
+	"42": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 37200,
+		"imageurl": "processor/i5-10600k_5-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i5-10600k"
+	},
+	"43": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 18600,
+		"imageurl": "processor/i5-10600ka-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i5-10600-ka"
+	},
+	"44": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 48400,
+		"imageurl": "processor/i5-11600k-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i5-11600k"
+	},
+	"45": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 23400,
+		"imageurl": "processor/i5-9400f-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i5-9400f"
+	},
+	"46": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 45200,
+		"imageurl": "processor/bx80684i59600k-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i5-9600k"
+	},
+	"47": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 22600,
+		"imageurl": "processor/bx80684i59600kf-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i5-9600kf"
+	},
+	"48": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 37200,
+		"imageurl": "processor/i7-10700kf_3-250x250.jpeg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i7-10700kf"
+	},
+	"49": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 34000,
+		"imageurl": "processor/i7-10700-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i7-10700"
+	},
+	"50": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 20600,
+		"imageurl": "processor/bx8070110700ka_1-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i7-10700ka"
+	},
+	"51": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 44000,
+		"imageurl": "processor/i7-11700_1-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i7-11700"
+	},
+	"52": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 45000,
+		"imageurl": "processor/i7-11700k-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i7-11700k"
+	},
+	"53": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 32200,
+		"imageurl": "processor/bx80684i79700-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i7-9700"
+	},
+	"54": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 49600,
+		"imageurl": "processor/bx80684i79700f-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i7-9700f"
+	},
+	"55": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 27800,
+		"imageurl": "processor/bx80684i79700k-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i7-9700k"
+	},
+	"56": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 41200,
+		"imageurl": "processor/i9-10850-ka-1-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i9-10850ka"
+	},
+	"57": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 24800,
+		"imageurl": "processor/i9-10850k-2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i9-10850k"
+	},
+	"58": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 32800,
+		"imageurl": "processor/i9-10900ka-1-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i9-10900ka"
+	},
+	"59": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 35800,
+		"imageurl": "processor/i9-11900_3-250x250h.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i9-11900"
+	},
+	"60": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 34800,
+		"imageurl": "processor/i9-9900k-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i9-9900k"
+	},
+	"61": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 21000,
+		"imageurl": "processor/i9-9920X-2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "i9-9920x"
+	},
+	"62": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 22600,
+		"imageurl": "processor/g5400-3-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "g5400"
+	},
+	"63": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 42400,
+		"imageurl": "processor/bx80701g6400_2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "g6400"
+	},
+	"64": {
+		"brand": "Intel",
+		"socket": "LGA1151",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 22000,
+		"imageurl": "processor/bx80684g5420_2-250x250.jpg",
+		"motherboard": ["z390-taichi", "h110m-d", "prime-b365m-a", "prime-h310m-e", "prime-h310m-k", "prime-z390-a", "prime-z390-p", "prime-z390m-plus", "rog-maximus-xi-code", "rog-maximus-xi-extreme", "rog-maximus-xi-hero", "rog-strix-b365-f-gaming", "rog-strix-b365-g-gaming", "rog-strix-z390-e-gaming", "rog-strix-z390-f-gaming", "tuf-b365m-plus-gaming", "tuf-z390-plus-gaming", "b365-m-aorus-elite", "b365m-ds3h-wifi", "h310m-ds2", "h310m-h", "h310m-s2h", "z390-aorus-elite", "z390-aorus-master", "z390-aorus-pro", "z390-aorus-pro-wifi", "z390-aorus-ultra", "z390-aorus-xtreme", "z390-designare", "z390-m-gaming", "z390-ud", "b365m-pro-vdh", "b365m-pro-vh", "mag-b365m-mortar", "mag-z390-tomahawk", "mag-z390m-mortar", "meg-z390-ace", "meg-z390-godlike", "mpg-z390-gaming-edge-ac", "mpg-z390-gaming-plus", "mpg-z390-gaming-pro-carbon", "mpg-z390-gaming-pro-carbon-ac", "mpg-z390m-gaming-edge-ac"],
+		"name": "g5420"
+	},
+	"65": {
+		"brand": "Intel",
+		"socket": "LGA1200",
+		"cores": 2,
+		"base_clock": {
+			"cycles": 1867000000
+		},
+		"boost_clock": null,
+		"tdp": 10,
+		"integrated_graphics": "Intel HD Graphics",
+		"multithreading": false,
+		"price": 46800,
+		"imageurl": "processor/i7-10700f_2-250x250.jpg",
+		"motherboard": ["b460m-steel-legend", "h410m-hdv", "prime-b460-plus", "prime-b460m-a", "prime-h410m-d", "prime-h410m-e", "prime-h410m-k", "rog-maximus-xii-extreme", "rog-maximus-xii-formula", "rog-strix-z490-e-gaming", "rog-strix-z490-f-gaming", "tuf-gaming-b460-plus", "tuf-gaming-b460m-plus", "tuf-gaming-z490-plus", "b460-aorus-pro-ac", "b460m-aorus-pro", "b460m-d3h", "b460m-ds3h", "b460m-ds3h-ac", "b460m-gaming-hd", "h410m-s2", "h410m-s2h", "h470-aorus-pro-ax", "h470i-aorus-pro-ax", "h470m-ds3h", "z490-aorus-elite", "z490-aorus-elite-ac", "z490-aorus-pro-ax", "z490-aorus-ultra", "z490-ud", "z490-ud-ac", "z490m", "z490m-gaming-x", "b460m-pro-vdh", "b460m-pro-vdh-wifi", "b460m-a-pro", "h410m-pro-vh", "h410m-a-pro", "mag-b460-tomahawk", "mag-b460-torpedo", "mag-z490-tomahawk", "meg-z490-ace", "meg-z490-godlike", "meg-z490-unify", "meg-z490i-unify", "mpg-z490-gaming-carbon-wifi", "mpg-z490-gaming-edge-wifi", "mpg-z490-gaming-plus", "mpg-z490m-gaming-edge-wifi", "z490-a-pro"],
+		"name": "i7-10700f"
+	}
+}

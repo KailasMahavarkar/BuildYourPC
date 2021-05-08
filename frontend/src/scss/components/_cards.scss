@@ -1,0 +1,72 @@
+@import "./../variables.scss";
+
+.cards {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s ease-in-out;
+  border-radius: 20px;
+
+  &__header {
+    transition: all 0.5s ease;
+    overflow: hidden;
+  }
+  &__verticalText {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    letter-spacing: 1rem;
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+  }
+  &__zoom {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    width: 5vw;
+    height: 5vw;
+    background-color: #c5a47e;
+    border-radius: 50%;
+    backface-visibility: hidden;
+    opacity: 0;
+    transition: all 1s ease;
+
+    & img {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translateY(-50%) translateX(-50%);
+      height: 25%;
+      width: 25%;
+    }
+  }
+
+  &:hover {
+    background-color: transparent;
+  }
+  &:hover &__verticalText {
+    letter-spacing: 3rem;
+    opacity: 0;
+  }
+
+  &:hover &__zoom {
+    width: 6.5vw;
+    height: 6.5vw;
+    opacity: 1;
+  }
+
+  &:hover &__header {
+    transform: translateY(20%);
+    opacity: 0;
+  }
+}
+
+
+@mixin card($width, $height, $shadow){
+  width: $width;
+  height: $height;
+  box-shadow: shadow($shadow);
+}
+

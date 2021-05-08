@@ -1,0 +1,51 @@
+@import "./../variables.scss";
+
+.social {
+  position: absolute;
+  top: 30vh;
+  left: 0;
+  width: 100%;
+  height: 70vh;
+  overflow: hidden;
+
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-areas: "links blank blank blank blank blank blank blank blank blank";
+
+  &__display {
+    grid-area: links;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(10, 1fr);
+    grid-template-areas: "text" "text" "text" "text" "sep" "sep" "fb" "tw" "wh" "insta";
+    z-index: 100;
+
+    &--text {
+      grid-area: text;
+    }
+    &--seperator {
+      grid-area: sep;
+      background-color: #606060;
+      width: 1px;
+      margin: 15% auto;
+    }
+  }
+  &__blank {
+    background: transparent;
+    grid-area: blank;
+  }
+}
+
+.twitter {
+  grid-area: tw;
+}
+.instagram {
+  grid-area: insta;
+}
+.facebook {
+  grid-area: fb;
+}
+.whatsapp {
+  grid-area: wh;
+}

@@ -1,0 +1,1478 @@
+{
+	"0": {
+		"ram_serial": "CMT16GX4M2C3200C16",
+		"ram_name": "Corsair DOMINATOR PLATINUM\ufffd RGB 16GB (8GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 13500,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmt16gx4m2c3200c16-1-250x250.jpg"
+	},
+	"1": {
+		"ram_serial": "CMW32GX4M2C3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 32GB (16GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 14350,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw32gx4m2c3200c16-1-250x250.jpg"
+	},
+	"2": {
+		"ram_serial": "GP-ARS16G44",
+		"ram_name": "Gigabyte AORUS RGB 16GB (8GBx2) DDR4 4400MHz",
+		"price": 13500,
+		"ram_size": 8,
+		"ram_speed": 4400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/gp-ars16g44-1-250x250w.jpg"
+	},
+	"3": {
+		"ram_serial": "AX4U320038G16A-DR10",
+		"ram_name": "ADATA XPG GAMMIX D10 16GB (8GBX2) DDR4 3200MHz",
+		"price": 6250,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-dr10_1-250x250.jpg"
+	},
+	"4": {
+		"ram_serial": "AX4U3000316G16A-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 16GB (16GBX1) DDR4 3000MHz",
+		"price": 5050,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3000316g16a-sr30-1-250x250.jpg"
+	},
+	"5": {
+		"ram_serial": "AX4U3000716G16A-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 16GB (16GBX1) DDR4 3000MHz",
+		"price": 5900,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3000716g16a-sr30-1-250x250.jpg"
+	},
+	"6": {
+		"ram_serial": "AX4U3200716G16A-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 16GB (16GBX1) DDR4 3200MHz",
+		"price": 5600,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/d30-3200-4-250x250.jpg"
+	},
+	"7": {
+		"ram_serial": "AX4U3200316G16-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 16GB (16GBX1) DDR4 3200MHz",
+		"price": 4875,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3200316g16-sr30_1-250x250.jpg"
+	},
+	"8": {
+		"ram_serial": "AX4U320038G16-DR30",
+		"ram_name": "ADATA XPG GAMMIX D30 16GB (8GBX2) DDR4 3200MHz",
+		"price": 6750,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-dr30-3-250x250.jpg"
+	},
+	"9": {
+		"ram_serial": "AX4U320038G16A-DR30",
+		"ram_name": "ADATA XPG GAMMIX D30 16GB (8GBX2) DDR4 3200MHz",
+		"price": 5750,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16-dr30-1-250x250.jpg"
+	},
+	"10": {
+		"ram_serial": "AX4U360038G18A-DR30",
+		"ram_name": "ADATA XPG GAMMIX D30 16GB (8GBX2) DDR4 3600MHz",
+		"price": 7100,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u360038g18a-dr30-1-250x250.jpg"
+	},
+	"11": {
+		"ram_serial": "AX4U300088G16A-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 8GB (8GBX1) DDR4 3000MHz",
+		"price": 3550,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300088g16a-sr30-2-250x250.jpg"
+	},
+	"12": {
+		"ram_serial": "AX4U360038G18A-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 8GB (8GBX1) DDR4 3600MHz",
+		"price": 3700,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u360038g18a-sr30-2-250x250.jpg"
+	},
+	"13": {
+		"ram_serial": "AX4U300038G16A-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 DDR4 8GB (8GBX1) DDR4 3000MHz",
+		"price": 4250,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16a-sr30-1-250x250.jpg"
+	},
+	"14": {
+		"ram_serial": "AX4U320038G16A-SR30",
+		"ram_name": "ADATA XPG GAMMIX D30 RED 8GB (8GBX1) DDR4 3200MHz",
+		"price": 3450,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-sr30_1-250x250.jpg"
+	},
+	"15": {
+		"ram_serial": "AX4U3000316G16-SR40",
+		"ram_name": "ADATA XPG SPECTRIX D40 16GB (16GBX1) DDR4 RGB 3000MHz",
+		"price": 6844,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3000316g16-sr40-1-250x250.jpg"
+	},
+	"16": {
+		"ram_serial": "AX4U3200316G16-SR40",
+		"ram_name": "ADATA XPG SPECTRIX D40 16GB (16GBX1) DDR4 RGB 3200MHz",
+		"price": 5575,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3200316g16-sr40-1-250x250.jpg"
+	},
+	"17": {
+		"ram_serial": "AX4U360038G17-DR40",
+		"ram_name": "ADATA XPG SPECTRIX D40 16GB (8GBX2) DDR4 RGB 3600MHz",
+		"price": 10300,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u360038g17-dr40-1-250x250.jpg"
+	},
+	"18": {
+		"ram_serial": "AX4U300038G16-SRS",
+		"ram_name": "ADATA XPG SPECTRIX D40 8GB (8GBX1) DDR4 RGB 3000MHz",
+		"price": 8069,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16-srs-2-250x250.jpg"
+	},
+	"19": {
+		"ram_serial": "AX4U3000316G16-SR41",
+		"ram_name": "ADATA XPG SPECTRIX D41 16GB (16GBX1) DDR4 RGB 3000MHz",
+		"price": 10230,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3000316g16-sr41-4-250x250.jpg"
+	},
+	"20": {
+		"ram_serial": "AX4U3200316G16A-ST41",
+		"ram_name": "ADATA XPG SPECTRIX D41 16GB (16GBX1) DDR4 RGB 3200MHZ",
+		"price": 7350,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/AX4U3200316G16-SR41-1-250x250.jpg"
+	},
+	"21": {
+		"ram_serial": "AX4U3200316G16-SR41",
+		"ram_name": "ADATA XPG SPECTRIX D41 16GB (16GBX1) DDR4 RGB 3200MHz",
+		"price": 7700,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/d41-3200-8x2-1-250x250.jpg"
+	},
+	"22": {
+		"ram_serial": "AX4U300038G16-DR41",
+		"ram_name": "ADATA XPG SPECTRIX D41 16GB (8GBX2) DDR4 RGB 3000MHz",
+		"price": 6690,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16-dr41-2-250x250.jpg"
+	},
+	"23": {
+		"ram_serial": "AX4U300038G16A-DT41",
+		"ram_name": "ADATA XPG SPECTRIX D41 16GB (8GBX2) DDR4 RGB 3000MHz",
+		"price": 6990,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16a-dt41_2-250x250.jpg"
+	},
+	"24": {
+		"ram_serial": "AX4U300038G16-DT41",
+		"ram_name": "ADATA XPG SPECTRIX D41 16GB (8GBX2) DDR4 RGB 3000MHz",
+		"price": 7250,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16-dt41-1-250x250.jpg"
+	},
+	"25": {
+		"ram_serial": "AX4U320038G16-DR41",
+		"ram_name": "ADATA XPG SPECTRIX D41 16GB (8GBX2) DDR4 RGB 3200MHz",
+		"price": 12040,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16-dr41-1-250x250.jpg"
+	},
+	"26": {
+		"ram_serial": "AX4U300038G16-SR41",
+		"ram_name": "ADATA XPG SPECTRIX D41 8GB (8GBX1) DDR4 RGB 3000MHz",
+		"price": 2890,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16-sr41-1-250x250.jpg"
+	},
+	"27": {
+		"ram_serial": "AX4U320038G16-SR41",
+		"ram_name": "ADATA XPG SPECTRIX D41 8GB (8GBX1) DDR4 RGB 3200MHz",
+		"price": 3400,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16-sr41-1-250x250.jpg"
+	},
+	"28": {
+		"ram_serial": "AX4U360038G17-ST41",
+		"ram_name": "ADATA XPG SPECTRIX D41 8GB (8GBX1) DDR4 RGB 3600MHz",
+		"price": 6140,
+		"ram_size": 8,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u360038g17-st41-1-250x250.jpg"
+	},
+	"29": {
+		"ram_serial": "AX4U3000716G16A-ST50",
+		"ram_name": "ADATA XPG SPECTRIX D50 16GB (16GBX1) DDR4 RGB 3000MHz",
+		"price": 5840,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3000716g16a-st50_1-250x250.jpg"
+	},
+	"30": {
+		"ram_serial": "AX4U3200716G16A-ST50",
+		"ram_name": "ADATA XPG SPECTRIX D50 16GB (16GBX1) DDR4 RGB 3200MHz",
+		"price": 6500,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3200716g16a-st50_1-250x250.jpg"
+	},
+	"31": {
+		"ram_serial": "AX4U300038G16A-ST50",
+		"ram_name": "ADATA XPG SPECTRIX D50 8GB (8GBX1) DDR4 RGB 3000MHz",
+		"price": 3250,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16a-st50-1-250x250.jpg"
+	},
+	"32": {
+		"ram_serial": "AX4U320038G16A-ST50",
+		"ram_name": "ADATA XPG SPECTRIX D50 8GB (8GBX1) DDR4 RGB 3200MHz",
+		"price": 3450,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-st50-1-250x250.jpg"
+	},
+	"33": {
+		"ram_serial": "AX4U32008G16A-DT50",
+		"ram_name": "ADATA XPG SPECTRIX D50 RGB 16GB (8GBX2) DDR4 3200MHz",
+		"price": 8950,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u32008g16a-dt50-3-250x250.jpg"
+	},
+	"34": {
+		"ram_serial": "AX4U320088G16A-ST50",
+		"ram_name": "ADATA XPG SPECTRIX D50 RGB 8GB (8GBX1) DDR4 3200MHz",
+		"price": 4700,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320088g16a-st50-4-250x250.jpg"
+	},
+	"35": {
+		"ram_serial": "AX4U3000316G16A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (16GBX1) DDR4 RGB 3000MHz",
+		"price": 8400,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3000316g16a-st60-1-250x250.jpg"
+	},
+	"36": {
+		"ram_serial": "AX4U3200316G16A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (16GBX1) DDR4 RGB 3200MHz",
+		"price": 6650,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3200316g16a-st60-1-250x250.jpg"
+	},
+	"37": {
+		"ram_serial": "AX4U3600316G18A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (16GBX1) DDR4 RGB 3600MHz",
+		"price": 8500,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3600316g18a-st60_2-250x250.jpg"
+	},
+	"38": {
+		"ram_serial": "AX4U300038G16A-DT60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) DDR4 RGB 3000MHz",
+		"price": 6780,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16a-dt60-1-250x250.jpg"
+	},
+	"39": {
+		"ram_serial": "AX4U320038G16A-DT60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) DDR4 RGB 3200MHz",
+		"price": 6950,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16-dt60-1-250x250.jpg"
+	},
+	"40": {
+		"ram_serial": "AX4U320038G16-DT60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) DDR4 RGB 3200MHz",
+		"price": 7200,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-dt60-1-250x250.jpg"
+	},
+	"41": {
+		"ram_serial": "AX4U320038G16A-DW60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) DDR4 RGB 3200MHz - White",
+		"price": 7850,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-dw60_3-250x250.jpg"
+	},
+	"42": {
+		"ram_serial": "AX4U360038G17-DT60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) DDR4 RGB 3600MHz",
+		"price": 12700,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u360038g17-dt60-1-250x250.jpg"
+	},
+	"43": {
+		"ram_serial": "AX4U360038G18A-DT60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) DDR4 RGB 3600MHz",
+		"price": 10700,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u360038g18a-dt60-1-250x250.jpg"
+	},
+	"44": {
+		"ram_serial": "AX4U413338G19-DT60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) DDR4 RGB 4133MHz",
+		"price": 13499,
+		"ram_size": 16,
+		"ram_speed": 4133,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16-dt60_1-250x250.jpg"
+	},
+	"45": {
+		"ram_serial": "AX4U300038G16A-DW60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 16GB (8GBX2) RGB DDR4 3000MHz",
+		"price": 6675,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16a-dw60_4-250x250.jpg"
+	},
+	"46": {
+		"ram_serial": "AX4U300038G16A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 8GB (8GBX1) DDR4 RGB 3000MHz",
+		"price": 3275,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16a-st60-2-250x250.jpg"
+	},
+	"47": {
+		"ram_serial": "AX4U320038G16A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 8GB (8GBX1) DDR4 RGB 3200MHz",
+		"price": 4500,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-st60-2-250x250.jpg"
+	},
+	"48": {
+		"ram_serial": "AX4U360038G18A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G 8GB (8GBX1) DDR4 RGB 3600MHz",
+		"price": 4650,
+		"ram_size": 8,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u360038g18a-st60_1-250x250.jpg"
+	},
+	"49": {
+		"ram_serial": "AX4U3200716G16A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G RGB 16GB (16GBX1) DDR4 3200MHz",
+		"price": 7250,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u3200716g16a-st60-1-250x250.jpg"
+	},
+	"50": {
+		"ram_serial": "AX4U320088G16A-DT60",
+		"ram_name": "ADATA XPG SPECTRIX D60G RGB 16GB (8GBX2) DDR4 3200MHz",
+		"price": 9050,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320088g16a-dt60-1-250x250.jpg"
+	},
+	"51": {
+		"ram_serial": "AX4U320088G16A-ST60",
+		"ram_name": "ADATA XPG SPECTRIX D60G RGB 8GB (8GBX1) DDR4 3200MHz",
+		"price": 4990,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320088g16a-st60-1-250x250.jpg"
+	},
+	"52": {
+		"ram_serial": "AX4U300038G16-DB80",
+		"ram_name": "ADATA XPG SPECTRIX D80 16GB (8GBX2) DDR4 RGB 3000MHz",
+		"price": 7500,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u300038g16-db80-1-250x250.jpg"
+	},
+	"53": {
+		"ram_serial": "AX4U320038G16A-DB80",
+		"ram_name": "ADATA XPG SPECTRIX D80 16GB (8GBX2) DDR4 RGB 3200MHz",
+		"price": 7350,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u320038g16a-db80-1-250x250.jpg"
+	},
+	"54": {
+		"ram_serial": "AX4U240038G16-SRZ",
+		"ram_name": "ADATA XPG Z1 8GB (8GBX1) DDR4 2400MHz",
+		"price": 2920,
+		"ram_size": 8,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ax4u240038g16-srz_1-250x250.jpg"
+	},
+	"55": {
+		"ram_serial": "AM4U32168G11-7DKR",
+		"ram_name": "Antec KATANA 16GB (8GBX2) DDR4 3200MHz RGB Memory",
+		"price": 7600,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/am4u32168g11-7dkr-1-250x250.jpg"
+	},
+	"56": {
+		"ram_serial": "CMT16GX4M2C3000C15",
+		"ram_name": "Corsair DOMINATOR PLATINUM\ufffd RGB 16GB (8GBX2) DDR4 DRAM 3000MHz C15 Memory Kit - Black",
+		"price": 13550,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmt16gx4m2c3000c15-1-250x250.jpg"
+	},
+	"57": {
+		"ram_serial": "CMT16GX4M2Z3200C16",
+		"ram_name": "Corsair DOMINATOR PLATINUM\ufffd RGB 16GB (8GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 11700,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmt16gx4m2z3200c16-2-250x250.jpg"
+	},
+	"58": {
+		"ram_serial": "CMT32GX4M2C3000C15",
+		"ram_name": "Corsair DOMINATOR PLATINUM\ufffd RGB 32GB (16GBX2) DDR4 DRAM 3000MHz C15 Memory Kit - Black",
+		"price": 19500,
+		"ram_size": 32,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmt32gx4m2c3000c15-1-250x250.jpg"
+	},
+	"59": {
+		"ram_serial": "CMT32GX4M2C3200C16",
+		"ram_name": "Corsair DOMINATOR PLATINUM\ufffd RGB 32GB (16GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 17370,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmt32gx4m2c3200c16-1-250x250.jpg"
+	},
+	"60": {
+		"ram_serial": "CMV4GX3M1C1600C11",
+		"ram_name": "Corsair Value Select 4GB (4GBX1) DDR3L 1600MHz Memory",
+		"price": 2000,
+		"ram_size": 4,
+		"ram_speed": 1600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmv4gx3m1c1600c11_1-250x250.jpg"
+	},
+	"61": {
+		"ram_serial": "CMK64GX4M2D3600C18",
+		"ram_name": "Corsair VENGEANCE LPX 64GB (32GBX2) DDR4 DRAM 3600MHz C18 Memory Kit - Black",
+		"price": 24600,
+		"ram_size": 64,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk64gx4m2d3600c18_1-250x250.jpg"
+	},
+	"62": {
+		"ram_serial": "CMW16GX4M1Z3600C18",
+		"ram_name": "Corsair VENGEANCE RGB PRO 16GB (16GBX1) DDR4 DRAM 3600MHz C18 Memory Kit",
+		"price": 8150,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m1z3600c18_1-250x250.jpg"
+	},
+	"63": {
+		"ram_serial": "CMW16GX4M2Z3600C18",
+		"ram_name": "Corsair Vengeance RGB PRO 16GB (8GBX2) DDR4 DRAM 3600MHz C18 Memory Kit - Black",
+		"price": 8595,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2z3600c18-1-250x250.jpg"
+	},
+	"64": {
+		"ram_serial": "CMW8GX4M1Z3200C16",
+		"ram_name": "Corsair VENGEANCE RGB PRO 8GB (8GBX1) DDR4 DRAM 3200MHz C16 Memory Kit",
+		"price": 5300,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw8gx4m1z3200c16-1-250x250.jpg"
+	},
+	"65": {
+		"ram_serial": "CMW8GX4M1Z3600C18",
+		"ram_name": "Corsair VENGEANCE RGB PRO 8GB (8GBX1) DDR4 DRAM 3600MHz C18 Memory Kit",
+		"price": 5540,
+		"ram_size": 8,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw8gx4m1z3600c18_4-250x250.jpg"
+	},
+	"66": {
+		"ram_serial": "CMH16GX4M2D3600C18",
+		"ram_name": "Corsair VENGEANCE RGB PRO SL 16GB (8GBX2) DDR4 DRAM 3600MHz C18 Memory Kit \ufffd Black",
+		"price": 9300,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmh16gx4m2d3600c18-1-250x250.jpg"
+	},
+	"67": {
+		"ram_serial": "CMH32GX4M2E3200C16",
+		"ram_name": "Corsair VENGEANCE RGB PRO SL 32GB (16GBX2) DDR4 DRAM 3200MHz C16 Memory Kit \ufffd Black",
+		"price": 15100,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmh32gx4m2e3200c16_2-250x250.jpg"
+	},
+	"68": {
+		"ram_serial": "CMH32GX4M2Z3600C18",
+		"ram_name": "Corsair VENGEANCE RGB PRO SL 32GB (16GBX2) DDR4 DRAM 3600MHz C18 Memory Kit \ufffd Black",
+		"price": 16200,
+		"ram_size": 32,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmh32gx4m2z3600c18_3-250x250.jpg"
+	},
+	"69": {
+		"ram_serial": "CMZ4GX3M1A1600C9",
+		"ram_name": "Corsair VENGEANCE\ufffd 4GB (4GBX1) DDR3 1600MHz Memory",
+		"price": 2350,
+		"ram_size": 4,
+		"ram_speed": 1600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmz4gx3m1a1600c9-1-250x250.jpg"
+	},
+	"70": {
+		"ram_serial": "CMZ8GX3M1A1600C10",
+		"ram_name": "Corsair VENGEANCE\ufffd 8GB (8GBX1) DDR3 1600MHz Memory",
+		"price": 3500,
+		"ram_size": 8,
+		"ram_speed": 1600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmz8gx3m1a1600c10-1-250x250.jpg"
+	},
+	"71": {
+		"ram_serial": "CMK16GX4M1A2400C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (16GBX1) DDR4 DRAM 2400MHz C16 Memory Kit - Black",
+		"price": 7600,
+		"ram_size": 16,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m1a2400c16-1-250x250.jpg"
+	},
+	"72": {
+		"ram_serial": "CMK16GX4M1B3000C15",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (16GBX1) DDR4 DRAM 3000MHz C15 Memory Kit - Black",
+		"price": 12100,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m1b3000c15-1-250x250.jpg"
+	},
+	"73": {
+		"ram_serial": "CMK16GX4M1D3000C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (16GBX1) DDR4 DRAM 3000MHz C16 Memory Kit - Black",
+		"price": 8050,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m1d3000c16-1-250x250.jpg"
+	},
+	"74": {
+		"ram_serial": "CMK16GX4M1E3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (16GBX1) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 8450,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m1e3200c16-1-250x250.jpg"
+	},
+	"75": {
+		"ram_serial": "CMK16GX4M1Z3600C18",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (16GBX1) DDR4 DRAM 3600MHz C18 Memory Kit - Black",
+		"price": 7900,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m1z3600c18_2-250x250.jpg"
+	},
+	"76": {
+		"ram_serial": "CMK16GX4M2D3000C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (8GB X2) DDR4 DRAM 3000 MHz C16 Memory Kit - Black",
+		"price": 6500,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/CMK16GX4M2D3000C16_1-250x250.jpg"
+	},
+	"77": {
+		"ram_serial": "CMK16GX4M2Z3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (8GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 7050,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m2z3200c16-1-250x250.jpg"
+	},
+	"78": {
+		"ram_serial": "CMK16GX4M2Z3600C18",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (8GBX2) DDR4 DRAM 3600MHz C18 Memory Kit - Black",
+		"price": 7475,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m2z3600c18-1-250x250.jpg"
+	},
+	"79": {
+		"ram_serial": "CMK16GX4M2D3600C18",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (8GBX2) DDR4 DRAM 3600MHz Memory Kit - Black",
+		"price": 8100,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m2d3600c18-1-250x250.jpg"
+	},
+	"80": {
+		"ram_serial": "CMK16GX4M2K4000C19",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 16GB (8GBX2) DDR4 DRAM 4000MHz C19 Memory Kit - Black",
+		"price": 11500,
+		"ram_size": 16,
+		"ram_speed": 4000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk16gx4m2k4000c19-1-250x250.jpg"
+	},
+	"81": {
+		"ram_serial": "CMK32GX4M2D3000C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 32GB (16GBX2) DDR4 DRAM 3000MHz C16 Memory Kit - Black",
+		"price": 10400,
+		"ram_size": 32,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk32gx4m2d3000c16-1-250x250.jpg"
+	},
+	"82": {
+		"ram_serial": "CMK32GX4M2D3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 32GB (16GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 11900,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk32gx4m2d3200c16-1-250x250.jpg"
+	},
+	"83": {
+		"ram_serial": "CMK32GX4M2D3600C18",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 32GB (16GBX2) DDR4 DRAM 3600MHz C18 Memory Kit - Black",
+		"price": 13150,
+		"ram_size": 32,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk32gx4m2d3600c18-1-250x250.jpg"
+	},
+	"84": {
+		"ram_serial": "CMK4GX4M1A2400C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 4GB (4GBX1) DDR4 DRAM 2400MHz C16 Memory Kit - Black",
+		"price": 2400,
+		"ram_size": 4,
+		"ram_speed": 3400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk4gx4m1a2400c16-4-250x250.jpg"
+	},
+	"85": {
+		"ram_serial": "CMK8GX4M1A2400C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 8GB (8GBX1) DDR4 DRAM 2400MHz C16 Memory Kit - Black",
+		"price": 4150,
+		"ram_size": 8,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk8g4m1a2400c16-4-250x250.jpg"
+	},
+	"86": {
+		"ram_serial": "CMK8GX4M1A2400C16R",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 8GB (8GBX1) DDR4 DRAM 2400MHz C16 Memory Kit - Red",
+		"price": 3050,
+		"ram_size": 8,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk8gx4m1a2400c16-1-250x250.jpg"
+	},
+	"87": {
+		"ram_serial": "CMK8GX4M1D3000C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 8GB (8GBX1) DDR4 DRAM 3000MHz C16 Memory Kit - Black",
+		"price": 4550,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk8gx4m1d3000c16-1-250x250.jpg"
+	},
+	"88": {
+		"ram_serial": "CMK8GX4M1E3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 8GB (8GBX1) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 4650,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk8gx4m1e3200c16-2-250x250.jpg"
+	},
+	"89": {
+		"ram_serial": "CMK8GX4M1Z3600C18",
+		"ram_name": "Corsair VENGEANCE\ufffd LPX 8GB (8GBX1) DDR4 DRAM 3600MHz C18 Memory Kit - Black",
+		"price": 4550,
+		"ram_size": 8,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmk8gx4m1z3600c18_1-250x250.jpg"
+	},
+	"90": {
+		"ram_serial": "CMR16GX4M2C3000C16W",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB 16GB (8GBX2) DDR4 DRAM 3000MHz C16 Memory Kit - White",
+		"price": 14500,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmr16gx4m2c3000c16w-1-250x250.jpg"
+	},
+	"91": {
+		"ram_serial": "CMW16GX4M1D3000C16",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (16GBX1) DDR4 DRAM 3000MHz C16 Memory Kit - Black",
+		"price": 6950,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m1d3000c16-1-250x250.jpg"
+	},
+	"92": {
+		"ram_serial": "CMW16GX4M1Z3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (16GBX1) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 5800,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m1z3200c16_2-250x250.jpg"
+	},
+	"93": {
+		"ram_serial": "CMW16GX4M2C3000C15",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3000MHz C15 Memory Kit - Black",
+		"price": 15950,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2c3000c15-1-250x250.jpg"
+	},
+	"94": {
+		"ram_serial": "CMW16GX4M2C3000C15W",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3000MHz C15 Memory Kit - White",
+		"price": 7975,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2c3000c15w-3-250x250.jpg"
+	},
+	"95": {
+		"ram_serial": "CMW16GX4M2C3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3200MHz C16 Memory - Black",
+		"price": 9500,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2c3200c16-1-250x250.jpg"
+	},
+	"96": {
+		"ram_serial": "CMW16GX4M2Z3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 11800,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2z3200c16-1-250x250.jpg"
+	},
+	"97": {
+		"ram_serial": "CMW16GX4M2C3200C16W",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - White",
+		"price": 9650,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2c3200c16w-1-250x250.jpg"
+	},
+	"98": {
+		"ram_serial": "CMW16GX4M2C3600C18",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3600MHz C18 Memory - Black",
+		"price": 14500,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2c3600c18-4-250x250.jpg"
+	},
+	"99": {
+		"ram_serial": "CMW16GX4M2D3600C18W",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3600MHz C18 Memory - White",
+		"price": 11500,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2d3600c18w-1-250x250.jpg"
+	},
+	"100": {
+		"ram_serial": "CMW16GX4M2C3600C18W",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 16GB (8GBX2) DDR4 DRAM 3600MHz C18 Memory Kit - White",
+		"price": 10950,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw16gx4m2c3600c18w-1-250x250.jpg"
+	},
+	"101": {
+		"ram_serial": "CMW32GX4M2C3000C15W",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 32GB (16GBX2) DDR4 DRAM 3000MHz C15 Memory Kit - White",
+		"price": 13500,
+		"ram_size": 32,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw32gx4m2c3000c15w-1-250x250.jpg"
+	},
+	"102": {
+		"ram_serial": "CMW32GX4M2Z3200C16",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 32GB (16GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - Black",
+		"price": 12900,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw32gx4m2z3200c16-1-250x250.jpg"
+	},
+	"103": {
+		"ram_serial": "CMW32GX4M2C3200C16W",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 32GB (16GBX2) DDR4 DRAM 3200MHz C16 Memory Kit - White",
+		"price": 14140,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw32gx4m2c3200c16w-1-250x250.jpg"
+	},
+	"104": {
+		"ram_serial": "CMW32GX4M2D3600C18",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 32GB (16GBX2) DDR4 DRAM 3600MHz C18 Memory Kit -Black",
+		"price": 16400,
+		"ram_size": 32,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw32gx4m2d3600c18_1-250x250.jpg"
+	},
+	"105": {
+		"ram_serial": "CMW8GX4M1D3000C16",
+		"ram_name": "Corsair VENGEANCE\ufffd RGB PRO 8GB (8GBX1) DDR4 DRAM 3000MHz C16 Memory Kit - Black",
+		"price": 4050,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/cmw8gx4m1d3000c16--250x250.jpg"
+	},
+	"106": {
+		"ram_serial": "F4-3200C16D-16GFX",
+		"ram_name": "G.Skill FLARE X 16GB (8GBX2) DDR4 3200MHz Memory",
+		"price": 6350,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-16gfx-1-250x250.jpg"
+	},
+	"107": {
+		"ram_serial": "F4-2400C15S-16GVR",
+		"ram_name": "G.Skill RIPJAWS V 16GB (16GBX1) DDR4 2400MHz Memory",
+		"price": 4850,
+		"ram_size": 16,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-2400c15s-16gvr-1-250x250.jpg"
+	},
+	"108": {
+		"ram_serial": "F4-3000C16S-16GVRB",
+		"ram_name": "G.Skill RIPJAWS V 16GB (16GBX1) DDR4 3000MHz Memory",
+		"price": 4999,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16s-16gvrb-1-250x250.jpg"
+	},
+	"109": {
+		"ram_serial": "F4-3200C16S-16GVK",
+		"ram_name": "G.Skill RIPJAWS V 16GB (16GBX1) DDR4 3200MHz Memory",
+		"price": 6400,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16s-16gvk-1-250x250.jpg"
+	},
+	"110": {
+		"ram_serial": "F4-3600C19S-16GVRB",
+		"ram_name": "G.Skill RIPJAWS V 16GB (16GBX1) DDR4 3600MHz Memory",
+		"price": 8700,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c19s-16gvrb_1-250x250.jpg"
+	},
+	"111": {
+		"ram_serial": "F4-3200C16D-16GVKB",
+		"ram_name": "G.Skill RIPJAWS V 16GB (8GBX2) DDR4 3200MHz Memory",
+		"price": 6400,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-16gvkb-1-250x250.jpg"
+	},
+	"112": {
+		"ram_serial": "F4-3600C18D-16GVK",
+		"ram_name": "G.Skill RIPJAWS V 16GB (8GBX2) DDR4 3600MHz Memory",
+		"price": 6150,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c18d-16gvk-1-250x250.jpg"
+	},
+	"113": {
+		"ram_serial": "F4-4000C18D-16GVK",
+		"ram_name": "G.Skill RIPJAWS V 16GB (8GBX2) DDR4 4000MHz Memory",
+		"price": 10250,
+		"ram_size": 16,
+		"ram_speed": 4000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-4000c18d-16gvk_4-250x250.jpg"
+	},
+	"114": {
+		"ram_serial": "F4-3200C16S-32GVK",
+		"ram_name": "G.Skill RIPJAWS V 32GB (32GBX1) DDR4 3200MHz Memory",
+		"price": 12500,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/ripjaws-32-x-1-3200-2-250x250w.jpg"
+	},
+	"115": {
+		"ram_serial": "F4-2400C17S-8GVR",
+		"ram_name": "G.Skill RIPJAWS V 8GB (8GBX1) DDR4 2400MHz Memory",
+		"price": 2650,
+		"ram_size": 8,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-2400c17s-8gvr-1-250x250.jpg"
+	},
+	"116": {
+		"ram_serial": "F4-3000C16S-8GVRB",
+		"ram_name": "G.Skill RIPJAWS V 8GB (8GBX1) DDR4 3000MHz Memory",
+		"price": 4250,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16s-8gvrb-1-250x250.jpg"
+	},
+	"117": {
+		"ram_serial": "F4-3600C19S-8GVRB",
+		"ram_name": "G.Skill RIPJAWS V 8GB (8GBX1) DDR4 3600MHz Memory",
+		"price": 3350,
+		"ram_size": 8,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c19s-8gvrb-1-250x250.jpg"
+	},
+	"118": {
+		"ram_serial": "F3-12800CL9S-4GBXL",
+		"ram_name": "G.Skill RIPJAWS X 4GB (4GBX1) DDR3 1600MHz Memory",
+		"price": 2850,
+		"ram_size": 4,
+		"ram_speed": 1600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f3-12800cl9s-4gbxl-1-250x250.jpg"
+	},
+	"119": {
+		"ram_serial": "F4-3000C16S-16GTZR",
+		"ram_name": "G.Skill TRIDENT Z 16GB (16GBX1) DDR4 3000MHz RGB Memory",
+		"price": 8050,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16s-16gtzr-1-250x250.jpg"
+	},
+	"120": {
+		"ram_serial": "F4-3200C16S-16GTZR",
+		"ram_name": "G.Skill TRIDENT Z 16GB (16GBX1) DDR4 3200MHz RGB Memory",
+		"price": 9050,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16s-16gtzr-1-250x250.jpg"
+	},
+	"121": {
+		"ram_serial": "F4-3600C17D-16GTZR",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) 3600MHz DDR4 RGB Memory",
+		"price": 14440,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c17d-16gtzr-1-250x250.jpg"
+	},
+	"122": {
+		"ram_serial": "F4-3000C16D-16GTZR",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 3000MHz RGB Memory",
+		"price": 9450,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16d-16gtzr-1-250x250.jpg"
+	},
+	"123": {
+		"ram_serial": "F4-3200C16D-16GTZR",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 3200MHz RGB Memory",
+		"price": 9950,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-16gtzr-1-250x250.jpg"
+	},
+	"124": {
+		"ram_serial": "F4-3200C16D-16GTZRX",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 3200MHz RGB Memory (For AMD)",
+		"price": 11400,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-16gtzrx-1-250x250.jpg"
+	},
+	"125": {
+		"ram_serial": "F4-3600C16D-16GTZRC",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 3600MHz RGB Memory",
+		"price": 12100,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c16d-16gtzrc-1-250x250.jpg"
+	},
+	"126": {
+		"ram_serial": "F4-3600C18D-16GTZRX",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 3600MHz RGB Memory (For AMD)",
+		"price": 22500,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c18d-16gtzrx-1-250x250.jpg"
+	},
+	"127": {
+		"ram_serial": "F4-4133C19D-16GTZKW",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 4133MHz RGB Memory",
+		"price": 14500,
+		"ram_size": 16,
+		"ram_speed": 4133,
+		"ram_type": "ddr4",
+		"imageurl": "ram/trident-z-8gbx2-4133-1-250x250w.jpg"
+	},
+	"128": {
+		"ram_serial": "F4-4266C19D-16GTZR",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 4266MHz RGB Memory",
+		"price": 19500,
+		"ram_size": 16,
+		"ram_speed": 4266,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-4266c19d-16gtzr_1-250x250.jpg"
+	},
+	"129": {
+		"ram_serial": "F4-3600C19D-16GTZRB",
+		"ram_name": "G.Skill TRIDENT Z 16GB (8GBX2) DDR4 RGB 3600MHz Memory",
+		"price": 12700,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c19d-16gtzrb-1-250x250.jpg"
+	},
+	"130": {
+		"ram_serial": "F4-3200C16D-32GTZR",
+		"ram_name": "G.Skill TRIDENT Z 32GB (16GBX2) 3200MHz DDR4 RGB Memory",
+		"price": 17500,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-32gtzr-1-250x250.jpg"
+	},
+	"131": {
+		"ram_serial": "F4-3000C14D-32GTZR",
+		"ram_name": "G.Skill TRIDENT Z 32GB (16GBX2) DDR4 3000MHz RGB Memory",
+		"price": 28600,
+		"ram_size": 32,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c14d-32gtzr-1-250x250.jpg"
+	},
+	"132": {
+		"ram_serial": "F4-3200C15D-32GTZR",
+		"ram_name": "G.Skill TRIDENT Z 32GB (16GBX2) DDR4 3200MHz RGB Memory",
+		"price": 34650,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c15d-32gtzr-1-250x250.jpg"
+	},
+	"133": {
+		"ram_serial": "F4-3000C16S-8GTZR",
+		"ram_name": "G.Skill TRIDENT Z 8GB (8GBX1) DDR4 3000MHz RGB Memory",
+		"price": 5100,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16s-8gtzr-1-250x250.jpg"
+	},
+	"134": {
+		"ram_serial": "F4-3200C16S-8GTZR",
+		"ram_name": "G.Skill TRIDENT Z 8GB (8GBX1) DDR4 3200MHz RGB Memory",
+		"price": 5300,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16s-8gtzr-1-250x250.jpg"
+	},
+	"135": {
+		"ram_serial": "F4-3600C16D-16GTZRC",
+		"ram_name": "G.Skill TRIDENT Z NEO 16GB (8GBX2) 3600MHz DDR4 RGB Memory",
+		"price": 13500,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c16d-16gtznc-1-250x250.jpg"
+	},
+	"136": {
+		"ram_serial": "F4-3000C16D-16GTZN",
+		"ram_name": "G.Skill TRIDENT Z NEO 16GB (8GBX2) DDR4 3000MHz RGB Memory",
+		"price": 8850,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16d-16gtzn-1-250x250.jpg"
+	},
+	"137": {
+		"ram_serial": "F4-3200C16D-16GTZN",
+		"ram_name": "G.Skill TRIDENT Z NEO 16GB (8GBX2) DDR4 3200MHz RGB Memory",
+		"price": 10900,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-16gtzn-1-250x250.jpg"
+	},
+	"138": {
+		"ram_serial": "F4-3600C18D-16GTZN",
+		"ram_name": "G.Skill TRIDENT Z NEO 16GB (8GBX2) DDR4 3600MHz RGB Memory",
+		"price": 12300,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c18d-16gtzn-1-250x250.jpg"
+	},
+	"139": {
+		"ram_serial": "F4-3600C16D-16GTZNC",
+		"ram_name": "G.Skill TRIDENT Z Neo 16GB (8GBX2) DDR4 3600MHz RGB Memory - F4-3600C16D-16GTZNC",
+		"price": 13600,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c16d-16gtznc-1-250x250.jpg"
+	},
+	"140": {
+		"ram_serial": "F4-3600C16D-32GTZNC",
+		"ram_name": "G.Skill TRIDENT Z NEO 32GB (16GBX2) 3600MHz DDR4 RGB Memory",
+		"price": 17450,
+		"ram_size": 32,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c16d-32gtznc-1-250x250.jpg"
+	},
+	"141": {
+		"ram_serial": "F4-3000C16D-32GTZN",
+		"ram_name": "G.Skill TRIDENT Z NEO 32GB (16GBX2) DDR4 3000MHz RGB Memory",
+		"price": 14500,
+		"ram_size": 32,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16d-32gtzn-1-250x250.jpg"
+	},
+	"142": {
+		"ram_serial": "F4-3200C16D-32GTZN",
+		"ram_name": "G.Skill TRIDENT Z NEO 32GB (16GBX2) DDR4 3200MHz RGB Memory",
+		"price": 17400,
+		"ram_size": 32,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-32gtzn-1-250x250.jpg"
+	},
+	"143": {
+		"ram_serial": "F4-3600C18D-32GTZN",
+		"ram_name": "G.Skill TRIDENT Z NEO 32GB (16GBX2) DDR4 3600MHz RGB Memory",
+		"price": 19760,
+		"ram_size": 32,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c18d-32gtzn-1-250x250.jpg"
+	},
+	"144": {
+		"ram_serial": "F4-3000C16D-16GTRG",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) 3000MHz DDR4 RGB Memory",
+		"price": 10500,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16d-16gtrg-1-250x250.jpg"
+	},
+	"145": {
+		"ram_serial": "F4-3600C18D-16GTRG",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) 3600MHz DDR4 RGB Memory",
+		"price": 19400,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c18d-16gtrg-1-250x250.jpg"
+	},
+	"146": {
+		"ram_serial": "F4-3600C16D-16GTRSC",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) 3600MHz RGB DDR4 Memory",
+		"price": 14000,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c16d-16gtrsc-1-250x250.jpg"
+	},
+	"147": {
+		"ram_serial": "F4-4266C19D-16GTRG",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) 4266MHz DDR4 RGB Memory",
+		"price": 28550,
+		"ram_size": 16,
+		"ram_speed": 4266,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-4266c19d-16gtrg-1-250x250.jpg"
+	},
+	"148": {
+		"ram_serial": "F4-3000C16D-16GTRS",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) DDR4 3000MHz RGB Memory",
+		"price": 10700,
+		"ram_size": 16,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3000c16d-16gtrs-1-250x250.jpg"
+	},
+	"149": {
+		"ram_serial": "F4-3200C16D-16GTRG",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) DDR4 3200MHz RGB Memory",
+		"price": 11100,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-16gtrg-1-250x250.jpg"
+	},
+	"150": {
+		"ram_serial": "F4-3200C16D-16GTRS",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) DDR4 3200MHz RGB Memory",
+		"price": 11600,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3200c16d-16gtrs-1-250x250.jpg"
+	},
+	"151": {
+		"ram_serial": "F4-3600C18D-16GTRS",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) DDR4 3600MHz RGB Memory",
+		"price": 19400,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c18d-16gtrs-1-250x250.jpg"
+	},
+	"152": {
+		"ram_serial": "F4-4266C19D-16GTRS",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) DDR4 4266MHz RGB Memory",
+		"price": 28550,
+		"ram_size": 16,
+		"ram_speed": 4266,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-4266c19d-16gtrs-1-250x250.jpg"
+	},
+	"153": {
+		"ram_serial": "F4-3600C16D-16GTRGC",
+		"ram_name": "G.Skill TRIDENT Z ROYAL 16GB (8GBX2) DDR4 RGB 3600MHz Memory",
+		"price": 13500,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/f4-3600c16d-16gtrgc_4-250x250.jpg"
+	},
+	"154": {
+		"ram_serial": "GP-AR32C16S8K2HU416R",
+		"ram_name": "Gigabyte AORUS RGB 16GB (8GBX2) DDR4 3200MHz",
+		"price": 9250,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/gp-ar32c16s8k2hu416r-1-250x250w.jpg"
+	},
+	"155": {
+		"ram_serial": "GP-AR32C16S8K2SU416R",
+		"ram_name": "Gigabyte AORUS RGB 16GB (8GBX2) DDR4 3200MHz Memory",
+		"price": 14999,
+		"ram_size": 16,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/gp-ar32c16s8k2su416r-1-250x250.jpg"
+	},
+	"156": {
+		"ram_serial": "GP-AR36C18S8K2HU416R",
+		"ram_name": "Gigabyte AORUS RGB 16GB (8GBX2) DDR4 3600MHz",
+		"price": 10900,
+		"ram_size": 16,
+		"ram_speed": 3600,
+		"ram_type": "ddr4",
+		"imageurl": "ram/gp-ar36c18s8k2hu416r-1-250x250w.jpg"
+	},
+	"157": {
+		"ram_serial": "HX424C15FB/4",
+		"ram_name": "HyperX Fury 4GB (4GBX1) DDR4 2400MHz",
+		"price": 3880,
+		"ram_size": 4,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/hx424c15fb-4-1-250x250.jpg"
+	},
+	"158": {
+		"ram_serial": "HX424C15FB/8",
+		"ram_name": "HyperX Fury 8GB (8GBX1) DDR4 2400MHz",
+		"price": 6980,
+		"ram_size": 8,
+		"ram_speed": 2400,
+		"ram_type": "ddr4",
+		"imageurl": "ram/hx424c15fb-8-1-250x250.jpg"
+	},
+	"159": {
+		"ram_serial": "HX426C16FB3/8",
+		"ram_name": "HyperX FURY 8GB (8GBX1) DDR4 2666MHz",
+		"price": 2650,
+		"ram_size": 8,
+		"ram_speed": 2666,
+		"ram_type": "ddr4",
+		"imageurl": "ram/hx426c16fb3-8_3-250x250.jpeg"
+	},
+	"160": {
+		"ram_serial": "HX430C15FB3/8",
+		"ram_name": "HyperX FURY 8GB (8GBX1) DDR4 3000MHz",
+		"price": 3010,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/hx430c15fb3-8 _1-250x250.jpg"
+	},
+	"161": {
+		"ram_serial": "HX432C16FB3/8",
+		"ram_name": "HyperX Fury 8GB (8GBX1) DDR4 3200MHz",
+		"price": 4050,
+		"ram_size": 8,
+		"ram_speed": 3200,
+		"ram_type": "ddr4",
+		"imageurl": "ram/hx432c16fb3-8_1-250x250.jpg"
+	},
+	"162": {
+		"ram_serial": "HX430C15PB3/8",
+		"ram_name": "HyperX Predator 8GB (8GBX1) DDR4 3000MHz",
+		"price": 3700,
+		"ram_size": 8,
+		"ram_speed": 3000,
+		"ram_type": "ddr4",
+		"imageurl": "ram/hx430c15pb3-8-1-250x250.jpg"
+	},
+	"163": {
+		"ram_serial": "KVR1333D3N9/4G",
+		"ram_name": "Kingston 4GB (4GBX1) DDR3 1333MHz",
+		"price": 2475,
+		"ram_size": 4,
+		"ram_speed": 1333,
+		"ram_type": "ddr4",
+		"imageurl": "ram/kvr1333d3n9-4g-1-250x250.jpg"
+	}
+}

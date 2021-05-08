@@ -1,0 +1,31 @@
+@import "./../variables.scss";
+
+.prebuiltpc {
+  background: url("../../img/preBuiltPc.jpg");
+  // background-color: whitesmoke;
+  background-size: cover;
+
+  &__inner {
+    background-color: $white;
+    height: 100%;
+    padding: 2rem;
+  }
+  &__pc {
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-around;
+    gap: 10px;
+
+    &--pc {
+      text-align: center;
+      // height: 10rem;
+      background-color: rgb(255, 255, 255);
+      color: rgb(0, 0, 0);
+    }
+  }
+
+  &--image {
+    height: 7rem;
+  }
+}

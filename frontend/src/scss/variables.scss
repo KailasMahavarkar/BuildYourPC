@@ -1,0 +1,22 @@
+$blue: #105A80;
+$primary: $blue;
+
+
+$white: #ECF0F3;
+$purewhite: #fff;
+$secondary: $white;
+
+
+$red: #E86C71;
+$ternary: $red;
+
+$space: #153A51;
+$matter: #ECF0F3;
+
+
+$violet: rgb(185, 0, 139);
+
+
+@function shadow($base) {
+	@return 1.13884px 3.41652px 7.97188px rgba(0, 0, 0, $base);
+}

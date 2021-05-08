@@ -1,0 +1,162 @@
+@import "./../variables.scss";
+
+.modal {
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  padding: 10rem;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  transition: all 0.3s;
+  @supports (-webkit-backdrop-filter: blur(10px)) or
+    (backdrop-filter: blur(10px)) {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  &__content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    min-height: 50%;
+    background-color: $blue;
+    box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+    border-radius: 3rem;
+    animation: popup 0.5s 0.2s ease forwards;
+    padding-left: 4rem;
+    padding-bottom: 2rem;
+
+    display: grid;
+    grid-template-columns: 0.9fr 0.1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "header close"
+      "details ."
+      "button2 .";
+    &--header {
+      grid-area: header;
+      align-self: center;
+    }
+
+    
+    &--login {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto;
+      gap: 10px;
+      grid-template-areas:
+        "f1 f2"
+        "f3 f4"
+        "f5 f5";
+      &__button {
+        grid-area: f5;
+        align-self: center;
+        justify-self: center;
+      }
+      &__lable1 {
+        grid-area: f1;
+        align-self: center;
+        justify-self: center;
+      }
+      &__lable2 {
+        grid-area: f3;
+        align-self: center;
+        justify-self: center;
+      }
+      &__input1 {
+        grid-area: f2;
+        align-self: center;
+        justify-self: center;
+      }
+      &__input2 {
+        grid-area: f4;
+        align-self: center;
+        justify-self: center;
+      }
+
+      & input {
+        outline: none;
+        background-color:$white;
+        border: none;
+        border-radius: 5rem;
+        padding: 0.5rem;
+        color: $red;
+        padding: 1rem;
+        font-size: 1rem;
+        font-weight: bold;
+      }
+      & label {
+        font-weight: 600;
+      }
+    }
+    &--register {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: auto;
+      gap: 10px;
+      letter-spacing: 0.1rem;
+
+      & input {
+        outline: none;
+        background-color:$white;
+        border: none;
+        border-radius: 5rem;
+        padding: 0.5rem;
+        color: $red;
+      }
+      & label {
+        font-weight: 600;
+      }
+    }
+
+    &--text {
+      grid-area: details;
+      justify-self: center;
+      align-self: flex-start;
+      overflow-y: scroll;
+      scrollbar-width: none;
+      &::-webkit-scrollbar {
+        display: none;
+      }
+      -moz-hyphens: auto;
+      -ms-hyphens: auto;
+      -webkit-hyphens: auto;
+      hyphens: auto;
+    }
+
+    &--button {
+      grid-area: button2;
+      text-align: center;
+
+      & button {
+        font-size: 1rem;
+        font-weight: 600;
+        background: #E86C71;
+        outline: none;
+        border: none;
+        padding: 1rem;
+        margin: 1rem;
+        border-radius: 5px;
+    
+      }
+    }
+    &--close {
+      grid-area: close;
+      align-self: flex-start;
+      justify-self: center;
+      color: rgb(100, 100, 100);
+      text-decoration: none;
+      display: inline-block;
+      transition: all 0.2s ease;
+      font-size: 3rem;
+
+      &:hover {
+        color: $red;
+      }
+    }
+  }
+}

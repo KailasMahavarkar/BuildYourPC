@@ -1,0 +1,302 @@
+{
+	"0": {
+		"name": "MSI MPG GUNGNIR 100P Gaming Cabinet",
+		"serial": "MPG GUNGNIR 100P",
+		"price": 6440,
+		"imageurl": "cabinet/mpg-gungnir-100p-1-250x250.jpg"
+	},
+	"1": {
+		"name": "Deepcool MATREXX 55 MESH ADD-RGB 4F Black",
+		"serial": "DP-ATX-MATREXX55-MESH-AR-4F",
+		"price": 5300,
+		"imageurl": "cabinet/dp-atx-matrexx55-mesh-ar-4f-1-250x250.jpg"
+	},
+	"2": {
+		"name": "Deepcool Gamerstorm MACUBE 550 White",
+		"serial": "GS-ATX-MACUBE550-WHG0P",
+		"price": 8300,
+		"imageurl": "cabinet/gs-atx-macube550-whg0p-1-250x250.jpg"
+	},
+	"3": {
+		"name": "Deepcool Gamerstorm MACUBE 310P Black",
+		"serial": "GS-ATX-MACUBE310P-BKG0P",
+		"price": 5600,
+		"imageurl": "cabinet/gs-atx-macube310p-bkg0p-1-250x250.jpg"
+	},
+	"4": {
+		"name": "Corsair Crystal Series 570X RGB Compact ATX Mid-Tower",
+		"serial": "CC-9011098-WW",
+		"price": 14470,
+		"imageurl": "cabinet/cc-9011098-ww-1-250x250.jpg"
+	},
+	"5": {
+		"name": "Corsair Carbide Series SPEC-01 RGB Mid-Tower Gaming Case With Controller- Black",
+		"serial": "CC-9011203-SPT",
+		"price": 4700,
+		"imageurl": "cabinet/cc-9011203-spt_1-250x250.jpg"
+	},
+	"6": {
+		"name": "Corsair 275R Airflow Tempered Glass Mid-Tower Gaming Case - White",
+		"serial": "CC-9011182-WW",
+		"price": 7300,
+		"imageurl": "cabinet/cc-9011182-ww-1-250x250.jpg"
+	},
+	"7": {
+		"name": "COOLER MASTER MID TOWER K380 (BLACK)",
+		"serial": "RC-K380-KWN1",
+		"price": 2900,
+		"imageurl": "cabinet/rc-k380-kwn1-1-250x250.jpg"
+	},
+	"8": {
+		"name": "Cooler Master MasterCase Sl600M Mid-Tower (Atx)",
+		"serial": "MCM-SL600M-SGNN-S00",
+		"price": 19600,
+		"imageurl": "cabinet/mcm-sl600m-sgnn-s00-1-250x250.jpg"
+	},
+	"9": {
+		"name": "Cooler Master MasterCase H500P Mid Tower (E-Atx) With Tempered Glass Side Panel",
+		"serial": "MCM-H500P-MGNN-S00",
+		"price": 13841,
+		"imageurl": "cabinet/mcm-h500p-mgnn-s00-1-250x250.jpg"
+	},
+	"10": {
+		"name": "Cooler Master MasterCase H500M Mid-Tower (E-Atx) With Tempered Glass Side Panel (Iron Grey)",
+		"serial": "MCM-H500M-IHNN-S00",
+		"price": 17900,
+		"imageurl": "cabinet/mcm-h500m-ihnn-s00-1-250x250.jpg"
+	},
+	"11": {
+		"name": "Cooler Master MasterCase H500 ARGB Mid Tower Tempered Glass Side Panel",
+		"serial": "MCM-H500-IGNN-S01",
+		"price": 9600,
+		"imageurl": "cabinet/mcm-h500-ignn-s01-1-250x250.jpg"
+	},
+	"12": {
+		"name": "Cooler Master MasterBox TD500 Mesh",
+		"serial": "MCB-D500D-KGNN-S01",
+		"price": 7600,
+		"imageurl": "cabinet/mcb-d500d-kgnn-s01-1-250x250.jpg"
+	},
+	"13": {
+		"name": "Cooler Master MasterBox Q300L",
+		"serial": "MCB-Q300L-KANN-S00",
+		"price": 3800,
+		"imageurl": "cabinet/mcb-q300l-kann-s00-1-250x250.jpg"
+	},
+	"14": {
+		"name": "Cooler Master MasterBox MB311L ARGB Transparent Side Panel Black",
+		"serial": "MCB-B311L-KGNN-S02",
+		"price": 5500,
+		"imageurl": "cabinet/mcb-b311l-kgnn-s02-1-250x250.jpg"
+	},
+	"15": {
+		"name": "Cooler Master MasterBox CM694 Tempered Glass Mid-Tower (Black)",
+		"serial": "MCB-CM694-KG5N-S00 (TG)",
+		"price": 10700,
+		"imageurl": "cabinet/mcb-cm694-kg5n-s00 (tg)-1-250x250.jpg"
+	},
+	"16": {
+		"name": "Cooler Master MasterBox 5 Mid Tower With Transparent Side Panel White",
+		"serial": "MCX-B5S2-WWNN-01",
+		"price": 6500,
+		"imageurl": "cabinet/mcx-b5s2-wwnn-01-1-250x250.jpg"
+	},
+	"17": {
+		"name": "Cooler Master MasteCase H500P Mesh Mid-Tower (E-ATX) With Tempered Glass Side Panel (Black)",
+		"serial": "MCM-H500P-MGNN-S10",
+		"price": 13841,
+		"imageurl": "cabinet/mcm-h500p-mgnn-s10-1-250x250.jpg"
+	},
+	"18": {
+		"name": "Cooler Master MasteCase H500P Mesh ARGB Mid-Tower (E-Atx) With Tempered Glass (Gun Metal Grey)",
+		"serial": "MCM-H500P-MGNN-S11",
+		"price": 13900,
+		"imageurl": "cabinet/mcm-h500p-mgnn-s11_1-250x250.jpg"
+	},
+	"19": {
+		"name": "Cooler Master HAF XB EVO With ATX Top Panel - Mesh Version",
+		"serial": "RC-902XB-KKN2",
+		"price": 9250,
+		"imageurl": "cabinet/rc-902xb-kkn2-1-250x250.jpg"
+	},
+	"20": {
+		"name": "Cooler Master COSMOS C700P Ultra Tower (E-Atx) With Tempered Glass Side Panel",
+		"serial": "MCC-C700P-MG5N-S00",
+		"price": 26300,
+		"imageurl": "cabinet/mcc-c700p-mg5n-s00-1-250x250.jpg"
+	},
+	"21": {
+		"name": "Antec P82 FLOW Transcendent Performance Mid Tower Cabinet",
+		"serial": "P82 FLOW",
+		"price": 5360,
+		"imageurl": "cabinet/p82-flow_1-250x250.jpg"
+	},
+	"22": {
+		"name": "Antec P120 Crystal (Black)",
+		"serial": "P120 CRYSTAL",
+		"price": 8970,
+		"imageurl": "cabinet/p120-crystal-1-250x250.jpg"
+	},
+	"23": {
+		"name": "Antec P101 Silent Mid Tower Cabinet",
+		"serial": "P101 Silent",
+		"price": 7500,
+		"imageurl": "cabinet/p101-silent-1-250x250.jpg"
+	},
+	"24": {
+		"name": "Antec NX800 NX Series Mid Tower Gaming Cabinet - White",
+		"serial": "NX800 (White)",
+		"price": 7300,
+		"imageurl": "cabinet/nx800-white-1-250x250.jpg"
+	},
+	"25": {
+		"name": "Antec NX600 NX Series Mid Tower Gaming Cabinet",
+		"serial": "NX600",
+		"price": 5200,
+		"imageurl": "cabinet/nx600-1-250x250.jpg"
+	},
+	"26": {
+		"name": "Antec NX310 NX Series Mid Tower Gaming Cabinet",
+		"serial": "NX310",
+		"price": 3600,
+		"imageurl": "cabinet/nx310-1-250x250.jpg"
+	},
+	"27": {
+		"name": "Antec NX230 NX Series Mid Tower Gaming Cabinet",
+		"serial": "NX230",
+		"price": 3225,
+		"imageurl": "cabinet/nx230_1-250x250.jpg"
+	},
+	"28": {
+		"name": "Antec NX210 NX Series Mid Tower Gaming Cabinet",
+		"serial": "NX210",
+		"price": 3425,
+		"imageurl": "cabinet/nx210-1-250x250.jpg"
+	},
+	"29": {
+		"name": "Antec GX202 Mid Tower Cabinet",
+		"serial": "GX202",
+		"price": 3300,
+		"imageurl": "cabinet/gx202-1-250x250.jpg"
+	},
+	"30": {
+		"name": "Antec DF700 FLUX Gaming Mid-Tower Transparent Side Panel",
+		"serial": "DF700 FLUX",
+		"price": 6700,
+		"imageurl": "cabinet/df700-flux_1-250x250.jpg"
+	},
+	"31": {
+		"name": "Antec DF600 FLUX Gaming Mid-Tower Transparent Side Panel",
+		"serial": "DF600 FLUX",
+		"price": 5950,
+		"imageurl": "cabinet/df600-flux-1-250x250.jpg"
+	},
+	"32": {
+		"name": "Antec DF500 RGB Gaming Mid-Tower With RGB Lighting Cabinet",
+		"serial": "DF500 RGB",
+		"price": 4790,
+		"imageurl": "cabinet/df500-rgb-1-250x250.jpg"
+	},
+	"33": {
+		"name": "Cooler Master MasterBox MB511 RGB",
+		"serial": "MCB-B511D-KGNN-RGB",
+		"price": 6550,
+		"imageurl": "cabinet/mcb-b511d-kgnn-rgb-1-250x250.jpg"
+	},
+	"34": {
+		"name": "Zebronics Zeb-Ironside Mid -Tower Cabinet",
+		"serial": "ZEB-872B IRON SIDE",
+		"price": 4600,
+		"imageurl": "cabinet/zeb-872b-iron-side_1-250x250.jpg"
+	},
+	"35": {
+		"name": "Zebronics Typhoon Mid-Tower Cabinet",
+		"serial": "TYPHOON",
+		"price": 7250,
+		"imageurl": "cabinet/typhoon-2-250x250.jpg"
+	},
+	"36": {
+		"name": "Zebronics Templar Mid -Tower Cabinet",
+		"serial": "ZEB-941B-TEMPLAR",
+		"price": 6300,
+		"imageurl": "cabinet/zeb-941b-templar_1-250x250.jpg"
+	},
+	"37": {
+		"name": "Zebronics Helius Full-Tower Cabinet",
+		"serial": "HELIUS",
+		"price": 7700,
+		"imageurl": "cabinet/helius-1-250x250.jpg"
+	},
+	"38": {
+		"name": "NZXT H710 Mid-Tower With Tempered Glass Matte White",
+		"serial": "CA-H710B-W1",
+		"price": 13300,
+		"imageurl": "cabinet/ca-h710b-w1_1-250x250.jpg"
+	},
+	"39": {
+		"name": "NZXT H700i CAM-powered Premium Mid-Tower Case - Red",
+		"serial": "CA-H700W-BR",
+		"price": 16528,
+		"imageurl": "cabinet/ca-h700w-br-1-250x250.jpg"
+	},
+	"40": {
+		"name": "NZXT H700i CAM-powered Premium Mid-Tower Case - Black",
+		"serial": "CA-H700W-BB",
+		"price": 16528,
+		"imageurl": "cabinet/ca-h700w-bb-1-250x250.jpg"
+	},
+	"41": {
+		"name": "NZXT H700 Mid-Tower Case with Tempered Glass - Red",
+		"serial": "CA-H700B-BR",
+		"price": 12115,
+		"imageurl": "cabinet/ca-h700b-br-1-250x250.jpg"
+	},
+	"42": {
+		"name": "NZXT H510 Elite Compact Mid-Tower Case with Tempered Glass - Matte Black",
+		"serial": "CA-H510E-B1",
+		"price": 13900,
+		"imageurl": "cabinet/ca-h510e-b1_2-250x250.jpg"
+	},
+	"43": {
+		"name": "NZXT H510 Compact Mid-Tower Case with Tempered Glass - Black & White",
+		"serial": "CA-H510B-W1",
+		"price": 6650,
+		"imageurl": "cabinet/ca-h510b-w1-1-250x250.jpg"
+	},
+	"44": {
+		"name": "NZXT H510 Compact Mid-Tower Case with Tempered Glass - Black & Red",
+		"serial": "CA-H510B-BR",
+		"price": 6650,
+		"imageurl": "cabinet/ca-h510b-br-1-250x250.jpg"
+	},
+	"45": {
+		"name": "NZXT H510 Compact Mid-Tower Case with Tempered Glass - Black",
+		"serial": "CA-H510B-B1",
+		"price": 6650,
+		"imageurl": "cabinet/ca-h510b-b1-2-250x250.jpg"
+	},
+	"46": {
+		"name": "NZXT H510 Alliance ATX Case with Tempered Glass \u00e2\u20ac\u201c Blue",
+		"serial": "CA-H510B-WA",
+		"price": 18000,
+		"imageurl": "cabinet/ca-h510b-wa-1-250x250.jpg"
+	},
+	"47": {
+		"name": "NZXT H500i Compact Mid-Tower with Lighting and Fan Control Case - Black",
+		"serial": "CA-H500W-B1",
+		"price": 8844,
+		"imageurl": "cabinet/ca-h500w-b1-1-250x250.jpg"
+	},
+	"48": {
+		"name": "NZXT H500 Compact Mid-Tower Case with Tempered Glass - Red",
+		"serial": "CA-H500B-BR",
+		"price": 7212,
+		"imageurl": "cabinet/ca-h500b-br-1-250x250.jpg"
+	},
+	"49": {
+		"name": "NZXT H500 Compact Mid-Tower Case with Tempered Glass - Black",
+		"serial": "CA-H500B-B1",
+		"price": 7212,
+		"imageurl": "cabinet/ca-h500b-b1-1-250x250.jpg"
+	}
+}

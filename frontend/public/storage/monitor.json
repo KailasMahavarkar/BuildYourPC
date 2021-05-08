@@ -1,0 +1,450 @@
+{
+	"0": {
+		"serial": "PB287Q",
+		"name": "Asus PB287Q Gaming Monitor",
+		"price": 30399,
+		"imageurl": "monitor/pb287q-1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"1": {
+		"serial": "PA329Q",
+		"name": "Asus ProArt PA329Q Professional Monitor",
+		"price": 105900,
+		"imageurl": "monitor/pa329q-1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"2": {
+		"serial": "EL2870U",
+		"name": "BenQ 28 Inch 4K HDR 1ms Gaming Monitor with Eye-care B.I. Plus Sensor EL2870U",
+		"price": 22900,
+		"imageurl": "monitor/el2870u-1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"3": {
+		"serial": "EW3270U",
+		"name": "BenQ EW3270U Video Enjoyment Monitor with Eye-care Technology",
+		"price": 34140,
+		"imageurl": "monitor/ew3270u-1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"4": {
+		"serial": "24UD58",
+		"name": "LG 16:9 4K FreeSync IPS Monitor",
+		"price": 23250,
+		"imageurl": "monitor/24ud58-1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"5": {
+		"serial": "27GN950-B",
+		"name": "LG 27GN950-B 27 Inch UHD IPS Gaming Monitor",
+		"price": 59990,
+		"imageurl": "monitor/27gn950-b_1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"6": {
+		"serial": "27UK650",
+		"name": "LG 27UK650-W 27\" 16:9 4K HDR FreeSync IPS Monitor",
+		"price": 34350,
+		"imageurl": "monitor/27uk650-1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"7": {
+		"serial": "LU28E590DS/XL",
+		"name": "Samsung 70.8cm (28) UHD Monitor with Sophisticated Design",
+		"price": 25500,
+		"imageurl": "monitor/lu28e590ds-xl-1-250x250.jpg",
+		"type": "4K",
+		"resolution": "3840 x 2160"
+	},
+	"8": {
+		"serial": "KG241Q-S",
+		"name": "Acer KG241QS 23.6 Inch FHD 165 Hz Gaming Monitor",
+		"price": 13999,
+		"imageurl": "monitor/kg241q-s_6-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"9": {
+		"serial": "UM-QV0SS-P01",
+		"name": "Acer NITRO VG0 VG240YP 23.8 Inch FHD Monitor",
+		"price": 14100,
+		"imageurl": "monitor/um-qv0ss-p01_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"10": {
+		"serial": "UM.HV0SS.P03",
+		"name": "Acer NITRO VG0 VG270 27 Inch",
+		"price": 17800,
+		"imageurl": "monitor/um-hv0ss-p03-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"11": {
+		"serial": "UM.QV0SS.S01",
+		"name": "Acer VG240Y 165Hz 24 Inch Gaming Monitor",
+		"price": 13000,
+		"imageurl": "monitor/um-qv0ss-s01-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"12": {
+		"serial": "BE229QLB",
+		"name": "Asus BE229QLB Business Monitor",
+		"price": 11000,
+		"imageurl": "monitor/be229qlb-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"13": {
+		"serial": "MX259H",
+		"name": "Asus Designo MX259H Monitor",
+		"price": 21190,
+		"imageurl": "monitor/mx259h-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"14": {
+		"serial": "XG248Q",
+		"name": "Asus ROG Strix XG248Q Gaming Monitor",
+		"price": 38999,
+		"imageurl": "monitor/xg248q-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"15": {
+		"serial": "XG27VQ",
+		"name": "Asus ROG Strix XG27VQ Curved Gaming Monitor",
+		"price": 32400,
+		"imageurl": "monitor/xg27vq-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"16": {
+		"serial": "PG258Q",
+		"name": "Asus ROG Swift PG258Q Gaming Monitor",
+		"price": 52520,
+		"imageurl": "monitor/pg258q-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"17": {
+		"serial": "TUF GAMING VG259Q",
+		"name": "Asus Tuf Gaming VG259Q 24.5 inch Gaming Monitor",
+		"price": 21900,
+		"imageurl": "monitor/vg259q_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"18": {
+		"serial": "VA326H",
+		"name": "Asus VA326H Gaming Monitor",
+		"price": 35790,
+		"imageurl": "monitor/va326h-1-250x250h.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"19": {
+		"serial": "VG248QE",
+		"name": "Asus VG248QE Gaming Monitor",
+		"price": 19600,
+		"imageurl": "monitor/vg248qe-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"20": {
+		"serial": "VG258QR",
+		"name": "Asus VG258QR Gaming Monitor",
+		"price": 25900,
+		"imageurl": "monitor/vg258qr-1-250x250h.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"21": {
+		"serial": "VG278QR",
+		"name": "Asus VG278QR Gaming Monitor",
+		"price": 30500,
+		"imageurl": "monitor/vg278qr-1-250x250h.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"22": {
+		"serial": "VP228H",
+		"name": "Asus VP228H Gaming Monitor",
+		"price": 8800,
+		"imageurl": "monitor/vp228h-1-250x250h.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"23": {
+		"serial": "VZ229H",
+		"name": "Asus VZ229H Eye Care Monitor",
+		"price": 9250,
+		"imageurl": "monitor/vz229h-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"24": {
+		"serial": "VZ249H",
+		"name": "Asus VZ249H Ultra-low Blue Light Monitor",
+		"price": 12190,
+		"imageurl": "monitor/vz249h-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"25": {
+		"serial": "GW2283",
+		"name": "BenQ 21.5-inch Eye-care Stylish IPS Monitor GW2283",
+		"price": 8400,
+		"imageurl": "monitor/gw2283-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"26": {
+		"serial": "GW2780",
+		"name": "BenQ 27 Inch 1080P Eye-care Technology Stylish Monitor GW2780",
+		"price": 13300,
+		"imageurl": "monitor/gw2780-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"27": {
+		"serial": "EW2780",
+		"name": "BenQ EW2780 Entertainment Monitor with Eye-care Technology",
+		"price": 17050,
+		"imageurl": "monitor/ew2780-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"28": {
+		"serial": "EX2510",
+		"name": "BenQ MOBIUZ EX2510 1ms IPS 144Hz Gaming Monitor",
+		"price": 19500,
+		"imageurl": "monitor/ex2510-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"29": {
+		"serial": "GW2480",
+		"name": "BenQ Stylish Monitor with 23.8 inch, 1080p, Eye-care Technology | GW2480",
+		"price": 9550,
+		"imageurl": "monitor/gw2480-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"30": {
+		"serial": "RL2455S",
+		"name": "BenQ ZOWIE RL2455S 24 inch e-Sports Monitor-Officially Licensed for PS4\u00e2\u201e\u00a2",
+		"price": 11350,
+		"imageurl": "monitor/rl2455s_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"31": {
+		"serial": "RL2755",
+		"name": "BenQ ZOWIE RL2755 27 inch 1ms Console e-Sports Gaming Monitor",
+		"price": 16850,
+		"imageurl": "monitor/rl2755_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"32": {
+		"serial": "RL2755T",
+		"name": "BenQ ZOWIE RL2755T 27 inch e-Sports Monitor",
+		"price": 16900,
+		"imageurl": "monitor/rl2755t-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"33": {
+		"serial": "XL2411P",
+		"name": "BenQ ZOWIE XL2411P 144Hz 24 inch e-Sports Monitor",
+		"price": 16150,
+		"imageurl": "monitor/xl2411p-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"34": {
+		"serial": "XL2546",
+		"name": "BenQ ZOWIE XL2546 240Hz DyAc\u00e2\u201e\u00a2 24.5 inch e-Sports Monitor",
+		"price": 33500,
+		"imageurl": "monitor/xl2546-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"35": {
+		"serial": "XL2720",
+		"name": "BenQ ZOWIE XL2720 144Hz 27 inch e-Sports Monitor",
+		"price": 25399,
+		"imageurl": "monitor/xl2720_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"36": {
+		"serial": "XL2731",
+		"name": "BenQ ZOWIE XL2731 144Hz 27 inch e-Sports Monitor",
+		"price": 25900,
+		"imageurl": "monitor/xl2731-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"37": {
+		"serial": "AW2518H",
+		"name": "Dell Alienware 24.5 Inch AW2518H Full HD LED Gaming Monitor",
+		"price": 49750,
+		"imageurl": "monitor/aw2518h-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"38": {
+		"serial": "AW2518HF",
+		"name": "Dell Alienware 24.5 Inch AW2518HF Full HD LED Gaming Monitor",
+		"price": 36100,
+		"imageurl": "monitor/aw2518hf-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"39": {
+		"serial": "CV27F",
+		"name": "Gigabyte AORUS CV27F Gaming Monitor",
+		"price": 23000,
+		"imageurl": "monitor/cv27f-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"40": {
+		"serial": "G27F",
+		"name": "Gigabyte G27F Gaming Monitor",
+		"price": 17500,
+		"imageurl": "monitor/g27f_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"41": {
+		"serial": "G27FC",
+		"name": "Gigabyte G27FC Gaming Monitor",
+		"price": 16999,
+		"imageurl": "monitor/g27fc_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"42": {
+		"serial": "3WL50AA#ABU",
+		"name": "HP 25x Full-HD 24.5 Inch Gaming Monitor",
+		"price": 18400,
+		"imageurl": "monitor/3wl50aa-hash-abu-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"43": {
+		"serial": "22MK600M",
+		"name": "LG 22MK600M 21.5 Inch FHD IPS Gaming Monitor",
+		"price": 8700,
+		"imageurl": "monitor/22mk600m-1-250x250w.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"44": {
+		"serial": "24MP59G-PATR",
+		"name": "LG 24 inch Gaming Monitor - 24MP59G",
+		"price": 9400,
+		"imageurl": "monitor/24mp59g-patr-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"45": {
+		"serial": "24GM79G-B.ATR",
+		"name": "LG 24GM79G 24 Inch Black HDMI Display USB 3.0 Gaming Monitor",
+		"price": 18800,
+		"imageurl": "monitor/24gm79g-b.atr-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"46": {
+		"serial": "24MK600M",
+		"name": "LG 24MK600M 23.8 Inch FHD IPS Gaming Monitor",
+		"price": 11600,
+		"imageurl": "monitor/24mk600m_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"47": {
+		"serial": "24MP88HV-S.ATR",
+		"name": "LG 24MP88HV-S 24-Inch IPS Monitor with Infinity Display 2.5mm Bezel",
+		"price": 15630,
+		"imageurl": "monitor/24mp88hv-s.atr-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"48": {
+		"serial": "27GK750F-B",
+		"name": "LG 27GK750F-B 27 Inch FHD LED Gaming Monitor",
+		"price": 28899,
+		"imageurl": "monitor/27gk750f-b-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"49": {
+		"serial": "27GL650F-B",
+		"name": "LG 27GL650F-B 27 Inch FHD IPS Gaming Monitor",
+		"price": 22200,
+		"imageurl": "monitor/27gl650f-b_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"50": {
+		"serial": "27MP59G-PATR",
+		"name": "LG 27MP59G-P 27 Inch Full HD IPS LED Gaming Monitor",
+		"price": 16290,
+		"imageurl": "monitor/27mp59g-patr-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"51": {
+		"serial": "24GL600F-B",
+		"name": "LG UltraGear 24GL600F-B 24 Inch Full HD Gaming Monitor",
+		"price": 14150,
+		"imageurl": "monitor/24gl600f-b-1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"52": {
+		"serial": "OPTIX G241",
+		"name": "MSI Optix G241 24 Inch Monitor",
+		"price": 16000,
+		"imageurl": "monitor/optix-g241-1-250x250w.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"53": {
+		"serial": "Optix G242",
+		"name": "MSI Optix G242 23.8 Inch Monitor",
+		"price": 17900,
+		"imageurl": "monitor/optix-g242_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"54": {
+		"serial": "OPTIX-G24C4",
+		"name": "MSI Optix G24C4 23.6 Inch Monitor",
+		"price": 16890,
+		"imageurl": "monitor/optix-g24c4_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	},
+	"55": {
+		"serial": "Optix G271",
+		"name": "MSI Optix G271 27 Inch Gaming Monitor",
+		"price": 20974,
+		"imageurl": "monitor/optix-g271_1-250x250.jpg",
+		"type": "FHD",
+		"resolution": "1920 x 1080"
+	}
+}

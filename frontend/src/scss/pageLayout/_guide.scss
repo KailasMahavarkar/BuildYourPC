@@ -1,0 +1,29 @@
+@import "./../variables.scss";
+
+.guide_left {
+  text-align: right;
+  width: 50%;
+  & img {
+    margin-right: 1rem;
+
+    height: 70%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+.guide_right {
+  text-align: left;
+  width: 50%;
+  & p {
+    margin-left: 1rem;
+    width: 60%;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+.guideBlock {
+  display: flex;
+}

@@ -1,0 +1,2818 @@
+{
+	"0": {
+		"name": "Asus GeForce RTX 2070 SUPER Dual EVO Advanced 8GB GDDR6",
+		"serial": "DUAL-RTX2070S-A8G-EVO",
+		"price": 53600,
+		"imageurl": "gpu/dual-rtx2070s-a8g-evo-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"1": {
+		"name": "INNO3D GeForce GTX 1660 SUPER TWIN X2 6GB GDDR6",
+		"serial": "N166S2-06D6-1712VA15L",
+		"price": 27500,
+		"imageurl": "gpu/n166s2-06d6-1712va15l-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"2": {
+		"name": "INNO3D GeForce GTX 1660 Ti Twin X2 6GB GDDR6",
+		"serial": "N166TK-06D6",
+		"price": 40500,
+		"imageurl": "gpu/n166t2-06d6-1710va15-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"3": {
+		"name": "INNO3D GeForce RTX 2060 Twin X2 6GB GDDR6",
+		"serial": "N20602-06D6-1710VA15L",
+		"price": 35150,
+		"imageurl": "gpu/n20602-06d6-1710va15l-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"4": {
+		"name": "INNO3D GeForce RTX 2080 SUPER ICHILL X3 ULTRA 8GB GDDR6",
+		"serial": "C208S3-08D6X-1780VA26",
+		"price": 62899,
+		"imageurl": "gpu/2080-super-ichill-x3-ultra-1-250x250w.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"5": {
+		"name": "SAPPHIRE PULSE Radeon RX 5500 XT 8GB GDDR6",
+		"serial": "11295-01-20G",
+		"price": 19999,
+		"imageurl": "gpu/11295-01-20g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"6": {
+		"name": "SAPPHIRE PULSE Radeon RX 5600 XT BE 6GB GDDR6",
+		"serial": "11296-05-20G",
+		"price": 28500,
+		"imageurl": "gpu/rx-5600-xt-be-6g-1-250x250w.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"7": {
+		"name": "SAPPHIRE PULSE Radeon RX 5700 XT BE 8GB GDDR6",
+		"serial": "11293-09-20G",
+		"price": 56750,
+		"imageurl": "gpu/rx-5700-xt-be-8g-1-250x250h.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"8": {
+		"name": "SAPPHIRE PULSE Radeon RX 580 8GB OC Lite GDDR5",
+		"serial": "11265-67-20G",
+		"price": 35900,
+		"imageurl": "gpu/11265-67-20g_1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"9": {
+		"name": "ZOTAC GAMING GeForce GTX 1650 SUPER Twin Fan 4GB GDDR6",
+		"serial": "ZT-T16510F-10L",
+		"price": 14650,
+		"imageurl": "gpu/zt-t16510f-10l-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"10": {
+		"name": "ZOTAC GAMING GeForce RTX 2060 SUPER MINI 8GB GDDR6",
+		"serial": "ZT-T20610E-10M",
+		"price": 47500,
+		"imageurl": "gpu/zt-t20610e-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"11": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 SUPER MINI 8GB GDDR6",
+		"serial": "ZT-T20710E-10M",
+		"price": 42499,
+		"imageurl": "gpu/zt-t20710e-10m_7-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"12": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 Ti Arctic Storm 11GB GDDR6",
+		"serial": "ZT-T20810K-30P",
+		"price": 99900,
+		"imageurl": "gpu/zt-t20810k-30p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"13": {
+		"name": "ASRock AMD Radeon RX 580 Phantom Gaming D OC 8GB GDDR5",
+		"serial": "90-GA0M20-00IANF",
+		"price": 27700,
+		"imageurl": "gpu/90-ga0m20-00ianf_1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"14": {
+		"name": "Asus AMD Radeon RX 550 AREZ Phoenix 2GB GDDR5",
+		"serial": "AREZ-PH-RX550-2G",
+		"price": 6750,
+		"imageurl": "gpu/arez-ph-rx550-2g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"15": {
+		"name": "Asus AMD Radeon RX 550 Phoenix 2GB GDDR5",
+		"serial": "PH-550-2G",
+		"price": 6300,
+		"imageurl": "gpu/ph-550-2g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"16": {
+		"name": "Asus AMD Radeon RX 550 Phoenix EVO 4GB GDDR5",
+		"serial": "PH-RX550-4G-EVO",
+		"price": 8490,
+		"imageurl": "gpu/ph-rx550-4g-evo_1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"17": {
+		"name": "Asus AMD Radeon RX 560 OC 4GB GDDR5",
+		"serial": "RX560-O4G",
+		"price": 11075,
+		"imageurl": "gpu/rx560-o4g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"18": {
+		"name": "Asus AMD Radeon RX 570 ROG Strix 4GB GDDR5",
+		"serial": "ROG-STRIX-RX570-4G-GAMING",
+		"price": 15500,
+		"imageurl": "gpu/rog-strix-rx570-4g-gaming-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"19": {
+		"name": "Asus AMD Radeon RX 570 ROG Strix OC 8GB GDDR5",
+		"serial": "ROG-STRIX-RX570-O8G-GAMING",
+		"price": 20999,
+		"imageurl": "gpu/rog-strix-rx570-o8g-gaming-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"20": {
+		"name": "Asus AMD Radeon RX 580 Dual 4GB GDDR5",
+		"serial": "DUAL-RX580-4G",
+		"price": 20975,
+		"imageurl": "gpu/dual-rx580-4g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"21": {
+		"name": "Asus AMD Radeon RX 580 Dual OC 4GB GDDR5",
+		"serial": "DUAL-RX580-O4G",
+		"price": 22999,
+		"imageurl": "gpu/dual-rx580-o4g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"22": {
+		"name": "Asus AMD Radeon RX 580 Dual OC 8GB GDDR5",
+		"serial": "DUAL-RX580-O8G",
+		"price": 24990,
+		"imageurl": "gpu/dual-rx580-o8g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"23": {
+		"name": "Asus GeForce Dual RTX 3060 OC 12GB GDDR6",
+		"serial": "DUAL-RTX3060-O12G",
+		"price": 58900,
+		"imageurl": "gpu/dual-rtx3060-o12g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"24": {
+		"name": "Asus GeForce DUAL RTX 3070 8GB GDDR6",
+		"serial": "DUAL-RTX3070-8G",
+		"price": 61500,
+		"imageurl": "gpu/dual-rtx3070-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"25": {
+		"name": "Asus GeForce GT 1030 2GB GDDR5",
+		"serial": "GT1030-SL-2G-BRK",
+		"price": 7300,
+		"imageurl": "gpu/gt1030-sl-2g-brk_1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"26": {
+		"name": "Asus GeForce GT 1030 OC Phoenix 2GB GDDR5",
+		"serial": "PH-GT1030-O2G",
+		"price": 7270,
+		"imageurl": "gpu/ph-gt1030-o2g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"27": {
+		"name": "Asus GeForce GT 710 2GB GDDR3",
+		"serial": "710-2-SL-BRK",
+		"price": 2870,
+		"imageurl": "gpu/710-2-sl-brk-1-250x250.jpg",
+		"generation": "gddr3",
+		"storage": 2
+	},
+	"28": {
+		"name": "Asus GeForce GT 710 2GB GDDR5",
+		"serial": "GT710-SL-2GD5",
+		"price": 3700,
+		"imageurl": "gpu/gt710-sl-2gd5-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"29": {
+		"name": "Asus GeForce GTX 1050 OC Dual V2 2GB GDDR5",
+		"serial": "DUAL-GTX1050-O2G-V2",
+		"price": 10500,
+		"imageurl": "gpu/dual-gtx1050-o2g-v2-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"30": {
+		"name": "Asus GeForce GTX 1050 Ti OC Cerberus 4GB GDDR5",
+		"serial": "CERBERUS-GTX1050TI-O4G",
+		"price": 20500,
+		"imageurl": "gpu/cerberus-gtx1050ti-o4g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"31": {
+		"name": "Asus GeForce GTX 1050 Ti OC Low Profile 4GB GDDR5",
+		"serial": "GTX1050TI-O4G-LP-BRK",
+		"price": 9900,
+		"imageurl": "gpu/gtx1050ti-o4g-lp-brk-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"32": {
+		"name": "Asus GeForce GTX 1650 Dual MINI OC 4GB GDDR6",
+		"serial": "DUAL-GTX1650-O4GD6-MINI",
+		"price": 14700,
+		"imageurl": "gpu/dual-gtx1650-o4gd6-mini_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"33": {
+		"name": "Asus GeForce GTX 1650 Dual OC 4GB GDDR5",
+		"serial": "DUAL-GTX1650-O4G",
+		"price": 13900,
+		"imageurl": "gpu/dual-gtx1650-o4g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"34": {
+		"name": "Asus GeForce GTX 1650 OC ROG Strix 4GB GDDR5",
+		"serial": "ROG-STRIX-GTX1650-O4G-GAMING",
+		"price": 17200,
+		"imageurl": "gpu/rog-strix-gtx1650-o4g-gaming-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"35": {
+		"name": "Asus GeForce GTX 1650 Phoenix 4GB V2 OC GDDR5",
+		"serial": "PH-GTX1650-O4G-V2",
+		"price": 16200,
+		"imageurl": "gpu/ph-gtx1650-o4g-v2_1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"36": {
+		"name": "Asus GeForce GTX 1650 SUPER OC TUF Gaming 4GB GDDR6",
+		"serial": "TUF-GTX1650S-O4G-GAMING",
+		"price": 16400,
+		"imageurl": "gpu/tuf-gtx1650s-o4g-gaming_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"37": {
+		"name": "Asus GeForce GTX 1650 SUPER TUF Gaming 4GB GDDR6",
+		"serial": "TUF-GTX1650S-4G-GAMING",
+		"price": 28900,
+		"imageurl": "gpu/tuf-gtx1650s-4g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"38": {
+		"name": "Asus GeForce GTX 1660 OC TUF Gaming 6GB GDDR5",
+		"serial": "TUF-GTX1660-O6G-GAMING",
+		"price": 20695,
+		"imageurl": "gpu/tuf-gtx1660-o6g-gaming-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"39": {
+		"name": "Asus GeForce GTX 1660 SUPER 6GB GDDR6",
+		"serial": "DUAL-GTX1660S-O6G-MINI",
+		"price": 34990,
+		"imageurl": "gpu/dual-gtx1660s-o6g-mini-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"40": {
+		"name": "ASUS GeForce GTX 1660 Super Advanced Edition TUF Gaming X3 6GB GDDR6",
+		"serial": "TUF 3-GTX1660S-A6G-GAMING",
+		"price": 27000,
+		"imageurl": "gpu/tuf-3-gtx1660s-a6g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"41": {
+		"name": "Asus GeForce GTX 1660 SUPER OC X3 TUF Gaming 6GB GDDR6",
+		"serial": "TUF 3-GTX1660S-O6G-GAMING",
+		"price": 24500,
+		"imageurl": "gpu/tuf-3-gtx1660s-o6g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"42": {
+		"name": "Asus GeForce GTX 1660 SUPER TUF Gaming OC 6GB GDDR6",
+		"serial": "TUF-GTX1660S-O6G-GAMING",
+		"price": 45000,
+		"imageurl": "gpu/tuf-gtx1660s-o6g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"43": {
+		"name": "Asus GeForce GTX 1660 Ti Dual OC 6GB GDDR6",
+		"serial": "DUAL-GTX1660TI-O6G",
+		"price": 28000,
+		"imageurl": "gpu/dual-gtx1660ti-o6g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"44": {
+		"name": "Asus GeForce GTX 1660 Ti ROG Strix Advanced Gaming 6GB GDDR6",
+		"serial": "ROG-STRIX-GTX1660TI-A6G-GAMING",
+		"price": 31290,
+		"imageurl": "gpu/rog-strix-gtx1660ti-a6g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"45": {
+		"name": "Asus GeForce ROG Strix RTX 3070 OC GAMING 8GB GDDR6",
+		"serial": "ROG STRIX RTX 3070 O8G GAMING",
+		"price": 75000,
+		"imageurl": "gpu/rog-strix-rtx3070-o8g-gaming_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"46": {
+		"name": "Asus GeForce ROG Strix RTX 3080 OC GAMING 10GB GDDR6X",
+		"serial": "ROG-STRIX-RTX3080-O10G-GAMING",
+		"price": 129000,
+		"imageurl": "gpu/rog-strix-rtx3080-o10g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"47": {
+		"name": "Asus GeForce RTX 2060 Phoenix 6GB GDDR6",
+		"serial": "PH-RTX2060-6G",
+		"price": 26990,
+		"imageurl": "gpu/ph-rtx2060-6g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"48": {
+		"name": "Asus GeForce RTX 2060 ROG Strix Advanced 6GB GDDR6",
+		"serial": "ROG-STRIX-RTX2060-A6G-GAMING",
+		"price": 29990,
+		"imageurl": "gpu/rog-strix-rtx2060-a6g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"49": {
+		"name": "Asus GeForce RTX 2060 ROG Strix OC 6GB GDDR6",
+		"serial": "ROG-STRIX-RTX2060-O6G-GAMING",
+		"price": 32990,
+		"imageurl": "gpu/rog-strix-rtx2060-o6g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"50": {
+		"name": "Asus GeForce RTX 2060 SUPER Dual EVO Advanced 8GB GDDR6",
+		"serial": "DUAL-RTX2060S-A8G-EVO",
+		"price": 43999,
+		"imageurl": "gpu/dual-rtx2060s-a8g-evo-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"51": {
+		"name": "Asus GeForce RTX 2060 SUPER Dual EVO OC 8GB GDDR6",
+		"serial": "DUAL-RTX2060S-O8G-EVO",
+		"price": 44500,
+		"imageurl": "gpu/dual-rtx2060s-o8g-evo-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"52": {
+		"name": "Asus GeForce RTX 2060 SUPER ROG Strix Advanced 8GB GDDR6",
+		"serial": "ROG-STRIX-RTX2060S-A8G-GAMING",
+		"price": 40500,
+		"imageurl": "gpu/rog-strix-rtx2060s-a8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"53": {
+		"name": "Asus GeForce RTX 2060 SUPER ROG Strix OC 8GB GDDR6",
+		"serial": "ROG-STRIX-RTX2060S-O8G-GAMING",
+		"price": 41500,
+		"imageurl": "gpu/rog-strix-rtx2060s-o8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"54": {
+		"name": "Asus GeForce RTX 2070 Dual Advanced 8GB GDDR6",
+		"serial": "DUAL-RTX2070-A8G",
+		"price": 35990,
+		"imageurl": "gpu/dual-rtx2070-a8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"55": {
+		"name": "Asus GeForce RTX 2070 ROG Strix Advanced 8GB GDDR6",
+		"serial": "ROG-STRIX-RTX2070-A8G-GAMING",
+		"price": 40990,
+		"imageurl": "gpu/rog-strix-rtx2070-a8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"56": {
+		"name": "Asus GeForce RTX 2070 ROG Strix OC 8GB GDDR6",
+		"serial": "ROG-STRIX-RTX2070-O8G-GAMING",
+		"price": 50999,
+		"imageurl": "gpu/rog-strix-rtx2070-o8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"57": {
+		"name": "Asus GeForce RTX 2070 SUPER Dual EVO OC 8GB GDDR6",
+		"serial": "DUAL-RTX2070S-O8G-EVO",
+		"price": 50190,
+		"imageurl": "gpu/dual-rtx2070s-o8g-evo-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"58": {
+		"name": "Asus GeForce RTX 2070 SUPER ROG Strix Advanced 8GB GDDR6",
+		"serial": "ROG-STRIX-RTX2070S-A8G-GAMING",
+		"price": 56500,
+		"imageurl": "gpu/rog-strix-rtx2070s-a8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"59": {
+		"name": "Asus GeForce RTX 2070 Turbo 8GB GDDR6",
+		"serial": "TURBO-RTX2070-8G",
+		"price": 30999,
+		"imageurl": "gpu/turbo-rtx2070-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"60": {
+		"name": "Asus GeForce RTX 2080 Dual OC 8GB GDDR6",
+		"serial": "DUAL-RTX2080-O8G",
+		"price": 72700,
+		"imageurl": "gpu/dual-rtx2080-o8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"61": {
+		"name": "Asus GeForce RTX 2080 ROG Strix OC 8GB GDDR6",
+		"serial": "ROG-STRIX-RTX2080-O8G-GAMING",
+		"price": 58999,
+		"imageurl": "gpu/rog-strix-rtx2080-o8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"62": {
+		"name": "Asus GeForce RTX 2080 SUPER Dual EVO OC 8GB GDDR6",
+		"serial": "DUAL-RTX2080S-O8G-EVO",
+		"price": 67900,
+		"imageurl": "gpu/dual-rtx2080s-o8g-evo-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"63": {
+		"name": "Asus GeForce RTX 2080 SUPER ROG Strix Advanced 8GB GDDR6",
+		"serial": "ROG-STRIX-RTX2080S-A8G-GAMING",
+		"price": 75399,
+		"imageurl": "gpu/rog-strix-rtx2080s-a8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"64": {
+		"name": "Asus GeForce RTX 2080 Ti ROG Strix OC Gaming 11GB GDDR6",
+		"serial": "ROG-STRIX-RTX2080TI-O11G-GAMING",
+		"price": 128300,
+		"imageurl": "gpu/rog-strix-rtx2080ti-o11g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"65": {
+		"name": "Asus GeForce RTX 2080 Turbo 8GB GDDR6",
+		"serial": "TURBO-RTX2080-8G",
+		"price": 48990,
+		"imageurl": "gpu/turbo-rtx2080-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"66": {
+		"name": "Asus GeForce RTX 3060 OC ROG Strix 12GB GDDR6",
+		"serial": "ROG-STRIX-RTX3060-O12G-GAMING",
+		"price": 64900,
+		"imageurl": "gpu/rog-strix-rtx3060-o12g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"67": {
+		"name": "Asus GeForce RTX 3060 OC TUF Gaming 12GB GDDR6",
+		"serial": "TUF-RTX3060-O12G-GAMING",
+		"price": 62900,
+		"imageurl": "gpu/tuf-rtx3060-o12g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"68": {
+		"name": "Asus GeForce TUF GAMING RTX 3060 Ti 8GB OC GDDR6",
+		"serial": "TUF-RTX3060TI-O8G-GAMING",
+		"price": 86800,
+		"imageurl": "gpu/tuf-rtx3060ti-o8g-gaming_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"69": {
+		"name": "Asus GeForce TUF GAMING RTX 3080 10GB GDDR6X",
+		"serial": "TUF-RTX3080-10G-GAMING",
+		"price": 119999,
+		"imageurl": "gpu/tuf-rtx3080-10g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"70": {
+		"name": "Asus GeForce TUF GAMING RTX 3080 10GB OC GDDR6X",
+		"serial": "TUF-RTX3080-O10G-GAMING",
+		"price": 109500,
+		"imageurl": "gpu/tuf-rtx3080-o10g-gaming_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"71": {
+		"name": "Asus GeForce TUF GAMING RTX 3090 24GB OC GDDR6X",
+		"serial": "TUF-RTX3090-024G-GAMING",
+		"price": 255900,
+		"imageurl": "gpu/tuf-rtx3090-024g-gaming_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"72": {
+		"name": "Asus GeForce TUF RTX 3070 OC GAMING 8GB GDDR6",
+		"serial": "TUF-RTX3070-O8G-GAMING",
+		"price": 73500,
+		"imageurl": "gpu/tuf-rtx3070-o8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"73": {
+		"name": "Asus Radeon RX 5700 XT OC TUF Gaming X3 8GB GDDR6",
+		"serial": "TUF 3-RX5700XT-O8G-GAMING",
+		"price": 38499,
+		"imageurl": "gpu/tuf-3-rx5700xt-o8g-gaming-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"74": {
+		"name": "Asus ROG Strix RTX3090 O24G Gaming OC Edition GDDR6X",
+		"serial": "ROG-STRIX-RTX3090-O24G-GAMING",
+		"price": 265900,
+		"imageurl": "gpu/rog-strix-rtx3090-o24g-gaming_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 24
+	},
+	"75": {
+		"name": "Asus TUF Gaming Radeon RX 6700 XT OC 12GB GDDR6",
+		"serial": "TUF-RX6700XT-O12G-GAMING",
+		"price": 92900,
+		"imageurl": "gpu/tuf-rx6700xt-o12g-gaming_5-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"76": {
+		"name": "GALAX GeForce\u00c2\u00ae GTX 1660 Super (1-Click OC) 6GB GDDR6",
+		"serial": "60SRL7DSY91S",
+		"price": 39000,
+		"imageurl": "gpu/60SRL7DSY91S_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"77": {
+		"name": "Gigabyte AORUS GeForce RTX 2060 SUPER 8GB GDDR6",
+		"serial": "GV-N206SAORUS-8GC",
+		"price": 38200,
+		"imageurl": "gpu/gv-n206saorus-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"78": {
+		"name": "Gigabyte AORUS GeForce RTX 2070 SUPER 8GB GDDR6",
+		"serial": "GV-N207SAORUS-8GC",
+		"price": 43500,
+		"imageurl": "gpu/gv-n207saorus-8gc-2-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"79": {
+		"name": "Gigabyte AORUS GeForce RTX 2070 XTREME 8GB GDDR6",
+		"serial": "GV-N2070AORUS X-8GC",
+		"price": 52315,
+		"imageurl": "gpu/gv-n2070aorus-x-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"80": {
+		"name": "Gigabyte AORUS GeForce RTX 2080 8GB GDDR6",
+		"serial": "GV-N2080AORUS-8GC",
+		"price": 82500,
+		"imageurl": "gpu/gv-n2080aorus-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"81": {
+		"name": "Gigabyte AORUS GeForce RTX 2080 SUPER 8GB GDDR6",
+		"serial": "GV-N208SAORUS-8GC",
+		"price": 62999,
+		"imageurl": "gpu/gv-n208saorus-8gc_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"82": {
+		"name": "Gigabyte AORUS GeForce RTX 2080 Ti XTREME 11GB GDDR6",
+		"serial": "GV-N208TAORUS X-11GC",
+		"price": 123345,
+		"imageurl": "gpu/gv-n208taorus-x-11gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"83": {
+		"name": "Gigabyte AORUS GeForce RTX 2080 XTREME 8GB GDDR6",
+		"serial": "GV-N2080AORUS X-8GC",
+		"price": 74990,
+		"imageurl": "gpu/gv-n2080aorus-x-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"84": {
+		"name": "Gigabyte AORUS GeForce RTX 3060 ELITE 12GB GDDR6",
+		"serial": "GV-N3060AORUS E-12GD",
+		"price": 69900,
+		"imageurl": "gpu/gv-n3060aorus-e-12gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"85": {
+		"name": "Gigabyte AORUS GeForce RTX 3060 Ti MASTER 8GB GDDR6",
+		"serial": "GV-N306TAORUS M-8GD",
+		"price": 108500,
+		"imageurl": "gpu/gv-n306taorus-m-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"86": {
+		"name": "Gigabyte AORUS GeForce RTX 3070 MASTER 8GB GDDR6",
+		"serial": "GV-N3070AORUS M-8GD",
+		"price": 114900,
+		"imageurl": "gpu/gv-n3070aorus-m-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"87": {
+		"name": "Gigabyte AORUS GeForce RTX 3080 MASTER 10GB GDDR6X",
+		"serial": "GV-N3080AORUS M-10GD",
+		"price": 159000,
+		"imageurl": "gpu/gv-n3080aorus-m-10gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"88": {
+		"name": "Gigabyte AORUS GeForce RTX 3080 XTREME 10GB GDDR6X",
+		"serial": "GV-N3080AORUS X-10GD",
+		"price": 155900,
+		"imageurl": "gpu/gv-n3080aorus-x-10gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"89": {
+		"name": "Gigabyte AORUS GeForce RTX 3090 MASTER 24GB GDDR6X",
+		"serial": "GV-N3090AORUS M-24GD",
+		"price": 178135,
+		"imageurl": "gpu/gv-n3090aorus-m-24gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"90": {
+		"name": "Gigabyte AORUS GeForce RTX 3090 VISION OC 24GB GDDR6X",
+		"serial": "GV-N3090VISION OC-24GD",
+		"price": 240500,
+		"imageurl": "gpu/gv-n3090vision-oc-24gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"91": {
+		"name": "Gigabyte AORUS GeForce RTX 3090 XTREME 24GB GDDR6X",
+		"serial": "GV-N3090AORUS X-24GD",
+		"price": 255000,
+		"imageurl": "gpu/gv-n3090aorus-x-24gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"92": {
+		"name": "Gigabyte AORUS Radeon RX 580 8GB GDDR5",
+		"serial": "GV-RX580AORUS-8GD",
+		"price": 26580,
+		"imageurl": "gpu/gv-rx580aorus-8gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"93": {
+		"name": "Gigabyte GeForce 210 1GB DDR3",
+		"serial": "GV-N210D3-1GI",
+		"price": 2350,
+		"imageurl": "gpu/gv-n210d3-1gi_1-250x250.jpg",
+		"generation": "gddr3",
+		"storage": 1
+	},
+	"94": {
+		"name": "Gigabyte GeForce GT 1030 Low Profile 2GB GDDR5",
+		"serial": "GV-N1030D5-2GL",
+		"price": 6439,
+		"imageurl": "gpu/gv-n1030d5-2gl-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"95": {
+		"name": "Gigabyte GeForce GT 1030 Low Profile D4 2GB DDR4",
+		"serial": "GV-N1030D4-2GL",
+		"price": 7600,
+		"imageurl": "gpu/gv-n1030d4-2gl_1-250x250.jpg",
+		"generation": "ddr4",
+		"storage": 2
+	},
+	"96": {
+		"name": "Gigabyte GeForce GT 710 2GB GDDR3",
+		"serial": "GV-N710D3-2GL",
+		"price": 3130,
+		"imageurl": "gpu/gv-n710d3-2gl-1-250x250.jpg",
+		"generation": "gddr3",
+		"storage": 2
+	},
+	"97": {
+		"name": "Gigabyte GeForce GTX 1050 OC Low Profile 2GB GDDR5",
+		"serial": "GV-N1050OC-2GL",
+		"price": 9390,
+		"imageurl": "gpu/gv-n1050oc-2gl-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"98": {
+		"name": "Gigabyte GeForce GTX 1050 Ti OC 4GB GDDR5",
+		"serial": "GV-N105TOC-4GD",
+		"price": 11240,
+		"imageurl": "gpu/gv-n105t-oc-4gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"99": {
+		"name": "Gigabyte GeForce GTX 1650 D6 OC Low Profile 4GB GDDR6",
+		"serial": "GV-N1656OC-4GL",
+		"price": 24500,
+		"imageurl": "gpu/gv-n1656oc-4gl_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"100": {
+		"name": "Gigabyte GeForce GTX 1650 D6 WINDFORCE OC 4GB GDDR6",
+		"serial": "GV-N1656WF2OC-4GD",
+		"price": 22500,
+		"imageurl": "gpu/1650-d6-windforce-oc-1-250x250w.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"101": {
+		"name": "Gigabyte GeForce GTX 1650 OC 4GB GDDR5",
+		"serial": "GV-N1650OC-4GD",
+		"price": 12299,
+		"imageurl": "gpu/gv-n1650oc-4gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"102": {
+		"name": "Gigabyte GeForce GTX 1650 SUPER WINDFORCE OC 4GB GDDR6",
+		"serial": "GV-N165SWF2OC-4GD",
+		"price": 16900,
+		"imageurl": "gpu/gv-n165swf2oc-4gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"103": {
+		"name": "Gigabyte GeForce GTX 1650 WINDFORCE OC 4GB GDDR5",
+		"serial": "GV-N1650WF2OC-4GD",
+		"price": 13080,
+		"imageurl": "gpu/gv-n1650wf2oc-4gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"104": {
+		"name": "Gigabyte GeForce GTX 1660 GAMING OC 6GB GDDR5",
+		"serial": "GV-N1660GAMING OC-6GD",
+		"price": 20180,
+		"imageurl": "gpu/gv-n1660gaming-oc-6gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"105": {
+		"name": "Gigabyte GeForce GTX 1660 OC 6GB GDDR5",
+		"serial": "GV-N1660OC-6GD",
+		"price": 37500,
+		"imageurl": "gpu/gv-n1660oc-6gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"106": {
+		"name": "Gigabyte GeForce GTX 1660 SUPER GAMING OC 6GB GDDR6",
+		"serial": "GV-N166SGAMING OC-6GD",
+		"price": 44550,
+		"imageurl": "gpu/gv-n166s-gaming-oc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"107": {
+		"name": "Gigabyte GeForce GTX 1660 SUPER OC 6GB GDDR6",
+		"serial": "GV-N166SOC-6GD",
+		"price": 44550,
+		"imageurl": "gpu/gv-n166s-oc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"108": {
+		"name": "Gigabyte GeForce GTX 1660 Ti GAMING OC 6GB GDDR6",
+		"serial": "GV-N166TGAMING OC-6GD",
+		"price": 26055,
+		"imageurl": "gpu/gv-n166tgaming-oc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"109": {
+		"name": "Gigabyte GeForce GTX 1660 Ti OC 6GB GDDR6",
+		"serial": "GV-N166TOC-6GD",
+		"price": 36500,
+		"imageurl": "gpu/gv-n166toc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"110": {
+		"name": "Gigabyte GeForce GTX 1660 Ti WINDFORCE OC 6GB GDDR6",
+		"serial": "GV-N166TWF2OC-6GD",
+		"price": 25899,
+		"imageurl": "gpu/gv-n166twf2oc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"111": {
+		"name": "Gigabyte GeForce RTX 2060 GAMING OC PRO 6GB GDDR6",
+		"serial": "GV-N2060GAMINGOC PRO-6GD",
+		"price": 26999,
+		"imageurl": "gpu/gv-n2060gamingoc-pro-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"112": {
+		"name": "Gigabyte GeForce RTX 2060 OC 6GB GDDR6",
+		"serial": "GV-N2060OC-6GD",
+		"price": 47950,
+		"imageurl": "gpu/gv-n2060oc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"113": {
+		"name": "Gigabyte GeForce RTX 2060 SUPER GAMING OC 8GB GDDR6",
+		"serial": "GV-N206SGAMING OC-8GC",
+		"price": 44900,
+		"imageurl": "gpu/gv-n206sgaming-oc-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"114": {
+		"name": "Gigabyte GeForce RTX 2060 SUPER WINDFORCE OC 8GB GDDR6",
+		"serial": "GV-N206SWF2OC-8GD",
+		"price": 33900,
+		"imageurl": "gpu/gv-n206swf2oc-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"115": {
+		"name": "Gigabyte GeForce RTX 2060 WINDFORCE OC 6GB GDDR6",
+		"serial": "GV-N2060WF2OC-6GD",
+		"price": 30565,
+		"imageurl": "gpu/gv-n2060wf2oc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"116": {
+		"name": "Gigabyte GeForce RTX 2070 GAMING OC 8GB GDDR6",
+		"serial": "GV-N2070GAMING OC-8GC",
+		"price": 45810,
+		"imageurl": "gpu/gv-n2070gaming-oc-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"117": {
+		"name": "Gigabyte GeForce RTX 2070 SUPER GAMING OC 8GB GDDR6",
+		"serial": "GV-N207SGAMING OC-8GC",
+		"price": 46900,
+		"imageurl": "gpu/gv-n207sgaming-oc-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"118": {
+		"name": "Gigabyte GeForce RTX 2070 SUPER WINDFORCE OC 3X 8GB GDDR6",
+		"serial": "GV-N207SWF3OC-8GD",
+		"price": 45200,
+		"imageurl": "gpu/gv-n207swf3oc-8gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"119": {
+		"name": "Gigabyte GeForce RTX 2070 WINDFORCE 8GB GDDR6",
+		"serial": "GV-N2070WF3-8GC",
+		"price": 41775,
+		"imageurl": "gpu/gv-n2070wf3-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"120": {
+		"name": "Gigabyte GeForce RTX 2080 GAMING OC 8GB GDDR6",
+		"serial": "GV-N2080GAMING OC-8GC",
+		"price": 59999,
+		"imageurl": "gpu/gv-n2080gaming-oc-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"121": {
+		"name": "Gigabyte GeForce RTX 2080 SUPER GAMING OC 8GB GDDR6",
+		"serial": "GV-N208SGAMING OC-8GC",
+		"price": 56999,
+		"imageurl": "gpu/gv-n208sgaming oc-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"122": {
+		"name": "Gigabyte GeForce RTX 2080 SUPER WINDFORCE OC 8GB GDDR6",
+		"serial": "GV-N208SWF3OC-8GD",
+		"price": 54599,
+		"imageurl": "gpu/gv-n208swf3oc-8gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"123": {
+		"name": "Gigabyte GeForce RTX 2080 Ti GAMING OC 11GB GDDR6",
+		"serial": "GV-N208TGAMING OC-11GC",
+		"price": 104330,
+		"imageurl": "gpu/gv-n208tgaming-oc-11gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"124": {
+		"name": "Gigabyte GeForce RTX 2080 Ti WINDFORCE 11GB GDDR6",
+		"serial": "GV-N208TWF3-11GC",
+		"price": 95660,
+		"imageurl": "gpu/gv-n208twf3-11gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"125": {
+		"name": "Gigabyte GeForce RTX 2080 WINDFORCE OC 8GB GDDR6",
+		"serial": "GV-N2080WF3OC-8GC",
+		"price": 81200,
+		"imageurl": "gpu/gv-n2080wf3oc-8gc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"126": {
+		"name": "Gigabyte GeForce RTX 3060 EAGLE OC 12GB GDDR6",
+		"serial": "GV-N3060EAGLE OC-12GD",
+		"price": 65999,
+		"imageurl": "gpu/gv-n3060eagle-oc-12gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"127": {
+		"name": "Gigabyte GeForce RTX 3060 GAMING OC 12GB GDDR6",
+		"serial": "GV-N3060GAMING OC-12GD",
+		"price": 66999,
+		"imageurl": "gpu/gv-n3060-gaming-oc-12gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"128": {
+		"name": "Gigabyte GeForce RTX 3060 Ti EAGLE 8GB GDDR6",
+		"serial": "GV-N306TEAGLE-8GD",
+		"price": 86000,
+		"imageurl": "gpu/gv-n306teagle-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"129": {
+		"name": "Gigabyte GeForce RTX 3060 Ti EAGLE OC 8GB GDDR6",
+		"serial": "GV-N306TEAGLE OC-8GD",
+		"price": 84950,
+		"imageurl": "gpu/gv-n306teagle-oc-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"130": {
+		"name": "Gigabyte GeForce RTX 3060 Ti GAMING OC 8GB GDDR6",
+		"serial": "GV-N306TGAMING OC-8GD",
+		"price": 95500,
+		"imageurl": "gpu/gv-n306tgaming-oc-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"131": {
+		"name": "Gigabyte GeForce RTX 3060 Ti GAMING OC PRO 8GB GDDR6",
+		"serial": "GV-N306TGAMINGOC PRO-8GD",
+		"price": 94500,
+		"imageurl": "gpu/gv-n306tgamingoc-pro-8gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"132": {
+		"name": "Gigabyte GeForce RTX 3060 VISION OC 12GB GDDR6",
+		"serial": "GV-N3060VISION OC-12GD",
+		"price": 61999,
+		"imageurl": "gpu/gv-n3060vision oc-12gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"133": {
+		"name": "Gigabyte GeForce RTX 3070 EAGLE 8GB GDDR6",
+		"serial": "GV-N3070EAGLE-8GD",
+		"price": 86500,
+		"imageurl": "gpu/gv-n3070eagle-8gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"134": {
+		"name": "Gigabyte GeForce RTX 3070 EAGLE OC 8GB GDDR6",
+		"serial": "GV-N3070EAGLE OC-8GD",
+		"price": 102500,
+		"imageurl": "gpu/gv-n3070eagle-oc-8gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"135": {
+		"name": "Gigabyte GeForce RTX 3070 GAMING OC 8GB GDDR6",
+		"serial": "GV-N3070GAMING OC-8GD",
+		"price": 109000,
+		"imageurl": "gpu/gv-n3070gaming oc-8gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"136": {
+		"name": "Gigabyte GeForce RTX 3070 VISION OC 8G GDDR6",
+		"serial": "GV-N3070VISION OC-8GD",
+		"price": 108500,
+		"imageurl": "gpu/gv-n3070vision oc-8gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"137": {
+		"name": "Gigabyte GeForce RTX 3080 EAGLE 10G GDDR6X",
+		"serial": "GV-N3080EAGLE-10GD",
+		"price": 145000,
+		"imageurl": "gpu/gv-n3080eagle-10gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"138": {
+		"name": "Gigabyte GeForce RTX 3080 EAGLE OC 10G GDDR6X",
+		"serial": "GV-N3080EAGLE OC-10GD",
+		"price": 145500,
+		"imageurl": "gpu/gv-n3080eagle-oc-10gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"139": {
+		"name": "Gigabyte GeForce RTX 3080 GAMING OC 10GB GDDR6X",
+		"serial": "GV-N3080GAMING OC-10GD",
+		"price": 185999,
+		"imageurl": "gpu/gv-n3080gaming-oc-10gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"140": {
+		"name": "Gigabyte GeForce RTX 3080 TURBO 10GB GDDR6X",
+		"serial": "GV-N3080TURBO-10GD",
+		"price": 148900,
+		"imageurl": "gpu/gv-n3080turbo-10gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"141": {
+		"name": "Gigabyte GeForce RTX 3080 VISION OC 10GB GDDR6X",
+		"serial": "GV-N3080VISION OC-10GD",
+		"price": 187999,
+		"imageurl": "gpu/gv-n3080vision-oc-10gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"142": {
+		"name": "Gigabyte GeForce RTX 3090 EAGLE OC 24GB GDDR6X",
+		"serial": "GV-N3090EAGLE OC-24GD",
+		"price": 167060,
+		"imageurl": "gpu/gv-n3090eagle-oc-24gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"143": {
+		"name": "Gigabyte GeForce RTX 3090 GAMING OC 24GB GDDR6X",
+		"serial": "GV-N3090GAMING OC-24GD",
+		"price": 241500,
+		"imageurl": "gpu/gv-n3090gaming-oc-24gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"144": {
+		"name": "Gigabyte Radeon RX 5500 XT GAMING OC 8GB GDDR6",
+		"serial": "GV-R55XTGAMING OC-8GD",
+		"price": 20650,
+		"imageurl": "gpu/gv-r55xtgaming-oc-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"145": {
+		"name": "Gigabyte Radeon RX 560 Gaming OC 4GB GDDR5",
+		"serial": "GV-RX560GAMING OC-4GD",
+		"price": 10240,
+		"imageurl": "gpu/gv-rx560gaming-oc-4gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"146": {
+		"name": "Gigabyte Radeon RX 560 OC 4GB GDDR5",
+		"serial": "GV-RX560OC-4GD",
+		"price": 7500,
+		"imageurl": "gpu/gv-rx560oc-4gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"147": {
+		"name": "Gigabyte Radeon RX 5600 XT GAMING OC 6GB GDDR6",
+		"serial": "GV-R56XTGAMING OC-6GD",
+		"price": 35500,
+		"imageurl": "gpu/gv-r56xtgaming-oc-6gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"148": {
+		"name": "Gigabyte Radeon RX 570 Gaming 8GB GDDR5",
+		"serial": "GV-RX570GAMING-8GD",
+		"price": 28500,
+		"imageurl": "gpu/gv-rx570gaming-8gd_1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"149": {
+		"name": "Gigabyte Radeon RX 5700 GAMING OC 8GB GDDR6",
+		"serial": "GV-R57GAMING OC-8GD",
+		"price": 36500,
+		"imageurl": "gpu/gv-r57gaming-oc-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"150": {
+		"name": "Gigabyte Radeon RX 5700 XT 8GB GDDR6",
+		"serial": "GV-R57XT-8GD-B",
+		"price": 37090,
+		"imageurl": "gpu/gv-r57xt-8gd-b-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"151": {
+		"name": "Gigabyte Radeon RX 5700 XT GAMING OC 8GB GDDR6",
+		"serial": "GV-R57XTGAMING OC-8GD",
+		"price": 37500,
+		"imageurl": "gpu/gv-r57xtgaming-oc-8gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"152": {
+		"name": "Gigabyte Radeon RX 580 Gaming 8GB GDDR5",
+		"serial": "GV-RX580GAMING-8GD",
+		"price": 43900,
+		"imageurl": "gpu/gv-rx580gaming-8gd-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"153": {
+		"name": "Gigabyte Radeon RX 6700 XT EAGLE 12GB GDDR6",
+		"serial": "GV-R67XTEAGLE-12GD",
+		"price": 88100,
+		"imageurl": "gpu/gv-r67xteagle-12gd-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"154": {
+		"name": "Gigabyte Radeon RX 6700 XT GAMING OC 12GB GDDR6",
+		"serial": "GV-R67XTGAMING OC-12GD",
+		"price": 88500,
+		"imageurl": "gpu/radeon-rx 6700-xt-gaming-oc-12g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"155": {
+		"name": "Gigabyte Radeon\u00e2\u201e\u00a2 RX 6800 AORUS MASTER 16GB GDDR6",
+		"serial": "GV-R68AORUS M-16GD",
+		"price": 113050,
+		"imageurl": "gpu/gv-r68aorus-m-16gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"156": {
+		"name": "Gigabyte Radeon\u00e2\u201e\u00a2 RX 6800 GAMING OC 16GB GDDR6",
+		"serial": "GV-R68GAMING OC-16GD",
+		"price": 84500,
+		"imageurl": "gpu/gv-r68gaming oc-16gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"157": {
+		"name": "Gigabyte Radeon\u00e2\u201e\u00a2 RX 6800 XT AORUS MASTER 16GB GDDR6",
+		"serial": "GV-R68XTAORUS M-16GD",
+		"price": 99500,
+		"imageurl": "gpu/gv-r68xtaorus-m-16gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"158": {
+		"name": "Gigabyte Radeon\u00e2\u201e\u00a2 RX 6800 XT GAMING OC 16GB GDDR6",
+		"serial": "GV-R68XTGAMING OC-16GD",
+		"price": 118500,
+		"imageurl": "gpu/gv-r68xtgaming-oc-16gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"159": {
+		"name": "Gigabyte Radeon\u00e2\u201e\u00a2 RX 6900 XT GAMING OC 16GB GDDR6",
+		"serial": "GV-R69XTGAMING OC-16GD",
+		"price": 174400,
+		"imageurl": "gpu/gv-r69xtgaming oc-16gd_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"160": {
+		"name": "INNO3D GeForce GT 1030 2GB GDDR5",
+		"serial": "N1030-1SDV-E5BL",
+		"price": 5800,
+		"imageurl": "gpu/n1030-1sdv-e5bl-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"161": {
+		"name": "INNO3D GeForce GTX 1050 Ti X2 4GB GDDR5",
+		"serial": "N105T-1DDV-M5CM",
+		"price": 10500,
+		"imageurl": "gpu/n105t-1ddv-m5cm-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"162": {
+		"name": "INNO3D GeForce GTX 1060 6GB Gaming OC GDDR5",
+		"serial": "N1060-7SDN-N5GMX",
+		"price": 13500,
+		"imageurl": "gpu/geforce-gtx-1060-6gb-gaming-oc-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"163": {
+		"name": "INNO3D GeForce GTX 1650 COMPACT 4GB GDDR5",
+		"serial": "N16501-04D5-1510VA19",
+		"price": 10790,
+		"imageurl": "gpu/n16501-04d5-1510va19-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"164": {
+		"name": "INNO3D GeForce GTX 1650 Super Twin X2 OC 4GB",
+		"serial": "N165S2-04D6X-1720VA31",
+		"price": 21900,
+		"imageurl": "gpu/n165s2-04d6x-1720va31-4-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"165": {
+		"name": "INNO3D GeForce GTX 1650 TWIN X2 OC 4GB GDDR5",
+		"serial": "N16502-04D5X-1510VA25",
+		"price": 11900,
+		"imageurl": "gpu/n16502-04d5x-1510va25-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"166": {
+		"name": "INNO3D GeForce GTX 1650 Twin X2 OC 4GB GDDR6",
+		"serial": "N16502-04D6X-1720VA30",
+		"price": 14500,
+		"imageurl": "gpu/n16502-04d6x-1720va30_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"167": {
+		"name": "INNO3D GeForce GTX 1660 SUPER TWIN X2 OC RGB 6GB GDDR6",
+		"serial": "N166S2-06D6X-1712VA15LB",
+		"price": 21575,
+		"imageurl": "gpu/n166s2-06d6x-1712va15lb-3-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"168": {
+		"name": "INNO3D GeForce GTX 1660 TWIN X2 6GB GDDR5",
+		"serial": "GTX 1660 TWIN X2 GDDR5",
+		"price": 16150,
+		"imageurl": "gpu/n16602-06d5-1521va15-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"169": {
+		"name": "INNO3D GeForce RTX 2060 SUPER ICHILL X3 ULTRA 8GB GDDR6",
+		"serial": "C206S3-08D6X-1731VA17",
+		"price": 36900,
+		"imageurl": "gpu/c206s3-08d6x-1731va17-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"170": {
+		"name": "INNO3D GeForce RTX 2060 SUPER TWIN X2 OC 8GB GDDR6",
+		"serial": "N206S2-08D6X-1710VA15L",
+		"price": 33200,
+		"imageurl": "gpu/n206s2-08d6x-1710va15l-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"171": {
+		"name": "INNO3D GeForce RTX 2060 SUPER TWIN X2 OC RGB 8GB GDDR6",
+		"serial": "N206S2-08D6X-1710VA15LB",
+		"price": 32000,
+		"imageurl": "gpu/n206s2-08d6x-1710va15lb_2-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"172": {
+		"name": "INNO3D GeForce RTX 2070 Gaming OC X2 8GB GDDR6",
+		"serial": "N20702-08D6X-2511683",
+		"price": 36450,
+		"imageurl": "gpu/n20702-08d6x-2511683-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"173": {
+		"name": "INNO3D GeForce RTX 2070 iCHILL X3 JEKYLL 8GB GDDR6",
+		"serial": "C20703-08D6X-1790VA16",
+		"price": 54500,
+		"imageurl": "gpu/c20703-08d6x-1790va16-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"174": {
+		"name": "INNO3D GeForce RTX 2070 SUPER GAMING OC X2 8GB GDDR6",
+		"serial": "N207S2-08D6X-1780VA18",
+		"price": 40700,
+		"imageurl": "gpu/n207s2-08d6x-1780va18-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"175": {
+		"name": "INNO3D GeForce RTX 2070 SUPER Gaming OC X3 8GB GDDR6",
+		"serial": "N207S3-08D6X-1180VA24",
+		"price": 44500,
+		"imageurl": "gpu/n207s3-08d6x-1180va24-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"176": {
+		"name": "INNO3D GeForce RTX 2070 SUPER TWIN X2 OC 8GB GDDR6",
+		"serial": "N207S2-08D6X-11801167",
+		"price": 39700,
+		"imageurl": "gpu/n207s2-08d6x-11801167-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"177": {
+		"name": "INNO3D GeForce RTX 2070 Twin X2 8GB GDDR6",
+		"serial": "N20702-08D6-1160VA22",
+		"price": 41500,
+		"imageurl": "gpu/n20702-08d6-1160va22-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"178": {
+		"name": "INNO3D GeForce RTX 2080 Jet 8GB GDDR6",
+		"serial": "N20801-08D6-1180651",
+		"price": 59400,
+		"imageurl": "gpu/n20801-08d6-1180651-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"179": {
+		"name": "INNO3D GeForce RTX 2080 SUPER GAMING OC X3 8GB GDDR6",
+		"serial": "N208S3-08D6X-1878VA24",
+		"price": 60999,
+		"imageurl": "gpu/n208s3-08d6x-1878va24_4-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"180": {
+		"name": "INNO3D GeForce RTX 2080 SUPER TWIN X2 OC 8GB GDDR6",
+		"serial": "N208S2-08D6X-11801167",
+		"price": 61500,
+		"imageurl": "gpu/n208s2-08d6x-11801167-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"181": {
+		"name": "INNO3D GeForce RTX 2080 Ti Gaming OC X3 11GB GDDR6",
+		"serial": "N208T3-11D6X-1150VA24",
+		"price": 102900,
+		"imageurl": "gpu/n208t3-11d6x-1150va24-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"182": {
+		"name": "INNO3D GeForce RTX 2080 Ti iChiLL Black 11GB GDDR6",
+		"serial": "C208TB-11D6X-11500004",
+		"price": 115000,
+		"imageurl": "gpu/c208tb-11d6x-11500004-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"183": {
+		"name": "INNO3D GeForce RTX 2080 Ti Jet 8GB GDDR6",
+		"serial": "N208T1-11D6-1150022",
+		"price": 92000,
+		"imageurl": "gpu/n208t1-11d6-1150022-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"184": {
+		"name": "INNO3D GeForce RTX 2080 Ti Twin X2 11GB GDDR6",
+		"serial": "N208T2-11D6-1150633",
+		"price": 87300,
+		"imageurl": "gpu/n208t2-11d6-1150633-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"185": {
+		"name": "INNO3D GeForce RTX 2080 Ti X2 OC 11GB GDDR6",
+		"serial": "RTX 2080 TI OC X2",
+		"price": 92500,
+		"imageurl": "gpu/n208t2-11d6x-1150633-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"186": {
+		"name": "INNO3D GeForce RTX 2080 TWIN X2 8GB GDDR6",
+		"serial": "RTX 2080 TWIN X2",
+		"price": 57990,
+		"imageurl": "gpu/n20802-08d6-1180633-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"187": {
+		"name": "INNO3D GeForce RTX 3060 iCHILL X3 Red 12GB GDDR6",
+		"serial": "C30603-12D6X-1671VA39A",
+		"price": 59599,
+		"imageurl": "gpu/c30603-12d6x-1671va39a_3-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"188": {
+		"name": "INNO3D GeForce RTX 3060 Ti iCHILL X3 8GB GDDR6",
+		"serial": "C306T3-08D6X-1671VA39",
+		"price": 85999,
+		"imageurl": "gpu/c306t3-08d6x-1671va39-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"189": {
+		"name": "INNO3D GeForce RTX 3060 Ti TWIN X2 OC 8GB GDDR6",
+		"serial": "N306T2-08D6X-1190VA32D",
+		"price": 83400,
+		"imageurl": "gpu/n306t2-08d6x-1190va32d-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"190": {
+		"name": "INNO3D GeForce RTX 3060 Twin X2 Oc 12GB GDDR6",
+		"serial": "N30602-12D6X-11902120",
+		"price": 54999,
+		"imageurl": "gpu/n30602-12d6x-11902120_2-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"191": {
+		"name": "INNO3D GeForce RTX 3070 ICHILL X3 8GB GDDR6",
+		"serial": "C30703-08D6X-1710VA38",
+		"price": 89500,
+		"imageurl": "gpu/c30703-08d6x-1710va38-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"192": {
+		"name": "INNO3D GeForce RTX 3070 ICHILL X4 8GB GDDR6",
+		"serial": "C30704-08D6X-1710VA35",
+		"price": 73500,
+		"imageurl": "gpu/c30704-08d6x-1710va35-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"193": {
+		"name": "INNO3D GeForce RTX 3070 TWIN X2 OC 8GB GDDR6",
+		"serial": "N30702-08D6X-1710VA32L",
+		"price": 64500,
+		"imageurl": "gpu/n30702-08d6x-1710va32l_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"194": {
+		"name": "INNO3D GeForce RTX 3080 iCHILL X3 10GB GDDR6X",
+		"serial": "C30803-106XX-1810VA37",
+		"price": 145500,
+		"imageurl": "gpu/c30803-106xx-1810va37-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"195": {
+		"name": "INNO3D GeForce RTX 3080 iCHILL X4 10GB GDDR6X",
+		"serial": "C30804-106XX-1810VA36",
+		"price": 98000,
+		"imageurl": "gpu/c30804-106xx-1810va36_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"196": {
+		"name": "INNO3D GeForce RTX 3090 ICHILL X3 24GB GDDR6X",
+		"serial": "C30903-246XX-1880VA37",
+		"price": 150500,
+		"imageurl": "gpu/c30903-246xx-1880va37_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"197": {
+		"name": "INNO3D GeForce RTX 3090 iCHILL X4 24GB GDDR6X",
+		"serial": "C30904-246XX-1880VA36",
+		"price": 156000,
+		"imageurl": "gpu/c30904-246xx-1880va36-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"198": {
+		"name": "MSI GeForce GT 1030 AERO ITX 2GD4 OC 2GB DDR4",
+		"serial": "GT 1030 AERO ITX 2GD4 OC",
+		"price": 6800,
+		"imageurl": "gpu/gt-1030-aero-itx-2gd4-oc-1-250x250.jpg",
+		"generation": "ddr4",
+		"storage": 2
+	},
+	"199": {
+		"name": "MSI GeForce GTX 1050 Ti 4GT LP 4GB GDDR5",
+		"serial": "GeForce GTX 1050 Ti 4GT LP",
+		"price": 10950,
+		"imageurl": "gpu/geforce-gtx-1050-ti-4gt-lp-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"200": {
+		"name": "MSI GeForce GTX 1050 TI 4GT OCV1 4GB GDDR5",
+		"serial": "GeForce GTX 1050 TI 4GT OCV1",
+		"price": 13450,
+		"imageurl": "gpu/geforce-gtx-1050-ti-4gt-ocv1-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"201": {
+		"name": "MSI GeForce GTX 1650 D6 AERO ITX OCV1 4GB GDDR6",
+		"serial": "GeForce GTX 1650 D6 AERO ITX OCV1",
+		"price": 14500,
+		"imageurl": "gpu/geforce-gtx-1650-d6-aero-itx-ocv1_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"202": {
+		"name": "MSI GeForce GTX 1650 D6 VENTUS XS OCV1 4GB GDDR6",
+		"serial": "GeForce GTX 1650 D6 VENTUS XS OCV1",
+		"price": 19600,
+		"imageurl": "gpu/geforce-gtx-1650-d6-ventus-xs-ocv1-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"203": {
+		"name": "MSI GeForce GTX 1650 GAMING X 4GB GDDR5",
+		"serial": "GeForce GTX 1650 GAMING X 4G",
+		"price": 13390,
+		"imageurl": "gpu/geforce-gtx-1650-gaming-x-4g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"204": {
+		"name": "MSI GeForce GTX 1650 SUPER GAMING X 4GB GDDR6",
+		"serial": "GeForce GTX 1650 SUPER GAMING X",
+		"price": 15999,
+		"imageurl": "gpu/geforce-gtx-1650-super-gaming-x-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"205": {
+		"name": "MSI GeForce GTX 1650 SUPER VENTUS XS OC 4GB GDDR6",
+		"serial": "GeForce GTX 1650 SUPER VENTUS XS OC",
+		"price": 17230,
+		"imageurl": "gpu/geforce-gtx-1650-super-ventus-xs-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"206": {
+		"name": "MSI GeForce GTX 1650 VENTUS XS 4GB OC GDDR5",
+		"serial": "GeForce GTX 1650 VENTUS XS 4G OC",
+		"price": 19750,
+		"imageurl": "gpu/geforce-gtx-1650-ventus-xs-4g-oc-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"207": {
+		"name": "MSI GeForce GTX 1660 GAMING 6GB GDDR5",
+		"serial": "GEFORCE GTX 1660 GAMING 6G",
+		"price": 18350,
+		"imageurl": "gpu/geforce-gtx-1660-gaming-6g_1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"208": {
+		"name": "MSI GeForce GTX 1660 GAMING X 6GB GDDR5",
+		"serial": "GeForce GTX 1660 GAMING X 6G",
+		"price": 23990,
+		"imageurl": "gpu/geforce-gtx-1660-gaming-x-6gb-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"209": {
+		"name": "MSI GeForce GTX 1660 SUPER VENTUS 6GB OC GDDR6",
+		"serial": "GEFORCE GTX 1660 SUPER VENTUS OC",
+		"price": 29500,
+		"imageurl": "gpu/gtx-1660-super-ventus-oc_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"210": {
+		"name": "MSI GeForce GTX 1660 SUPER VENTUS XS OC GDDR6",
+		"serial": "GeForce GTX 1660 SUPER VENTUS XS OC",
+		"price": 29500,
+		"imageurl": "gpu/geforce-gtx-1660-super-ventus-xs-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"211": {
+		"name": "MSI GeForce GTX 1660 SUPER\u00e2\u201e\u00a2 GAMING X 6GB GDDR6",
+		"serial": "GeForce GTX 1660 SUPER GAMING X",
+		"price": 40500,
+		"imageurl": "gpu/geforce-gtx-1660-super-gaming-x-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"212": {
+		"name": "MSI GeForce GTX 1660 Ti GAMING 6GB GDDR6",
+		"serial": "GeForce GTX 1660 Ti GAMING 6G",
+		"price": 22750,
+		"imageurl": "gpu/geforce-gtx-1660-ti-gaming-6g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"213": {
+		"name": "MSI GeForce GTX 1660 Ti GAMING X 6GB GDDR6",
+		"serial": "GeForce GTX 1660 Ti GAMING X 6G",
+		"price": 26500,
+		"imageurl": "gpu/gtx-1660-ti-gaming-x-6gb-gddr6-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"214": {
+		"name": "MSI GeForce GTX 1660 TI VENTUS XS OC 6GB GDDR6",
+		"serial": "GeForce GTX 1660 TI VENTUS XS 6GB OC",
+		"price": 23950,
+		"imageurl": "gpu/gtx-1660-ti-ventus-xs-oc-6gb-3-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"215": {
+		"name": "MSI GeForce GTX 1660 VENTUS XS 6GB OC GDDR5",
+		"serial": "GeForce GTX 1660 VENTUS XS 6G OC",
+		"price": 18900,
+		"imageurl": "gpu/gtx-1660-ventus-xs-6g-oc-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"216": {
+		"name": "MSI GeForce RTX 2060 GAMING Z 6GB GDDR6",
+		"serial": "GeForce RTX 2060 GAMING Z 6G",
+		"price": 38100,
+		"imageurl": "gpu/geforce-rtx-2060-gaming-z-6-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"217": {
+		"name": "MSI GeForce RTX 2060 SUPER ARMOR OC 8GB GDDR6",
+		"serial": "GeForce RTX 2060 SUPER\u00e2\u201e\u00a2 ARMOR OC",
+		"price": 36500,
+		"imageurl": "gpu/geforce-rtx-2060-super-armor-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"218": {
+		"name": "MSI GeForce RTX 2060 SUPER GAMING X 8GB GDDR6",
+		"serial": "GeForce RTX 2060 SUPER\u00e2\u201e\u00a2 GAMING X",
+		"price": 35855,
+		"imageurl": "gpu/rtx-2060-super-gaming-x-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"219": {
+		"name": "MSI GeForce RTX 2060 SUPER VENTUS GP OC 8GB GDDR6",
+		"serial": "GeForce RTX 2060 SUPER\u00e2\u201e\u00a2 VENTUS GP OC",
+		"price": 32500,
+		"imageurl": "gpu/geforce-rtx-2060-super-ventus-gp-oc -1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"220": {
+		"name": "MSI GeForce RTX 2060 SUPER VENTUS OC 8GB GDDR6",
+		"serial": "GeForce RTX 2060 Super Ventus OC",
+		"price": 33900,
+		"imageurl": "gpu/geforce-rtx-2060-super-ventus-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"221": {
+		"name": "MSI GeForce RTX 2060 SUPER VENTUS XS C OC 8GB GDDR6",
+		"serial": "RTX-2060-SUPER-VENTUS-XS-C-OC-8G",
+		"price": 34500,
+		"imageurl": "gpu/2060-super-ventus-xs-c-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"222": {
+		"name": "MSI GeForce RTX 2060 VENTUS XS 6GB OC GDDR6",
+		"serial": "GeForce RTX 2060 VENTUS XS 6G OC",
+		"price": 26999,
+		"imageurl": "gpu/geforce-rtx-2060-ventus-xs-6g-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"223": {
+		"name": "MSI GeForce RTX 2070 ARMOR 8GB GDDR6",
+		"serial": "GeForce RTX 2070 ARMOR 8G",
+		"price": 47500,
+		"imageurl": "gpu/geforce-rtx-2070-armor-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"224": {
+		"name": "MSI GeForce RTX 2070 ARMOR 8GB OC GDDR6",
+		"serial": "GeForce RTX 2070 ARMOR 8G OC",
+		"price": 56900,
+		"imageurl": "gpu/geforce-rtx-2070-armor-8g-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"225": {
+		"name": "MSI GeForce RTX 2070 GAMING 8GB GDDR6",
+		"serial": "GeForce RTX 2070 GAMING 8G",
+		"price": 54900,
+		"imageurl": "gpu/geforce-rtx-2070-gaming-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"226": {
+		"name": "MSI GeForce RTX 2070 GAMING Z 8GB GDDR6",
+		"serial": "GeForce RTX 2070 GAMING Z 8G",
+		"price": 52250,
+		"imageurl": "gpu/geforce-rtx-2070-gaming-z-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"227": {
+		"name": "MSI GeForce RTX 2070 SUPER GAMING X TRIO 8GB GDDR6",
+		"serial": "GeForce RTX 2070 SUPER GAMING X TRIO",
+		"price": 51999,
+		"imageurl": "gpu/geforce-rtx-2070-super-gaming-x-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"228": {
+		"name": "MSI GeForce RTX 2070 SUPER GAMING Z TRIO 8GB GDDR6",
+		"serial": "GeForce RTX 2070 SUPER GAMING Z TRIO",
+		"price": 50950,
+		"imageurl": "gpu/geforce-rtx-2070-super-gaming-z-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"229": {
+		"name": "MSI GeForce RTX 2070 SUPER VENTUS OC 8GB GDDR6",
+		"serial": "GeForce RTX 2070 SUPER VENTUS OC",
+		"price": 41900,
+		"imageurl": "gpu/geforce-rtx-2070-super-ventus-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"230": {
+		"name": "MSI GeForce RTX 2080 GAMING TRIO 8GB GDDR6",
+		"serial": "GeForce RTX 2080 GAMING TRIO",
+		"price": 73820,
+		"imageurl": "gpu/geforce-rtx-2080-gaming-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"231": {
+		"name": "MSI GeForce RTX 2080 Gaming X Trio 8GB GDDR6",
+		"serial": "GeForce RTX 2080 GAMING X TRIO",
+		"price": 74500,
+		"imageurl": "gpu/geforce-rtx-2080-gaming-x-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"232": {
+		"name": "MSI GeForce RTX 2080 SUPER GAMING X TRIO 8GB GDDR6",
+		"serial": "GeForce RTX 2080 SUPER GAMING X TRIO",
+		"price": 67000,
+		"imageurl": "gpu/geforce-rtx-2080-super-gaming-x-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"233": {
+		"name": "MSI GeForce RTX 2080 SUPER VENTUS XS OC 8GB GDDR6",
+		"serial": "GeForce RTX 2080 SUPER VENTUS XS OC",
+		"price": 55590,
+		"imageurl": "gpu/geforce-rtx-2080-super-ventus-xs-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"234": {
+		"name": "MSI GeForce RTX 2080 Ti GAMING TRIO 11GB GDDR6",
+		"serial": "GeForce RTX 2080 Ti GAMING TRIO",
+		"price": 106520,
+		"imageurl": "gpu/geforce-rtx-2080-ti-gaming-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"235": {
+		"name": "MSI GeForce RTX 2080 Ti GAMING X TRIO 11GB GDDR6",
+		"serial": "GeForce RTX 2080 Ti GAMING X TRIO",
+		"price": 114990,
+		"imageurl": "gpu/geforce-rtx-2080-ti-gaming-x-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"236": {
+		"name": "MSI GeForce RTX 2080 Ti LIGHTNING Z 11GB GDDR6",
+		"serial": "GeForce RTX 2080 Ti LIGHTNING Z",
+		"price": 122799,
+		"imageurl": "gpu/geforce-rtx-2080-ti-lightning-z-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"237": {
+		"name": "MSI GeForce RTX 2080 Ti VENTUS GP 11GB GDDR6",
+		"serial": "GeForce RTX 2080 Ti VENTUS GP",
+		"price": 98500,
+		"imageurl": "gpu/geforce-rtx-2080-ti-ventus-gp-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"238": {
+		"name": "MSI GeForce RTX 2080 TI VENTUS OC 11GB GDDR6",
+		"serial": "GeForce RTX 2080 TI VENTUS 11G OC",
+		"price": 109300,
+		"imageurl": "gpu/geforce-rtx-2080-ti-ventus-11g-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"239": {
+		"name": "MSI GeForce RTX 2080 Ventus 8GB GDDR6",
+		"serial": "GeForce RTX 2080 VENTUS 8G",
+		"price": 68500,
+		"imageurl": "gpu/geforce-rtx-2080-ventus-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"240": {
+		"name": "MSI GeForce RTX 2080 VENTUS 8GB OC GDDR6",
+		"serial": "GeForce RTX 2080 VENTUS 8G OC",
+		"price": 72100,
+		"imageurl": "gpu/geforce-rtx-2080-ventus-8g-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"241": {
+		"name": "MSI GeForce RTX 3060 GAMING X 12GB GDDR6",
+		"serial": "GeForce RTX 3060 GAMING X 12G",
+		"price": 62499,
+		"imageurl": "gpu/geforce-rtx-3060-gaming-x-12g_2-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"242": {
+		"name": "MSI GeForce RTX 3060 Ti GAMING X TRIO 8GB GDDR6",
+		"serial": "GeForce RTX 3060 Ti GAMING X TRIO",
+		"price": 86500,
+		"imageurl": "gpu/geforce-rtx-3060-ti-gaming-x-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"243": {
+		"name": "MSI GeForce RTX 3060 Ti TWIN FAN OC 8GB GDDR6",
+		"serial": "GeForce RTX\u00e2\u201e\u00a2 3060 Ti TWIN FAN OC",
+		"price": 83500,
+		"imageurl": "gpu/geforce-rtx- 3060-ti-twin-fan-oc_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"244": {
+		"name": "MSI GeForce RTX 3060 Ti Ventus 2X OC 8GB GDDR6",
+		"serial": "GeForce RTX 3060 Ti Ventus 2X OC",
+		"price": 85200,
+		"imageurl": "gpu/geforce-rtx-3060-ti-ventus-2x-oc-6-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"245": {
+		"name": "MSI GeForce RTX 3060 VENTUS 3X 12GB OC GDDR6",
+		"serial": "GeForce RTX 3060 VENTUS 3X 12G OC",
+		"price": 65900,
+		"imageurl": "gpu/geforce-rtx-3060-ventus-3x-12g-oc_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"246": {
+		"name": "MSI GeForce RTX 3070 GAMING X TRIO 8GB GDDR6",
+		"serial": "GeForce RTX 3070 GAMING X TRIO",
+		"price": 89500,
+		"imageurl": "gpu/geforce-rtx-3070-gaming-x-trio-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"247": {
+		"name": "MSI GeForce RTX 3070 VENTUS 2X OC 8GB GDDR6",
+		"serial": "GeForce RTX 3070 VENTUS 2X OC",
+		"price": 90500,
+		"imageurl": "gpu/geforce-rtx-3070-ventus-2x-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"248": {
+		"name": "MSI GeForce RTX 3070 VENTUS 3X OC 8GB GDDR6",
+		"serial": "GeForce RTX 3070 VENTUS 3X OC",
+		"price": 89900,
+		"imageurl": "gpu/geforce-rtx-3070-ventus-3x-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"249": {
+		"name": "MSI GeForce RTX 3080 GAMING X TRIO 10GB GDDR6X",
+		"serial": "GeForce RTX 3080 GAMING X TRIO 10G",
+		"price": 119000,
+		"imageurl": "gpu/geforce-rtx-3080-gaming-x-trio-10g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"250": {
+		"name": "MSI GeForce RTX 3080 SUPRIM X 10GB GDDR6X",
+		"serial": "GeForce RTX 3080 SUPRIM X 10G",
+		"price": 165000,
+		"imageurl": "gpu/Geforce-rtx-3080-suprim-x-10g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"251": {
+		"name": "MSI GeForce RTX 3080 VENTUS 3X 10GB GDDR6X",
+		"serial": "GeForce RTX\u00e2\u201e\u00a2 3080 VENTUS 3X 10G",
+		"price": 92999,
+		"imageurl": "gpu/geforce-rtx-3080-ventus-3x-10g-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"252": {
+		"name": "MSI GeForce RTX 3090 GAMING X TRIO 24GB GDDR6X",
+		"serial": "GeForce RTX 3090 GAMING X TRIO 24G",
+		"price": 198500,
+		"imageurl": "gpu/geforce-rtx-3090-gaming-x-trio-24g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"253": {
+		"name": "MSI GeForce RTX 3090 SUPRIM X 24GB GDDR6X",
+		"serial": "GeForce RTX 3090 SUPRIM X 24G",
+		"price": 202000,
+		"imageurl": "gpu/geforce-rtx-3090-suprim-x-24g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"254": {
+		"name": "MSI GeForce RTX 3090 VENTUS 3X 24GB OC GDDR6X",
+		"serial": "GeForce RTX\u00e2\u201e\u00a2 3090 VENTUS 3X 24G OC",
+		"price": 154999,
+		"imageurl": "gpu/geforce-rtx-3090-ventus-3x-24g-oc_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"255": {
+		"name": "MSI GeForce RTX\u00e2\u201e\u00a2 3070 SUPRIM X 8G GDDR6",
+		"serial": "GEFORCE-RTX-3070-SUPRIM-X-8G",
+		"price": 67700,
+		"imageurl": "gpu/geforce-rtx-3070-suprim-x-8g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"256": {
+		"name": "MSI Radeon RX 5500 XT GAMING X 8GB GDDR6",
+		"serial": "Radeon RX 5500 XT GAMING X 8G",
+		"price": 23825,
+		"imageurl": "gpu/radeon-rx-5500-xt-gaming-x-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"257": {
+		"name": "MSI Radeon RX 5500 XT MECH 8GB OC GDDR6",
+		"serial": "Radeon RX 5500 XT MECH 8G OC",
+		"price": 19100,
+		"imageurl": "gpu/rx-5500-xt-mech-8g-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"258": {
+		"name": "MSI Radeon RX 5600 XT GAMING MX 6GB GDDR6",
+		"serial": "Radeon RX 5600 XT GAMING MX",
+		"price": 32500,
+		"imageurl": "gpu/radeon-rx-5600-xt-gaming-mx-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"259": {
+		"name": "MSI Radeon RX 5600 XT GAMING X 6GB GDDR6",
+		"serial": "Radeon RX 5600 XT GAMING X",
+		"price": 30500,
+		"imageurl": "gpu/radeon-rx-5600-xt-gaming-x-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"260": {
+		"name": "MSI Radeon RX 570 ARMOR 8GB OC GDDR5",
+		"serial": "Radeon RX 570 ARMOR 8G OC",
+		"price": 22499,
+		"imageurl": "gpu/radeon-rx-570-armor-8g-oc-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"261": {
+		"name": "MSI Radeon RX 5700 8GB GDDR6",
+		"serial": "Radeon RX 5700 8G",
+		"price": 31290,
+		"imageurl": "gpu/radeon-rx-5700-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"262": {
+		"name": "MSI Radeon RX 5700 MECH OC 8GB GDDR6",
+		"serial": "Radeon RX 5700 MECH OC",
+		"price": 32300,
+		"imageurl": "gpu/radeon-rx-5700-mech-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"263": {
+		"name": "MSI Radeon RX 5700 XT 8GB GDDR6",
+		"serial": "Radeon RX 5700 XT 8G",
+		"price": 36300,
+		"imageurl": "gpu/radeon-rx-5700-xt-8g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"264": {
+		"name": "MSI Radeon RX 5700 XT EVOKE OC 8GB GDDR6",
+		"serial": "Radeon RX 5700 XT EVOKE OC",
+		"price": 38100,
+		"imageurl": "gpu/radeon-rx-5700-xt-evoke-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"265": {
+		"name": "MSI Radeon RX 5700 XT MECH OC 8GB GDDR6",
+		"serial": "Radeon RX 5700 XT MECH OC",
+		"price": 36300,
+		"imageurl": "gpu/radeon-rx-5700-xt-mech-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"266": {
+		"name": "MSI Radeon RX 580 ARMOR 8GB OC GDDR5",
+		"serial": "Radeon RX 580 ARMOR 8G OC",
+		"price": 27699,
+		"imageurl": "gpu/radeon-rx-580-armor-8g-oc-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"267": {
+		"name": "MSI Radeon RX 6700 XT 12GB GDDR6",
+		"serial": "Radeon RX 6700 XT 12G",
+		"price": 72500,
+		"imageurl": "gpu/radeon-rx-6700-xt-12g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"268": {
+		"name": "MSI Radeon RX 6700 XT GAMING X 12GB GDDR6",
+		"serial": "Radeon RX 6700 XT GAMING X 12G",
+		"price": 78500,
+		"imageurl": "gpu/radeon-rx-6700-xt-gaming-x-12g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"269": {
+		"name": "MSI Radeon RX 6700 XT MECH 2X 12GB OC GDDR6",
+		"serial": "Radeon RX 6700 XT MECH 2X 12G OC",
+		"price": 69500,
+		"imageurl": "gpu/radeon-rx-6700-xt-mech-2x-12g-oc-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"270": {
+		"name": "MSI Radeon RX 6800 GAMING X TRIO 16GB GDDR6",
+		"serial": "Radeon RX 6800 GAMING X TRIO 16G",
+		"price": 89900,
+		"imageurl": "gpu/radeon-rx-6800-gaming-x-trio-16g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"271": {
+		"name": "MSI Radeon RX 6800 XT GAMING X TRIO 16GB GDDR6",
+		"serial": "Radeon RX 6800 XT GAMING X TRIO 16G",
+		"price": 102900,
+		"imageurl": "gpu/radeon-rx-6800-xt-gaming-x-trio-16g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"272": {
+		"name": "MSI Radeon RX 6900 XT 16GB GDDR6",
+		"serial": "Radeon RX 6900 XT",
+		"price": 108900,
+		"imageurl": "gpu/radeon-rx-6900-xt_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"273": {
+		"name": "MSI Radeon RX 6900 XT GAMING X TRIO 16GB GDDR6",
+		"serial": "Radeon RX 6900 XT GAMING X TRIO 16G",
+		"price": 135900,
+		"imageurl": "gpu/radeon-rx-6900-xt-gaming-x-trio-16g_1-250x250h.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"274": {
+		"name": "SAPPHIRE NITRO+ AMD Radeon RX 6800 XT 16GB GDDR6",
+		"serial": "11304-02-20G",
+		"price": 105000,
+		"imageurl": "gpu/11304-02-20g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"275": {
+		"name": "SAPPHIRE NITRO+ AMD Radeon RX 6900 XT 16GB GDDR6",
+		"serial": "11308-01-20G",
+		"price": 123500,
+		"imageurl": "gpu/11308-01-20g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"276": {
+		"name": "SAPPHIRE NITRO+ Radeon RX 5500 XT Special Edition 8GB GDDR6",
+		"serial": "11295-05-20G",
+		"price": 21900,
+		"imageurl": "gpu/11295-05-20g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"277": {
+		"name": "SAPPHIRE NITRO+ Radeon RX 570 8GB GDDR5",
+		"serial": "11266-09-41G",
+		"price": 38900,
+		"imageurl": "gpu/11266-09-41g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"278": {
+		"name": "SAPPHIRE NITRO+ Radeon RX 5700 XT 8GB GDDR6",
+		"serial": "11293-03-40G",
+		"price": 47999,
+		"imageurl": "gpu/rx-5700-xt-8g-1-250x250w.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"279": {
+		"name": "SAPPHIRE NITRO+ Radeon RX 5700 XT 8GB GDDR6 SE",
+		"serial": "11293-05-40G",
+		"price": 45900,
+		"imageurl": "gpu/11293-05-40g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"280": {
+		"name": "SAPPHIRE NITRO+ Radeon RX 580 8GB GDDR5",
+		"serial": "11265-01-20G",
+		"price": 26500,
+		"imageurl": "gpu/11265-01-20g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"281": {
+		"name": "SAPPHIRE NITRO+ Radeon RX 590 8GB GDDR5",
+		"serial": "11289-02",
+		"price": 16999,
+		"imageurl": "gpu/11289-02-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"282": {
+		"name": "SAPPHIRE NITRO+ Radeon RX 590 Special Edition 8GB GDDR5",
+		"serial": 11289,
+		"price": 20500,
+		"imageurl": "gpu/11289-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"283": {
+		"name": "SAPPHIRE NITRO+ Radeon\u00e2\u201e\u00a2 RX 6700 XT 12GB GDDR6",
+		"serial": "11306-01-20G",
+		"price": 76750,
+		"imageurl": "gpu/11306-01-20g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"284": {
+		"name": "SAPPHIRE PULSE Radeon RX 5500 XT 4GB GDDR6",
+		"serial": "11295-03-20G",
+		"price": 16999,
+		"imageurl": "gpu/11295-03-20g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"285": {
+		"name": "SAPPHIRE PULSE Radeon RX 5600 XT 6GB GDDR6",
+		"serial": "11296-01-20G",
+		"price": 29300,
+		"imageurl": "gpu/pulse-rx5600-xt-6g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"286": {
+		"name": "SAPPHIRE PULSE Radeon RX 5700 8GB GDDR6",
+		"serial": "11294-01-20G",
+		"price": 34500,
+		"imageurl": "gpu/11294-01-20g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"287": {
+		"name": "SAPPHIRE PULSE Radeon RX 5700 XT 8GB GDDR6",
+		"serial": "11293-01-20G",
+		"price": 39000,
+		"imageurl": "gpu/11293-01-20g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"288": {
+		"name": "SAPPHIRE PULSE Radeon RX 580 8GB GDDR5",
+		"serial": "11265-05-20G",
+		"price": 49900,
+		"imageurl": "gpu/11265-05-20g-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"289": {
+		"name": "SAPPHIRE PULSE Radeon RX 6700 XT Gaming 12GB GDDR6",
+		"serial": "11306-02-20G",
+		"price": 71500,
+		"imageurl": "gpu/11306-02-20g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"290": {
+		"name": "SAPPHIRE PULSE Radeon RX 6800 16GB GDDR6",
+		"serial": "11305-02-20G",
+		"price": 89500,
+		"imageurl": "gpu/11305-02-20g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"291": {
+		"name": "SAPPHIRE Radeon RX 5700 8GB GDDR6",
+		"serial": "21294-01-20G",
+		"price": 30790,
+		"imageurl": "gpu/21294-01-20g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"292": {
+		"name": "SAPPHIRE Radeon RX 5700 XT 8GB GDDR6",
+		"serial": "21293-01-40G",
+		"price": 39500,
+		"imageurl": "gpu/21293-01-40g-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"293": {
+		"name": "SAPPHIRE Radeon RX 6700 XT Gaming 12GB GDDR6",
+		"serial": "21306-01-20G",
+		"price": 69950,
+		"imageurl": "gpu/21306-01-20g_6-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"294": {
+		"name": "SAPPHIRE Radeon RX 6800 16GB GDDR6",
+		"serial": "21305-01-20G",
+		"price": 83900,
+		"imageurl": "gpu/21305-01-20g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"295": {
+		"name": "SAPPHIRE Radeon RX 6900 XT Gaming 16GB GDDR6",
+		"serial": "21308-01-20G",
+		"price": 110500,
+		"imageurl": "gpu/21308-01-20g_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"296": {
+		"name": "SAPPHIRE Radeon RX VEGA 64 8GB HBM2",
+		"serial": "21275-02",
+		"price": 81500,
+		"imageurl": "gpu/vega-64-8gb-hbm2-1-250x250w.jpg",
+		"generation": "gddr5",
+		"storage": 8
+	},
+	"297": {
+		"name": "SAPPHIRE Radeon VII 16GB HBM2",
+		"serial": "21291-01",
+		"price": 76250,
+		"imageurl": "gpu/21291-01-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"298": {
+		"name": "ZOTAC GAMING GeForce GTX 1650 AMP 4GB GDDR6",
+		"serial": "ZT-T16520D-10L",
+		"price": 23600,
+		"imageurl": "gpu/1650-amp-4gb-gddr6-1-250x250w.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"299": {
+		"name": "ZOTAC GAMING GeForce GTX 1650 AMP Core 4GB GDDR6",
+		"serial": "ZT-T16520J-10L",
+		"price": 20900,
+		"imageurl": "gpu/zt-t16520j-10l-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"300": {
+		"name": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR5",
+		"serial": "ZT-T16500F-10L",
+		"price": 11395,
+		"imageurl": "gpu/zt-t16500f-10l-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"301": {
+		"name": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR6",
+		"serial": "ZT-T16520F-10L",
+		"price": 24500,
+		"imageurl": "gpu/zt-t16520f-10l-1-250x250w.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"302": {
+		"name": "ZOTAC GAMING GeForce GTX 1660 6GB GDDR5",
+		"serial": "ZT-T16600F-10L",
+		"price": 18750,
+		"imageurl": "gpu/zt-t16600f-10l-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"303": {
+		"name": "ZOTAC GAMING GeForce GTX 1660 AMP 6GB GDDR5",
+		"serial": "ZT-T16600D-10M",
+		"price": 21200,
+		"imageurl": "gpu/zt-t16600d-10m-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"304": {
+		"name": "ZOTAC GAMING GeForce GTX 1660 SUPER AMP 6GB GDDR6",
+		"serial": "ZT-T16620D-10M",
+		"price": 46500,
+		"imageurl": "gpu/zt-t16620d-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"305": {
+		"name": "ZOTAC GAMING GeForce GTX 1660 SUPER Twin Fan 6GB GDDR6",
+		"serial": "ZT-T16620F-10L",
+		"price": 44900,
+		"imageurl": "gpu/zt-t16620f-10l-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"306": {
+		"name": "ZOTAC GAMING GeForce GTX 1660 Ti 6GB GDDR6",
+		"serial": "ZT-T16610F-10L",
+		"price": 23500,
+		"imageurl": "gpu/zt-t16610f-10l-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"307": {
+		"name": "ZOTAC GAMING GeForce GTX 1660 Ti AMP 6GB GDDR6",
+		"serial": "ZT-T16610D-10M",
+		"price": 24000,
+		"imageurl": "gpu/zt-t16610d-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"308": {
+		"name": "ZOTAC GAMING GeForce GTX 1660 Twin Fan 6GB GDDR5",
+		"serial": "ZT-T16600K-10M",
+		"price": 39800,
+		"imageurl": "gpu/zt-t16600k-10m-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 6
+	},
+	"309": {
+		"name": "ZOTAC GAMING GeForce RTX 2060 6GB GDDR6",
+		"serial": "ZT-T20600K-10M",
+		"price": 48500,
+		"imageurl": "gpu/zt-t20600k-10m_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"310": {
+		"name": "ZOTAC GAMING GeForce RTX 2060 6GB GDDR6",
+		"serial": "ZT-T20600H-10M",
+		"price": 35699,
+		"imageurl": "gpu/zt-t20600h-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"311": {
+		"name": "ZOTAC GAMING GeForce RTX 2060 AMP 6GB GDDR6",
+		"serial": "ZT-T20600D-10M",
+		"price": 42900,
+		"imageurl": "gpu/zt-t20600d-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"312": {
+		"name": "ZOTAC GAMING GeForce RTX 2060 SUPER AMP 8GB GDDR6",
+		"serial": "ZT-T20610D-10P",
+		"price": 45500,
+		"imageurl": "gpu/zt-t20610d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"313": {
+		"name": "ZOTAC GAMING GeForce RTX 2060 SUPER AMP Extreme 8GB GDDR6",
+		"serial": "ZT-T20610B-10P",
+		"price": 48500,
+		"imageurl": "gpu/zt-t20610b-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"314": {
+		"name": "ZOTAC GAMING GeForce RTX 2060 Twin Fan 6GB GDDR6",
+		"serial": "ZT-T20600F-10M",
+		"price": 48500,
+		"imageurl": "gpu/zt-t20600f-10m_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 6
+	},
+	"315": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 AMP 8GB GDDR6",
+		"serial": "ZT-T20700D-10P",
+		"price": 53500,
+		"imageurl": "gpu/zt-t20700d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"316": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 AMP Extreme 8GB GDDR6",
+		"serial": "ZT-T20700B-10P",
+		"price": 52895,
+		"imageurl": "gpu/zt-t20700b-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"317": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 AMP Extreme Core 8GB GDDR6",
+		"serial": "ZT-T20700C-10P",
+		"price": 54500,
+		"imageurl": "gpu/zt-t20700c-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"318": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 MINI 8GB GDDR6",
+		"serial": "ZT-T20700E-10P",
+		"price": 39999,
+		"imageurl": "gpu/zt-t20700e-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"319": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 MINI OC 8GB GDDR6",
+		"serial": "ZT-T20700F-10P",
+		"price": 48500,
+		"imageurl": "gpu/zt-t20700f-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"320": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 SUPER AMP 8GB GDDR6",
+		"serial": "ZT-T20710D-10P",
+		"price": 45999,
+		"imageurl": "gpu/zt-t20710d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"321": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 SUPER AMP Extreme 8GB GDDR6",
+		"serial": "ZT-T20710B-10P",
+		"price": 46999,
+		"imageurl": "gpu/zt-t20710b-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"322": {
+		"name": "ZOTAC GAMING GeForce RTX 2070 SUPER Twin Fan 8GB GDDR6",
+		"serial": "ZT-T20710F-10P",
+		"price": 41550,
+		"imageurl": "gpu/zt-t20710f-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"323": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 AMP 8GB GDDR6",
+		"serial": "ZT-T20800D-10P",
+		"price": 73500,
+		"imageurl": "gpu/zt-t20800d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"324": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 AMP Extreme 8GB GDDR6",
+		"serial": "ZT-T20800B-10P",
+		"price": 77900,
+		"imageurl": "gpu/zt-t20800b-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"325": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 SUPER AMP 8GB GDDR6",
+		"serial": "ZT-T20820D-10P",
+		"price": 69800,
+		"imageurl": "gpu/zt-t20820d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"326": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 SUPER AMP Extreme 8GB GDDR6",
+		"serial": "ZT-T20820B-10P",
+		"price": 67800,
+		"imageurl": "gpu/zt-t20820b-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"327": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 SUPER Triple Fan 8GB GDDR6",
+		"serial": "ZT-T20820H-10P",
+		"price": 60900,
+		"imageurl": "gpu/zt-t20820h-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"328": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 SUPER Twin Fan 8GB GDDR6",
+		"serial": "ZT-T20820F-10P",
+		"price": 59199,
+		"imageurl": "gpu/zt-t20820f-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"329": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 Ti AMP 11GB GDDR6",
+		"serial": "ZT-T20810D-10P",
+		"price": 109500,
+		"imageurl": "gpu/zt-t20810d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"330": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 Ti AMP Extreme 11GB GDDR6",
+		"serial": "ZT-T20810B-10P",
+		"price": 122900,
+		"imageurl": "gpu/zt-t20810b-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"331": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 Ti AMP Extreme Core 11GB GDDR6",
+		"serial": "ZT-T20810C-10P",
+		"price": 108000,
+		"imageurl": "gpu/zt-t20810c-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"332": {
+		"name": "ZOTAC GAMING GeForce RTX 2080 Ti Triple Fan 11GB GDDR6",
+		"serial": "ZT-T20810F-10P",
+		"price": 103999,
+		"imageurl": "gpu/zt-t20810f-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 11
+	},
+	"333": {
+		"name": "ZOTAC GAMING GeForce RTX 3060 AMP 12GB GDDR6 - White Edition",
+		"serial": "ZT-A30600F-10P",
+		"price": 66499,
+		"imageurl": "gpu/zt-a30600f-10p_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"334": {
+		"name": "ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge 8GB GDDR6",
+		"serial": "ZT-A30610E-10M",
+		"price": 94500,
+		"imageurl": "gpu/zt-a30610e-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"335": {
+		"name": "ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC 8GB GDDR6",
+		"serial": "ZT-A30610H-10M",
+		"price": 91500,
+		"imageurl": "gpu/zt-a30610h-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"336": {
+		"name": "ZOTAC GAMING GeForce RTX 3060 Twin Edge 12GB GDDR6",
+		"serial": "ZT-A30600E-10M",
+		"price": 51999,
+		"imageurl": "gpu/zt-a30600e-10m-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"337": {
+		"name": "ZOTAC GAMING GeForce RTX 3060 Twin Edge OC 12GB GDDR6",
+		"serial": "ZT-A30600H-10M",
+		"price": 63599,
+		"imageurl": "gpu/zt-a30600h-10m_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 2
+	},
+	"338": {
+		"name": "ZOTAC GAMING GeForce RTX 3070 AMP Holo 8GB GDDR6",
+		"serial": "ZT-A30700F-10P",
+		"price": 102300,
+		"imageurl": "gpu/zt-a30700f-10p_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"339": {
+		"name": "ZOTAC GAMING GeForce RTX 3070 Twin Edge 8GB GDDR6",
+		"serial": "ZT-A30700E-10P",
+		"price": 53000,
+		"imageurl": "gpu/zt-a30700e-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"340": {
+		"name": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC 8GB GDDR6",
+		"serial": "ZT-A30700H-10P",
+		"price": 93500,
+		"imageurl": "gpu/zt-a30700h-10p_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"341": {
+		"name": "ZOTAC GAMING GeForce RTX 3070 Twin Edge OC White Edition 8GB GDDR6",
+		"serial": "ZT-A30700J-10P",
+		"price": 105500,
+		"imageurl": "gpu/zt-a30700j-10p_6-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 8
+	},
+	"342": {
+		"name": "ZOTAC GAMING GeForce RTX 3080 AMP Holo 10GB GDDR6X",
+		"serial": "ZT-A30800F-10P",
+		"price": 195500,
+		"imageurl": "gpu/zt-a30800f-10p_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"343": {
+		"name": "ZOTAC GAMING GeForce RTX 3080 Trinity 10GB GDDR6X",
+		"serial": "ZT-A30800D-10P",
+		"price": 99000,
+		"imageurl": "gpu/zt-a30800d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"344": {
+		"name": "ZOTAC GAMING GeForce RTX 3080 Trinity OC 10GB GDDR6X",
+		"serial": "ZT-A30800J-10P",
+		"price": 95500,
+		"imageurl": "gpu/zt-a30800j-10p_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 10
+	},
+	"345": {
+		"name": "ZOTAC GAMING GeForce RTX 3090 Trinity 24GB GDDR6X",
+		"serial": "ZT-A30900D-10P",
+		"price": 163999,
+		"imageurl": "gpu/zt-a30900d-10p-1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"346": {
+		"name": "ZOTAC GAMING GeForce RTX 3090 Trinity OC 24GB GDDR6X",
+		"serial": "ZT-A30900J-10P",
+		"price": 199999,
+		"imageurl": "gpu/zt-a30900j-10p_1-250x250.jpg",
+		"generation": "gddr6",
+		"storage": 4
+	},
+	"347": {
+		"name": "ZOTAC GeForce GT 1030 2GB GDDR5",
+		"serial": "ZT-P10300A-10L",
+		"price": 6100,
+		"imageurl": "gpu/zt-p10300a-10l-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 2
+	},
+	"348": {
+		"name": "ZOTAC GeForce GT 710 2GB GDDR3",
+		"serial": "ZT-71310-10L",
+		"price": 3450,
+		"imageurl": "gpu/zt-71302-20l-1-250x250.jpg",
+		"generation": "gddr3",
+		"storage": 2
+	},
+	"349": {
+		"name": "ZOTAC GeForce GT 730 Zone Edition 4GB GDDR3",
+		"serial": "ZT-71115-20L",
+		"price": 7175,
+		"imageurl": "gpu/zt-71115-20l-1-250x250.jpg",
+		"generation": "gddr3",
+		"storage": 4
+	},
+	"350": {
+		"name": "ZOTAC GeForce GTX 1050 Ti Mini 4GB GDDR5",
+		"serial": "ZT-P10510A-10L",
+		"price": 11200,
+		"imageurl": "gpu/zt-p10510a-10l-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	},
+	"351": {
+		"name": "ZOTAC GeForce GTX 1050 Ti OC 4GB GDDR5",
+		"serial": "ZT-P10510B-10L",
+		"price": 11475,
+		"imageurl": "gpu/zt-p10510b-10l-1-250x250.jpg",
+		"generation": "gddr5",
+		"storage": 4
+	}
+}

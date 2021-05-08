@@ -1,0 +1,3082 @@
+{
+	"0": {
+		"brand": "ASRock",
+		"model": "A520M-HDV",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 10700,
+		"imageurl": "motherboard/a520m-hdv-2-250x250.jpg",
+		"name": "a520m-hdv"
+	},
+	"1": {
+		"brand": "ASRock",
+		"model": "B450 Pro4",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 4500,
+		"imageurl": "motherboard/b450-pro4-2-250x250.jpg",
+		"name": "b450-pro4"
+	},
+	"2": {
+		"brand": "ASRock",
+		"model": "B450 Steel Legend",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 7900,
+		"imageurl": "motherboard/b450-steel-legend-2-250x250.jpg",
+		"name": "b450-steel-legend"
+	},
+	"3": {
+		"brand": "ASRock",
+		"model": "B450M PRO4",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 13500,
+		"imageurl": "motherboard/b450m-pro4-2-250x250w.jpg",
+		"name": "b450m-pro4"
+	},
+	"4": {
+		"brand": "ASRock",
+		"model": "B450M Steel Legend",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / White",
+		"price": 19700,
+		"imageurl": "motherboard/b450m-steel-legend-2-250x250w.jpg",
+		"name": "b450m-steel-legend"
+	},
+	"5": {
+		"brand": "ASRock",
+		"model": "B460M Steel Legend",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8300,
+		"imageurl": "motherboard/b460m-steel-legend-2-250x250w.jpg",
+		"name": "b460m-steel-legend"
+	},
+	"6": {
+		"brand": "ASRock",
+		"model": "B550 Steel Legend",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 11500,
+		"imageurl": "motherboard/b550-steel-legend-2-250x250w.jpg",
+		"name": "b550-steel-legend"
+	},
+	"7": {
+		"brand": "ASRock",
+		"model": "B550 Taichi",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Gold / Black",
+		"price": 6700,
+		"imageurl": "motherboard/b550-taichi-2-250x250.jpg",
+		"name": "b550-taichi"
+	},
+	"8": {
+		"brand": "ASRock",
+		"model": "B550M Pro4",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 8300,
+		"imageurl": "motherboard/b550m-pro4-2-250x250w.jpg",
+		"name": "b550m-pro4"
+	},
+	"9": {
+		"brand": "ASRock",
+		"model": "B550M Steel Legend",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 6300,
+		"imageurl": "motherboard/b550m-steel-legend-2-250x250w.jpg",
+		"name": "b550m-steel-legend"
+	},
+	"10": {
+		"brand": "ASRock",
+		"model": "B550M-HDV",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 10100,
+		"imageurl": "motherboard/b550m-hdv-2-250x250w.jpg",
+		"name": "b550m-hdv"
+	},
+	"11": {
+		"brand": "ASRock",
+		"model": "H410M-HDV",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 17900,
+		"imageurl": "motherboard/h410m-hdv_2-250x250.jpg",
+		"name": "h410m-hdv"
+	},
+	"12": {
+		"brand": "ASRock",
+		"model": "X570 Phantom Gaming 4",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 11500,
+		"imageurl": "motherboard/x570-phantom-gaming-4-2-250x250.jpg",
+		"name": "x570-phantom-gaming-4"
+	},
+	"13": {
+		"brand": "ASRock",
+		"model": "X570 Phantom Gaming X",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 17700,
+		"imageurl": "motherboard/x570-phantom-gaming-x-2-250x250.jpg",
+		"name": "x570-phantom-gaming-x"
+	},
+	"14": {
+		"brand": "ASRock",
+		"model": "X570 Steel Legend",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8100,
+		"imageurl": "motherboard/x570-steel-legend-2-250x250.jpg",
+		"name": "x570-steel-legend"
+	},
+	"15": {
+		"brand": "ASRock",
+		"model": "X570 Taichi",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 9900,
+		"imageurl": "motherboard/x570-taichi-2-250x250.jpg",
+		"name": "x570-taichi"
+	},
+	"16": {
+		"brand": "ASRock",
+		"model": "Z390 Taichi",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 13500,
+		"imageurl": "motherboard/z390-taichi-2-250x250.jpg",
+		"name": "z390-taichi"
+	},
+	"17": {
+		"brand": "Asus",
+		"model": "A68HM-K",
+		"socket": "FM2+",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black / Gold",
+		"price": 11900,
+		"imageurl": "motherboard/a68hm-k-2-250x250.jpg",
+		"name": "a68hm-k"
+	},
+	"18": {
+		"brand": "Asus",
+		"model": "EX-A320M-GAMING",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Red / Black",
+		"price": 18300,
+		"imageurl": "motherboard/ex-a320m-gaming-2-250x250.jpg",
+		"name": "ex-a320m-gaming"
+	},
+	"19": {
+		"brand": "Asus",
+		"model": "H110M-D",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black / Silver",
+		"price": 5500,
+		"imageurl": "motherboard/h110m-d-2-250x250.jpg",
+		"name": "h110m-d"
+	},
+	"20": {
+		"brand": "Asus",
+		"model": "PRIME A320M-K",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black / White",
+		"price": 4900,
+		"imageurl": "motherboard/prime-a320m-k-2-250x250.jpg",
+		"name": "prime-a320m-k"
+	},
+	"21": {
+		"brand": "Asus",
+		"model": "PRIME A520M-E",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 9500,
+		"imageurl": "motherboard/prime-a520m-e_3-250x250.jpg",
+		"name": "prime-a520m-e"
+	},
+	"22": {
+		"brand": "Asus",
+		"model": "PRIME A520M-K",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 15700,
+		"imageurl": "motherboard/prime-a520m-k-2-250x250.jpg",
+		"name": "prime-a520m-k"
+	},
+	"23": {
+		"brand": "Asus",
+		"model": "PRIME B365M-A",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 9500,
+		"imageurl": "motherboard/prime-b365m-a-2-250x250.jpg",
+		"name": "prime-b365m-a"
+	},
+	"24": {
+		"brand": "Asus",
+		"model": "PRIME B450M-A",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 18500,
+		"imageurl": "motherboard/prime-b450m-a-2-250x250.jpg",
+		"name": "prime-b450m-a"
+	},
+	"25": {
+		"brand": "Asus",
+		"model": "PRIME B450M-K",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 5500,
+		"imageurl": "motherboard/prime-b450m-k-2-250x250.jpg",
+		"name": "prime-b450m-k"
+	},
+	"26": {
+		"brand": "Asus",
+		"model": "PRIME B460-PLUS",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 9100,
+		"imageurl": "motherboard/prime-b460-plus-2-250x250.jpg",
+		"name": "prime-b460-plus"
+	},
+	"27": {
+		"brand": "Asus",
+		"model": "PRIME B460M-A",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 15300,
+		"imageurl": "motherboard/prime-b460m-a-2-250x250.jpg",
+		"name": "prime-b460m-a"
+	},
+	"28": {
+		"brand": "Asus",
+		"model": "PRIME B550M-A",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / White",
+		"price": 7900,
+		"imageurl": "motherboard/prime-b550m-a-2-250x250.jpg",
+		"name": "prime-b550m-a"
+	},
+	"29": {
+		"brand": "Asus",
+		"model": "PRIME B550M-K",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / White",
+		"price": 5500,
+		"imageurl": "motherboard/prime-b550m-k-2-250x250.jpg",
+		"name": "prime-b550m-k"
+	},
+	"30": {
+		"brand": "Asus",
+		"model": "PRIME H310M-E",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Silver / Black",
+		"price": 11300,
+		"imageurl": "motherboard/prime-h310m-e-2-250x250.jpg",
+		"name": "prime-h310m-e"
+	},
+	"31": {
+		"brand": "Asus",
+		"model": "PRIME H310M-K",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black / Silver",
+		"price": 17500,
+		"imageurl": "motherboard/prime-h310m-k-3-250x250.jpg",
+		"name": "prime-h310m-k"
+	},
+	"32": {
+		"brand": "Asus",
+		"model": "PRIME H410M-D",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 7300,
+		"imageurl": "motherboard/prime-h410m-d-2-250x250.jpg",
+		"name": "prime-h410m-d"
+	},
+	"33": {
+		"brand": "Asus",
+		"model": "PRIME H410M-E",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 11300,
+		"imageurl": "motherboard/prime-h410m-e-2-250x250.jpg",
+		"name": "prime-h410m-e"
+	},
+	"34": {
+		"brand": "Asus",
+		"model": "PRIME H410M-K",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 5500,
+		"imageurl": "motherboard/prime-h410m-k-2-250x250.jpg",
+		"name": "prime-h410m-k"
+	},
+	"35": {
+		"brand": "Asus",
+		"model": "PRIME X299-A",
+		"socket": "LGA2066",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10300,
+		"imageurl": "motherboard/prime-x299-a-2-250x250.jpg",
+		"name": "prime-x299-a"
+	},
+	"36": {
+		"brand": "Asus",
+		"model": "PRIME X399-A",
+		"socket": "sTR4",
+		"form_factor": "EATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 6500,
+		"imageurl": "motherboard/prime-x399-a-2-250x250.jpg",
+		"name": "prime-x399-a"
+	},
+	"37": {
+		"brand": "Asus",
+		"model": "PRIME Z390-A",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 16300,
+		"imageurl": "motherboard/prime-z390-a_2-250x250.jpg",
+		"name": "prime-z390-a"
+	},
+	"38": {
+		"brand": "Asus",
+		"model": "PRIME Z390-P",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 9500,
+		"imageurl": "motherboard/prime-z390-p-2-250x250.jpg",
+		"name": "prime-z390-p"
+	},
+	"39": {
+		"brand": "Asus",
+		"model": "PRIME Z390M-PLUS",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "White / Black",
+		"price": 15700,
+		"imageurl": "motherboard/prime-z390m-plus-2-250x250.jpg",
+		"name": "prime-z390m-plus"
+	},
+	"40": {
+		"brand": "Asus",
+		"model": "Prime X470-Pro",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / White",
+		"price": 17100,
+		"imageurl": "motherboard/prime-x470-pro-2-250x250.jpg",
+		"name": "prime-x470-pro"
+	},
+	"41": {
+		"brand": "Asus",
+		"model": "ROG Crosshair VIII Dark Hero",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 7700,
+		"imageurl": "motherboard/rog-crosshair-viii-dark-hero_2-250x250.jpg",
+		"name": "rog-crosshair-viii-dark-hero"
+	},
+	"42": {
+		"brand": "Asus",
+		"model": "ROG Crosshair VIII Formula",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 16700,
+		"imageurl": "motherboard/rog-crosshair-viii-formula-2-250x250.jpg",
+		"name": "rog-crosshair-viii-formula"
+	},
+	"43": {
+		"brand": "Asus",
+		"model": "ROG Crosshair VIII Hero",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 18700,
+		"imageurl": "motherboard/rog-crosshair-viii-hero-2-250x250.jpg",
+		"name": "rog-crosshair-viii-hero"
+	},
+	"44": {
+		"brand": "Asus",
+		"model": "ROG MAXIMUS XI CODE",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 6100,
+		"imageurl": "motherboard/rog-maximus-xi-code-2-250x250.jpg",
+		"name": "rog-maximus-xi-code"
+	},
+	"45": {
+		"brand": "Asus",
+		"model": "ROG MAXIMUS XI EXTREME",
+		"socket": "LGA1151",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 5300,
+		"imageurl": "motherboard/rog-maximus-xi-extreme-2-250x250.jpg",
+		"name": "rog-maximus-xi-extreme"
+	},
+	"46": {
+		"brand": "Asus",
+		"model": "ROG MAXIMUS XI HERO",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 17300,
+		"imageurl": "motherboard/rog-maximus-xi-hero-3-250x250.jpg",
+		"name": "rog-maximus-xi-hero"
+	},
+	"47": {
+		"brand": "Asus",
+		"model": "ROG MAXIMUS XII EXTREME",
+		"socket": "LGA1200",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 14700,
+		"imageurl": "motherboard/rog-maximus-xii-extreme-2-250x250.jpg",
+		"name": "rog-maximus-xii-extreme"
+	},
+	"48": {
+		"brand": "Asus",
+		"model": "ROG MAXIMUS XII FORMULA",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 6700,
+		"imageurl": "motherboard/rog-maximus-xii-formula-2-250x250.jpg",
+		"name": "rog-maximus-xii-formula"
+	},
+	"49": {
+		"brand": "Asus",
+		"model": "ROG STRIX B365-F GAMING",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": null,
+		"price": 12300,
+		"imageurl": "motherboard/rog-strix-b365-f-gaming-2-250x250.jpg",
+		"name": "rog-strix-b365-f-gaming"
+	},
+	"50": {
+		"brand": "Asus",
+		"model": "ROG STRIX B365-G GAMING",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Red",
+		"price": 9300,
+		"imageurl": "motherboard/rog-strix-b365-g-gaming-2-250x250.jpg",
+		"name": "rog-strix-b365-g-gaming"
+	},
+	"51": {
+		"brand": "Asus",
+		"model": "ROG STRIX B450-E GAMING",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 7900,
+		"imageurl": "motherboard/rog-strix-b450-e-gaming-2-250x250.jpg",
+		"name": "rog-strix-b450-e-gaming"
+	},
+	"52": {
+		"brand": "Asus",
+		"model": "ROG STRIX B450-F GAMING",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 14500,
+		"imageurl": "motherboard/rog-strix-b450-f-gaming-2-250x250.jpg",
+		"name": "rog-strix-b450-f-gaming"
+	},
+	"53": {
+		"brand": "Asus",
+		"model": "ROG STRIX B450-F GAMING II",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 11100,
+		"imageurl": "motherboard/rog-strix-b450-f-gaming-ii-2-250x250.jpg",
+		"name": "rog-strix-b450-f-gaming-ii"
+	},
+	"54": {
+		"brand": "Asus",
+		"model": "ROG STRIX B550-E GAMING",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 9700,
+		"imageurl": "motherboard/rog-strix-b550-e-gaming-2-250x250.jpg",
+		"name": "rog-strix-b550-e-gaming"
+	},
+	"55": {
+		"brand": "Asus",
+		"model": "ROG STRIX B550-F GAMING",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 7900,
+		"imageurl": "motherboard/rog-strix-b550-f-gaming-2-250x250.jpg",
+		"name": "rog-strix-b550-f-gaming"
+	},
+	"56": {
+		"brand": "Asus",
+		"model": "ROG STRIX B550-I GAMING",
+		"socket": "AM4",
+		"form_factor": "Mini ITX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 10300,
+		"imageurl": "motherboard/rog-strix-b550-i-gaming-2-250x250.jpg",
+		"name": "rog-strix-b550-i-gaming"
+	},
+	"57": {
+		"brand": "Asus",
+		"model": "ROG STRIX Z390-E GAMING",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 13700,
+		"imageurl": "motherboard/rog-strix-z390-e-gaming-2-250x250.jpg",
+		"name": "rog-strix-z390-e-gaming"
+	},
+	"58": {
+		"brand": "Asus",
+		"model": "ROG STRIX Z390-F GAMING",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 10900,
+		"imageurl": "motherboard/rog-strix-z390-f-gaming-2-250x250.jpg",
+		"name": "rog-strix-z390-f-gaming"
+	},
+	"59": {
+		"brand": "Asus",
+		"model": "ROG STRIX Z490-E GAMING",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 19900,
+		"imageurl": "motherboard/rog-strix-z490-e-gaming-2-250x250.jpg",
+		"name": "rog-strix-z490-e-gaming"
+	},
+	"60": {
+		"brand": "Asus",
+		"model": "ROG STRIX Z490-F GAMING",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 8900,
+		"imageurl": "motherboard/rog-strix-z490-f-gaming-2-250x250.jpg",
+		"name": "rog-strix-z490-f-gaming"
+	},
+	"61": {
+		"brand": "Asus",
+		"model": "ROG Strix TRX40-E Gaming",
+		"socket": "sTRX4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 256000000000
+		},
+		"color": "Black",
+		"price": 7500,
+		"imageurl": "motherboard/rog-strix-trx40-e-gaming-2-250x250.jpg",
+		"name": "rog-strix-trx40-e-gaming"
+	},
+	"62": {
+		"brand": "Asus",
+		"model": "ROG Strix X399-E Gaming",
+		"socket": "sTR4",
+		"form_factor": "EATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 18300,
+		"imageurl": "motherboard/rog%20strix%20x399-e%20gaming-2-250x250.jpg",
+		"name": "rog-strix-x399-e-gaming"
+	},
+	"63": {
+		"brand": "Asus",
+		"model": "ROG Strix X570-E Gaming",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 8300,
+		"imageurl": "motherboard/rog-strix-x570-e-gaming-2-250x250.jpg",
+		"name": "rog-strix-x570-e-gaming"
+	},
+	"64": {
+		"brand": "Asus",
+		"model": "ROG Strix X570-F Gaming",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 14700,
+		"imageurl": "motherboard/rog-strix-x570-f-gaming-2-250x250.jpg",
+		"name": "rog-strix-x570-f-gaming"
+	},
+	"65": {
+		"brand": "Asus",
+		"model": "ROG ZENITH EXTREME",
+		"socket": "sTR4",
+		"form_factor": "EATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 13100,
+		"imageurl": "motherboard/rog-zenith-extreme-2-250x250.jpg",
+		"name": "rog-zenith-extreme"
+	},
+	"66": {
+		"brand": "Asus",
+		"model": "TUF B365M-PLUS GAMING",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Yellow",
+		"price": 13300,
+		"imageurl": "motherboard/tuf-b365m-plus-gaming-2-250x250.jpg",
+		"name": "tuf-b365m-plus-gaming"
+	},
+	"67": {
+		"brand": "Asus",
+		"model": "TUF B450-PLUS GAMING",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Gold",
+		"price": 12900,
+		"imageurl": "motherboard/tuf-b450-plus-gaming-2-250x250.jpg",
+		"name": "tuf-b450-plus-gaming"
+	},
+	"68": {
+		"brand": "Asus",
+		"model": "TUF B450M-PRO GAMING",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 11500,
+		"imageurl": "motherboard/tuf-b450m-pro-gaming-2-250x250.jpg",
+		"name": "tuf-b450m-pro-gaming"
+	},
+	"69": {
+		"brand": "Asus",
+		"model": "TUF GAMING A520M-PLUS",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 15900,
+		"imageurl": "motherboard/tuf-gaming-a520m-plus_2-250x250.jpg",
+		"name": "tuf-gaming-a520m-plus"
+	},
+	"70": {
+		"brand": "Asus",
+		"model": "TUF GAMING B460-PLUS",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Gold",
+		"price": 10700,
+		"imageurl": "motherboard/tuf-gaming-b460-plus-2-250x250.jpg",
+		"name": "tuf-gaming-b460-plus"
+	},
+	"71": {
+		"brand": "Asus",
+		"model": "TUF GAMING B460M-PLUS",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Gold",
+		"price": 16500,
+		"imageurl": "motherboard/tuf-gaming-b460m-plus-2-250x250.jpg",
+		"name": "tuf-gaming-b460m-plus"
+	},
+	"72": {
+		"brand": "Asus",
+		"model": "TUF GAMING B550-PLUS",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 16100,
+		"imageurl": "motherboard/tuf-gaming-b550-plus-2-250x250.jpg",
+		"name": "tuf-gaming-b550-plus"
+	},
+	"73": {
+		"brand": "Asus",
+		"model": "TUF GAMING B550M-PLUS",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 19500,
+		"imageurl": "motherboard/tuf-gaming-b550m-plus-2-250x250.jpg",
+		"name": "tuf-gaming-b550m-plus"
+	},
+	"74": {
+		"brand": "Asus",
+		"model": "TUF GAMING X570-PLUS",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Gold",
+		"price": 18900,
+		"imageurl": "motherboard/tuf-gaming-x570-plus-2-250x250.jpg",
+		"name": "tuf-gaming-x570-plus"
+	},
+	"75": {
+		"brand": "Asus",
+		"model": "TUF GAMING Z490-PLUS",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 13100,
+		"imageurl": "motherboard/tuf-gaming-z490-plus_2-250x250.jpg",
+		"name": "tuf-gaming-z490-plus"
+	},
+	"76": {
+		"brand": "Asus",
+		"model": "TUF Z390-PLUS GAMING",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Gold",
+		"price": 6500,
+		"imageurl": "motherboard/tuf-z390-plus-gaming-2-250x250h.jpg",
+		"name": "tuf-z390-plus-gaming"
+	},
+	"77": {
+		"brand": "Gigabyte",
+		"model": "B365 M AORUS ELITE",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Orange",
+		"price": 10100,
+		"imageurl": "motherboard/b365-m-aorus-elite-2-250x250.jpg",
+		"name": "b365-m-aorus-elite"
+	},
+	"78": {
+		"brand": "Gigabyte",
+		"model": "B365M DS3H WIFI",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 17300,
+		"imageurl": "motherboard/b365m-ds3h-wifi-2-250x250.jpg",
+		"name": "b365m-ds3h-wifi"
+	},
+	"79": {
+		"brand": "Gigabyte",
+		"model": "B450 AORUS ELITE V2",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 18500,
+		"imageurl": "motherboard/b450-aorus-elite-v2-2-250x250.jpg",
+		"name": "b450-aorus-elite-v2"
+	},
+	"80": {
+		"brand": "Gigabyte",
+		"model": "B450 AORUS M",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Gray",
+		"price": 5500,
+		"imageurl": "motherboard/b450-aorus-m-2-250x250.jpg",
+		"name": "b450-aorus-m"
+	},
+	"81": {
+		"brand": "Gigabyte",
+		"model": "B450 AORUS PRO",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 14500,
+		"imageurl": "motherboard/b450-aorus-pro-2-250x250.jpg",
+		"name": "b450-aorus-pro"
+	},
+	"82": {
+		"brand": "Gigabyte",
+		"model": "B450 Gaming X",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Red",
+		"price": 18900,
+		"imageurl": "motherboard/b450-gaming-x-2-250x250.jpg",
+		"name": "b450-gaming-x"
+	},
+	"83": {
+		"brand": "Gigabyte",
+		"model": "B450M AORUS ELITE",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Orange",
+		"price": 18500,
+		"imageurl": "motherboard/b450m-aorus-elite-2-250x250w.jpg",
+		"name": "b450m-aorus-elite"
+	},
+	"84": {
+		"brand": "Gigabyte",
+		"model": "B450M DS3H V2",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 9900,
+		"imageurl": "motherboard/b450m-ds3h-v2%20_2-250x250.jpg",
+		"name": "b450m-ds3h-v2"
+	},
+	"85": {
+		"brand": "Gigabyte",
+		"model": "B450M DS3H WIFI",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Brown / Black",
+		"price": 11300,
+		"imageurl": "motherboard/b450m-ds3h-wifi-2-250x250.jpg",
+		"name": "b450m-ds3h-wifi"
+	},
+	"86": {
+		"brand": "Gigabyte",
+		"model": "B450M GAMING",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Red / Black",
+		"price": 5500,
+		"imageurl": "motherboard/b450m-gaming-2-250x250.jpg",
+		"name": "b450m-gaming"
+	},
+	"87": {
+		"brand": "Gigabyte",
+		"model": "B450M H",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 6700,
+		"imageurl": "motherboard/b450m-h-2-250x250w.jpg",
+		"name": "b450m-h"
+	},
+	"88": {
+		"brand": "Gigabyte",
+		"model": "B460 AORUS PRO AC",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8500,
+		"imageurl": "motherboard/b460-aorus-pro-ac_2-250x250.jpg",
+		"name": "b460-aorus-pro-ac"
+	},
+	"89": {
+		"brand": "Gigabyte",
+		"model": "B460M AORUS PRO",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Orange",
+		"price": 6500,
+		"imageurl": "motherboard/b460m-aorus-pro-2-250x250.jpg",
+		"name": "b460m-aorus-pro"
+	},
+	"90": {
+		"brand": "Gigabyte",
+		"model": "B460M D3H",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 9900,
+		"imageurl": "motherboard/b460m-d3h-2-250x250.jpg",
+		"name": "b460m-d3h"
+	},
+	"91": {
+		"brand": "Gigabyte",
+		"model": "B460M DS3H",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 14700,
+		"imageurl": "motherboard/b460m-ds3h-2-250x250.jpg",
+		"name": "b460m-ds3h"
+	},
+	"92": {
+		"brand": "Gigabyte",
+		"model": "B460M DS3H AC",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 7100,
+		"imageurl": "motherboard/b460m-ds3h-ac-2-250x250.jpg",
+		"name": "b460m-ds3h-ac"
+	},
+	"93": {
+		"brand": "Gigabyte",
+		"model": "B460M GAMING HD",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Red",
+		"price": 13500,
+		"imageurl": "motherboard/b460m-gaming-hd-2-250x250.jpg",
+		"name": "b460m-gaming-hd"
+	},
+	"94": {
+		"brand": "Gigabyte",
+		"model": "B550 AORUS ELITE",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 11300,
+		"imageurl": "motherboard/gigabyte-b550-aorus-elite-2-250x250w.jpg",
+		"name": "b550-aorus-elite"
+	},
+	"95": {
+		"brand": "Gigabyte",
+		"model": "B550 AORUS ELITE AX",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 18900,
+		"imageurl": "motherboard/b550-aorus-elite-ax_2-250x250.jpg",
+		"name": "b550-aorus-elite-ax"
+	},
+	"96": {
+		"brand": "Gigabyte",
+		"model": "B550 AORUS MASTER",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 6300,
+		"imageurl": "motherboard/b550-aorus-master_2-250x250.jpg",
+		"name": "b550-aorus-master"
+	},
+	"97": {
+		"brand": "Gigabyte",
+		"model": "B550 AORUS PRO",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Orange",
+		"price": 7300,
+		"imageurl": "motherboard/gigabyte-b550-aorus-pro-2-250x250.jpg",
+		"name": "b550-aorus-pro"
+	},
+	"98": {
+		"brand": "Gigabyte",
+		"model": "B550 AORUS PRO AC",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Orange",
+		"price": 5900,
+		"imageurl": "motherboard/gigabyte-b550-aorus-pro-ac-2-250x250.jpg",
+		"name": "b550-aorus-pro-ac"
+	},
+	"99": {
+		"brand": "Gigabyte",
+		"model": "B550 AORUS PRO AX",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 18900,
+		"imageurl": "motherboard/b550-aorus-pro-ax-2-250x250.jpg",
+		"name": "b550-aorus-pro-ax"
+	},
+	"100": {
+		"brand": "Gigabyte",
+		"model": "B550 AORUS PRO V2",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 7700,
+		"imageurl": "motherboard/b550-aorus-pro-v2-2-250x250.jpg",
+		"name": "b550-aorus-pro-v2"
+	},
+	"101": {
+		"brand": "Gigabyte",
+		"model": "B550 GAMING X",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 11100,
+		"imageurl": "motherboard/gigabyte-b550-gaming-x-2-250x250w.jpg",
+		"name": "b550-gaming-x"
+	},
+	"102": {
+		"brand": "Gigabyte",
+		"model": "B550 VISION D",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "White / Black",
+		"price": 15500,
+		"imageurl": "motherboard/gigabyte-b550-vision-d-2-250x250.jpg",
+		"name": "b550-vision-d"
+	},
+	"103": {
+		"brand": "Gigabyte",
+		"model": "B550I AORUS PRO AX",
+		"socket": "AM4",
+		"form_factor": "Mini ITX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 13300,
+		"imageurl": "motherboard/gigabyte-b550i-aorus-pro-ax-2-250x250w.jpg",
+		"name": "b550i-aorus-pro-ax"
+	},
+	"104": {
+		"brand": "Gigabyte",
+		"model": "B550M AORUS PRO",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 5700,
+		"imageurl": "motherboard/gigabyte-b550m-aorus-pro-2-250x250w.jpg",
+		"name": "b550m-aorus-pro"
+	},
+	"105": {
+		"brand": "Gigabyte",
+		"model": "B550M AORUS PRO-P",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 9500,
+		"imageurl": "motherboard/b550m-aorus-pro-p_2-250x250.jpg",
+		"name": "b550m-aorus-pro-p"
+	},
+	"106": {
+		"brand": "Gigabyte",
+		"model": "B550M DS3H",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Gold",
+		"price": 8100,
+		"imageurl": "motherboard/gigabyte-b550m-ds3h-2-250x250w.jpg",
+		"name": "b550m-ds3h"
+	},
+	"107": {
+		"brand": "Gigabyte",
+		"model": "B550M GAMING",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 10300,
+		"imageurl": "motherboard/b550m-gaming_2-250x250.jpg",
+		"name": "b550m-gaming"
+	},
+	"108": {
+		"brand": "Gigabyte",
+		"model": "GA-78LMT-USB3 R2",
+		"socket": "AM3+",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 10500,
+		"imageurl": "motherboard/ga-78lmt-usb3-r2-2-250x250.jpg",
+		"name": "ga-78lmt-usb3-r2"
+	},
+	"109": {
+		"brand": "Gigabyte",
+		"model": "GA-A320M-H",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 5700,
+		"imageurl": "motherboard/ga-a320m-h-2-250x250.jpg",
+		"name": "ga-a320m-h"
+	},
+	"110": {
+		"brand": "Gigabyte",
+		"model": "GA-A320M-HD2",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 14700,
+		"imageurl": "motherboard/ga-a320m-hd2-2-250x250.jpg",
+		"name": "ga-a320m-hd2"
+	},
+	"111": {
+		"brand": "Gigabyte",
+		"model": "GA-A320M-S2H",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 14300,
+		"imageurl": "motherboard/ga-320m-s2h-2-250x250.jpg",
+		"name": "ga-a320m-s2h"
+	},
+	"112": {
+		"brand": "Gigabyte",
+		"model": "GA-A320M-S2H V2",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 12500,
+		"imageurl": "motherboard/ga-a320m-s2h-v2_2-250x250.jpg",
+		"name": "ga-a320m-s2h-v2"
+	},
+	"113": {
+		"brand": "Gigabyte",
+		"model": "GA-F2A68HM-S1",
+		"socket": "FM2+",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 5300,
+		"imageurl": "motherboard/ga-f2a68hm-s1-2-250x250.jpg",
+		"name": "ga-f2a68hm-s1"
+	},
+	"114": {
+		"brand": "Gigabyte",
+		"model": "H310M DS2",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Silver / Black",
+		"price": 17900,
+		"imageurl": "motherboard/h310m-ds2-2-250x250.jpg",
+		"name": "h310m-ds2"
+	},
+	"115": {
+		"brand": "Gigabyte",
+		"model": "H310M H",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Silver / Brown",
+		"price": 9700,
+		"imageurl": "motherboard/h310m-h-2-250x250.jpg",
+		"name": "h310m-h"
+	},
+	"116": {
+		"brand": "Gigabyte",
+		"model": "H310M S2H",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Silver / Brown",
+		"price": 5900,
+		"imageurl": "motherboard/h310m-s2h-2-250x250.jpg",
+		"name": "h310m-s2h"
+	},
+	"117": {
+		"brand": "Gigabyte",
+		"model": "H410M S2",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 11500,
+		"imageurl": "motherboard/h410m-s2-2-250x250.jpg",
+		"name": "h410m-s2"
+	},
+	"118": {
+		"brand": "Gigabyte",
+		"model": "H410M S2H",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 9300,
+		"imageurl": "motherboard/h410m-s2h-2-250x250.jpg",
+		"name": "h410m-s2h"
+	},
+	"119": {
+		"brand": "Gigabyte",
+		"model": "H470 AORUS PRO AX",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 13300,
+		"imageurl": "motherboard/h470-aorus-pro-ax-2-250x250.jpg",
+		"name": "h470-aorus-pro-ax"
+	},
+	"120": {
+		"brand": "Gigabyte",
+		"model": "H470I AORUS PRO AX",
+		"socket": "LGA1200",
+		"form_factor": "Mini ITX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 5700,
+		"imageurl": "motherboard/h470i-aorus-pro-ax-2-250x250.jpg",
+		"name": "h470i-aorus-pro-ax"
+	},
+	"121": {
+		"brand": "Gigabyte",
+		"model": "H470M DS3H",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 11100,
+		"imageurl": "motherboard/h470m-ds3h-2-250x250.jpg",
+		"name": "h470m-ds3h"
+	},
+	"122": {
+		"brand": "Gigabyte",
+		"model": "TRX40 AORUS PRO WIFI",
+		"socket": "sTRX4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 256000000000
+		},
+		"color": "Black / Orange",
+		"price": 11500,
+		"imageurl": "motherboard/trx40-aorus-pro-wifi-2-250x250.jpg",
+		"name": "trx40-aorus-pro-wifi"
+	},
+	"123": {
+		"brand": "Gigabyte",
+		"model": "X299 UD4 Pro",
+		"socket": "LGA2066",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 13700,
+		"imageurl": "motherboard/x299-ud4-pro-2-250x250.jpg",
+		"name": "x299-ud4-pro"
+	},
+	"124": {
+		"brand": "Gigabyte",
+		"model": "X399 AORUS Gaming 7",
+		"socket": "sTR4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 19700,
+		"imageurl": "motherboard/x399-aorus-gaming-7-2-250x250.jpg",
+		"name": "x399-aorus-gaming-7"
+	},
+	"125": {
+		"brand": "Gigabyte",
+		"model": "X399 AORUS PRO",
+		"socket": "sTR4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 13500,
+		"imageurl": "motherboard/x399-aorus-pro-2-250x250.jpg",
+		"name": "x399-aorus-pro"
+	},
+	"126": {
+		"brand": "Gigabyte",
+		"model": "X399 AORUS XTREME",
+		"socket": "sTR4",
+		"form_factor": "EATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 9300,
+		"imageurl": "motherboard/x399-aorus-xtream-2-250x250.jpg",
+		"name": "x399-aorus-xtreme"
+	},
+	"127": {
+		"brand": "Gigabyte",
+		"model": "X399 DESIGNARE EX",
+		"socket": "sTR4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 11100,
+		"imageurl": "motherboard/x399-designare-ex-2-250x250.jpg",
+		"name": "x399-designare-ex"
+	},
+	"128": {
+		"brand": "Gigabyte",
+		"model": "X570 AORUS ELITE",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 18300,
+		"imageurl": "motherboard/x570-aorus-elite-2-250x250.jpg",
+		"name": "x570-aorus-elite"
+	},
+	"129": {
+		"brand": "Gigabyte",
+		"model": "X570 AORUS ELITE WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 17100,
+		"imageurl": "motherboard/x570-aorus-elite-wifi-2-250x250.jpg",
+		"name": "x570-aorus-elite-wifi"
+	},
+	"130": {
+		"brand": "Gigabyte",
+		"model": "X570 AORUS MASTER",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 15300,
+		"imageurl": "motherboard/x570-aorus-master-2-250x250.jpg",
+		"name": "x570-aorus-master"
+	},
+	"131": {
+		"brand": "Gigabyte",
+		"model": "X570 AORUS PRO",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 18100,
+		"imageurl": "motherboard/x570-aorus-pro-1-250x250.jpg",
+		"name": "x570-aorus-pro"
+	},
+	"132": {
+		"brand": "Gigabyte",
+		"model": "X570 AORUS PRO WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 16500,
+		"imageurl": "motherboard/x570-aorus-pro-wifi-1-250x250.jpg",
+		"name": "x570-aorus-pro-wifi"
+	},
+	"133": {
+		"brand": "Gigabyte",
+		"model": "X570 AORUS ULTRA",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 14500,
+		"imageurl": "motherboard/x570-aorus-ultra-2-250x250.jpg",
+		"name": "x570-aorus-ultra"
+	},
+	"134": {
+		"brand": "Gigabyte",
+		"model": "X570 AORUS XTREME",
+		"socket": "AM4",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 15500,
+		"imageurl": "motherboard/x570-aorus-xtreme-2-250x250.jpg",
+		"name": "x570-aorus-xtreme"
+	},
+	"135": {
+		"brand": "Gigabyte",
+		"model": "X570 GAMING X",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 7300,
+		"imageurl": "motherboard/x570-gaming-x-2-250x250.jpg",
+		"name": "x570-gaming-x"
+	},
+	"136": {
+		"brand": "Gigabyte",
+		"model": "X570 UD",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8900,
+		"imageurl": "motherboard/x570-ud-2-250x250.jpg",
+		"name": "x570-ud"
+	},
+	"137": {
+		"brand": "Gigabyte",
+		"model": "Z390 AORUS ELITE",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10500,
+		"imageurl": "motherboard/z390-aorus-elite-2-250x250.jpg",
+		"name": "z390-aorus-elite"
+	},
+	"138": {
+		"brand": "Gigabyte",
+		"model": "Z390 AORUS MASTER",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 12300,
+		"imageurl": "motherboard/z390-aorus-master-2-250x250.jpg",
+		"name": "z390-aorus-master"
+	},
+	"139": {
+		"brand": "Gigabyte",
+		"model": "Z390 AORUS PRO",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 11500,
+		"imageurl": "motherboard/z390-aorus-pro-2-250x250.jpg",
+		"name": "z390-aorus-pro"
+	},
+	"140": {
+		"brand": "Gigabyte",
+		"model": "Z390 AORUS PRO WIFI",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10900,
+		"imageurl": "motherboard/z390-aorus-pro-wifi-2-250x250.jpg",
+		"name": "z390-aorus-pro-wifi"
+	},
+	"141": {
+		"brand": "Gigabyte",
+		"model": "Z390 AORUS ULTRA",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 14300,
+		"imageurl": "motherboard/z390-aorus-ultra-2-250x250.jpg",
+		"name": "z390-aorus-ultra"
+	},
+	"142": {
+		"brand": "Gigabyte",
+		"model": "Z390 AORUS XTREME",
+		"socket": "LGA1151",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 19700,
+		"imageurl": "motherboard/z390-aorus-xtreme-2-250x250.jpg",
+		"name": "z390-aorus-xtreme"
+	},
+	"143": {
+		"brand": "Gigabyte",
+		"model": "Z390 DESIGNARE",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 6500,
+		"imageurl": "motherboard/z390-designare-2-250x250.jpg",
+		"name": "z390-designare"
+	},
+	"144": {
+		"brand": "Gigabyte",
+		"model": "Z390 M GAMING",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Red",
+		"price": 18700,
+		"imageurl": "motherboard/z390-m-gaming-2-250x250.jpg",
+		"name": "z390-m-gaming"
+	},
+	"145": {
+		"brand": "Gigabyte",
+		"model": "Z390 UD",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 5700,
+		"imageurl": "motherboard/z390-ud-2-250x250.jpg",
+		"name": "z390-ud"
+	},
+	"146": {
+		"brand": "Gigabyte",
+		"model": "Z490 AORUS ELITE",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 6300,
+		"imageurl": "motherboard/z490-aorus-elite-2-250x250.jpg",
+		"name": "z490-aorus-elite"
+	},
+	"147": {
+		"brand": "Gigabyte",
+		"model": "Z490 AORUS ELITE AC",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 19900,
+		"imageurl": "motherboard/z490-aorus-elite-ac_2-250x250.jpg",
+		"name": "z490-aorus-elite-ac"
+	},
+	"148": {
+		"brand": "Gigabyte",
+		"model": "Z490 AORUS PRO AX",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8300,
+		"imageurl": "motherboard/z490-aorus-pro-ax_2-250x250.jpg",
+		"name": "z490-aorus-pro-ax"
+	},
+	"149": {
+		"brand": "Gigabyte",
+		"model": "Z490 AORUS ULTRA",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 12500,
+		"imageurl": "motherboard/z490-aorus-ultra_2-250x250.jpg",
+		"name": "z490-aorus-ultra"
+	},
+	"150": {
+		"brand": "Gigabyte",
+		"model": "Z490 UD",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10700,
+		"imageurl": "motherboard/z490-ud_3-250x250.jpg",
+		"name": "z490-ud"
+	},
+	"151": {
+		"brand": "Gigabyte",
+		"model": "Z490 UD AC",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 15300,
+		"imageurl": "motherboard/z490-ud-ac_2-250x250.jpg",
+		"name": "z490-ud-ac"
+	},
+	"152": {
+		"brand": "Gigabyte",
+		"model": "Z490M",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10700,
+		"imageurl": "motherboard/z490m_2-250x250.jpg",
+		"name": "z490m"
+	},
+	"153": {
+		"brand": "Gigabyte",
+		"model": "Z490M GAMING X",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10900,
+		"imageurl": "motherboard/z490m-gaming-x_7-250x250.jpg",
+		"name": "z490m-gaming-x"
+	},
+	"154": {
+		"brand": "MSI",
+		"model": "A320M-A PRO MAX",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 16900,
+		"imageurl": "motherboard/a320m-a-pro-max_2-250x250.jpg",
+		"name": "a320m-a-pro-max"
+	},
+	"155": {
+		"brand": "MSI",
+		"model": "B365M PRO-VDH",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 5500,
+		"imageurl": "motherboard/b365m-pro-vdh-2-250x250.jpg",
+		"name": "b365m-pro-vdh"
+	},
+	"156": {
+		"brand": "MSI",
+		"model": "B365M-PRO-VH",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 12100,
+		"imageurl": "motherboard/b365m-pro-vh-2-250x250.jpg",
+		"name": "b365m-pro-vh"
+	},
+	"157": {
+		"brand": "MSI",
+		"model": "B450 GAMING PRO CARBON MAX WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 6500,
+		"imageurl": "motherboard/b450-gaming-pro-carbon-max-wifi-2-250x250w.jpg",
+		"name": "b450-gaming-pro-carbon-max-wifi"
+	},
+	"158": {
+		"brand": "MSI",
+		"model": "B450 Gaming Plus MAX",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Red / Black",
+		"price": 13500,
+		"imageurl": "motherboard/b450-gaming-plus-max-2-250x250.jpg",
+		"name": "b450-gaming-plus-max"
+	},
+	"159": {
+		"brand": "MSI",
+		"model": "B450 TOMAHAWK MAX",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 19700,
+		"imageurl": "motherboard/b450-tomahawk-max-2-250x250.jpg",
+		"name": "b450-tomahawk-max"
+	},
+	"160": {
+		"brand": "MSI",
+		"model": "B450-A PRO",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Brown / Black",
+		"price": 17100,
+		"imageurl": "motherboard/b450-a-pro-2-250x250.jpg",
+		"name": "b450-a-pro"
+	},
+	"161": {
+		"brand": "MSI",
+		"model": "B450I GAMING PLUS AC",
+		"socket": "AM4",
+		"form_factor": "Mini ITX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Red",
+		"price": 15900,
+		"imageurl": "motherboard/b450i-gaming-plus-ac-2-250x250.jpg",
+		"name": "b450i-gaming-plus-ac"
+	},
+	"162": {
+		"brand": "MSI",
+		"model": "B450M BAZOOKA MAX WIFI",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 16300,
+		"imageurl": "motherboard/b450m-bazooka-max-wifi-2-250x250w.jpg",
+		"name": "b450m-bazooka-max-wifi"
+	},
+	"163": {
+		"brand": "MSI",
+		"model": "B450M BAZOOKA PLUS",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 14700,
+		"imageurl": "motherboard/b450m-bazooka-plus-2-250x250.jpg",
+		"name": "b450m-bazooka-plus"
+	},
+	"164": {
+		"brand": "MSI",
+		"model": "B450M MORTAR MAX",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 19900,
+		"imageurl": "motherboard/b450m-mortar-max-2-250x250.jpg",
+		"name": "b450m-mortar-max"
+	},
+	"165": {
+		"brand": "MSI",
+		"model": "B450M MORTAR TITANIUM",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "White",
+		"price": 19700,
+		"imageurl": "motherboard/b450m-mortar-titanium-2-250x250.jpg",
+		"name": "b450m-mortar-titanium"
+	},
+	"166": {
+		"brand": "MSI",
+		"model": "B450M PRO-M2 MAX",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 5300,
+		"imageurl": "motherboard/b450m-pro-m2-max-2-250x250.jpg",
+		"name": "b450m-pro-m2-max"
+	},
+	"167": {
+		"brand": "MSI",
+		"model": "B450M PRO-VDH MAX",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 5100,
+		"imageurl": "motherboard/b450m-pro-vdh-max-2-250x250.jpg",
+		"name": "b450m-pro-vdh-max"
+	},
+	"168": {
+		"brand": "MSI",
+		"model": "B450M-A PRO MAX",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 32000000000
+		},
+		"color": "Black",
+		"price": 8100,
+		"imageurl": "motherboard/b450m-a-pro-max_2-250x250.jpg",
+		"name": "b450m-a-pro-max"
+	},
+	"169": {
+		"brand": "MSI",
+		"model": "B460M PRO-VDH",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 7700,
+		"imageurl": "motherboard/b460m-pro-vdh_1-250x250.jpg",
+		"name": "b460m-pro-vdh"
+	},
+	"170": {
+		"brand": "MSI",
+		"model": "B460M PRO-VDH WIFI",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 17300,
+		"imageurl": "motherboard/b460m-pro-vdh-wifi-2-250x250.jpg",
+		"name": "b460m-pro-vdh-wifi"
+	},
+	"171": {
+		"brand": "MSI",
+		"model": "B460M-A PRO",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 9300,
+		"imageurl": "motherboard/msi-b460m-a-pro-2-250x250w.jpg",
+		"name": "b460m-a-pro"
+	},
+	"172": {
+		"brand": "MSI",
+		"model": "B550-A PRO",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 19300,
+		"imageurl": "motherboard/b550-a-pro-2-250x250.jpg",
+		"name": "b550-a-pro"
+	},
+	"173": {
+		"brand": "MSI",
+		"model": "B550M PRO-VDH WIFI",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 5500,
+		"imageurl": "motherboard/b550m-pro-vdh-wifi-2-250x250.jpg",
+		"name": "b550m-pro-vdh-wifi"
+	},
+	"174": {
+		"brand": "MSI",
+		"model": "Creator TRX40",
+		"socket": "sTRX4",
+		"form_factor": "EATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 256000000000
+		},
+		"color": "Black / Silver",
+		"price": 7700,
+		"imageurl": "motherboard/creator-trx40-2-250x250.jpg",
+		"name": "creator-trx40"
+	},
+	"175": {
+		"brand": "MSI",
+		"model": "H410M PRO-VH",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 12900,
+		"imageurl": "motherboard/h410m-pro-vh_2-250x250.jpg",
+		"name": "h410m-pro-vh"
+	},
+	"176": {
+		"brand": "MSI",
+		"model": "H410M-A PRO",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 9500,
+		"imageurl": "motherboard/h410m-a-pro_2-250x250.jpg",
+		"name": "h410m-a-pro"
+	},
+	"177": {
+		"brand": "MSI",
+		"model": "MAG B365M MORTAR",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black",
+		"price": 15900,
+		"imageurl": "motherboard/mag-b365m-mortar-2-250x250.jpg",
+		"name": "mag-b365m-mortar"
+	},
+	"178": {
+		"brand": "MSI",
+		"model": "MAG B460 TOMAHAWK",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 12500,
+		"imageurl": "motherboard/mag-b460-tomahawk-2-250x250.jpg",
+		"name": "mag-b460-tomahawk"
+	},
+	"179": {
+		"brand": "MSI",
+		"model": "MAG B460 TORPEDO",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 19700,
+		"imageurl": "motherboard/mag-b460-torpedo_2-250x250.jpg",
+		"name": "mag-b460-torpedo"
+	},
+	"180": {
+		"brand": "MSI",
+		"model": "MAG B550 TOMAHAWK",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 12100,
+		"imageurl": "motherboard/mag-b550-tomahawk-2-250x250.jpg",
+		"name": "mag-b550-tomahawk"
+	},
+	"181": {
+		"brand": "MSI",
+		"model": "MAG B550M BAZOOKA",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 17300,
+		"imageurl": "motherboard/mag-b550m-bazooka-2-250x250.jpg",
+		"name": "mag-b550m-bazooka"
+	},
+	"182": {
+		"brand": "MSI",
+		"model": "MAG B550M MORTAR WIFI",
+		"socket": "AM4",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Silver / Black",
+		"price": 10100,
+		"imageurl": "motherboard/mag-b550m-mortar-wifi-2-250x250.jpg",
+		"name": "mag-b550m-mortar-wifi"
+	},
+	"183": {
+		"brand": "MSI",
+		"model": "MAG X570 TOMAHAWK WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 14300,
+		"imageurl": "motherboard/mag-x570-tomahawk-wifi_2-250x250.jpg",
+		"name": "mag-x570-tomahawk-wifi"
+	},
+	"184": {
+		"brand": "MSI",
+		"model": "MAG Z390 TOMAHAWK",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 16300,
+		"imageurl": "motherboard/mag-z390-tomahawk-2-250x250.jpg",
+		"name": "mag-z390-tomahawk"
+	},
+	"185": {
+		"brand": "MSI",
+		"model": "MAG Z390M MORTAR",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 16100,
+		"imageurl": "motherboard/mag-z390m-mortar-2-250x250.jpg",
+		"name": "mag-z390m-mortar"
+	},
+	"186": {
+		"brand": "MSI",
+		"model": "MAG Z490 TOMAHAWK",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 16100,
+		"imageurl": "motherboard/mag-z490-tomahawk_2-250x250.jpg",
+		"name": "mag-z490-tomahawk"
+	},
+	"187": {
+		"brand": "MSI",
+		"model": "MEG X399 CREATION",
+		"socket": "sTR4",
+		"form_factor": "EATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10100,
+		"imageurl": "motherboard/meg-x399-creation-1-250x250.jpg",
+		"name": "meg-x399-creation"
+	},
+	"188": {
+		"brand": "MSI",
+		"model": "MEG X570 ACE",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 12900,
+		"imageurl": "motherboard/meg-x570-ace-2-250x250.jpg",
+		"name": "meg-x570-ace"
+	},
+	"189": {
+		"brand": "MSI",
+		"model": "MEG X570 GODLIKE",
+		"socket": "AM4",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 10300,
+		"imageurl": "motherboard/meg-x570-godlike-6-250x250.jpg",
+		"name": "meg-x570-godlike"
+	},
+	"190": {
+		"brand": "MSI",
+		"model": "MEG X570 UNIFY",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 13700,
+		"imageurl": "motherboard/meg-x570-unify_3-250x250.jpg",
+		"name": "meg-x570-unify"
+	},
+	"191": {
+		"brand": "MSI",
+		"model": "MEG Z390 ACE",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 7500,
+		"imageurl": "motherboard/meg-z390-ace-8-250x250.jpg",
+		"name": "meg-z390-ace"
+	},
+	"192": {
+		"brand": "MSI",
+		"model": "MEG Z390 GODLIKE",
+		"socket": "LGA1151",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 6700,
+		"imageurl": "motherboard/meg-z390-godlike-2-250x250.jpg",
+		"name": "meg-z390-godlike"
+	},
+	"193": {
+		"brand": "MSI",
+		"model": "MEG Z490 ACE",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Gold",
+		"price": 18900,
+		"imageurl": "motherboard/meg-z490-ace-2-250x250.jpg",
+		"name": "meg-z490-ace"
+	},
+	"194": {
+		"brand": "MSI",
+		"model": "MEG Z490 GODLIKE",
+		"socket": "LGA1200",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8900,
+		"imageurl": "motherboard/meg-z490-godlike_2-250x250.jpg",
+		"name": "meg-z490-godlike"
+	},
+	"195": {
+		"brand": "MSI",
+		"model": "MEG Z490 UNIFY",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 5300,
+		"imageurl": "motherboard/meg-z490-unify_2-250x250.jpg",
+		"name": "meg-z490-unify"
+	},
+	"196": {
+		"brand": "MSI",
+		"model": "MEG Z490I UNIFY",
+		"socket": "LGA1200",
+		"form_factor": "Mini ITX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 15500,
+		"imageurl": "motherboard/meg-z490i-unify_2-250x250.jpg",
+		"name": "meg-z490i-unify"
+	},
+	"197": {
+		"brand": "MSI",
+		"model": "MPG B550 GAMING CARBON WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 7300,
+		"imageurl": "motherboard/mpg-b550-gaming-carbon-wifi-2-250x250.jpg",
+		"name": "mpg-b550-gaming-carbon-wifi"
+	},
+	"198": {
+		"brand": "MSI",
+		"model": "MPG B550 GAMING EDGE WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 16300,
+		"imageurl": "motherboard/mpg-b550-gaming-edge-wifi-2-250x250.jpg",
+		"name": "mpg-b550-gaming-edge-wifi"
+	},
+	"199": {
+		"brand": "MSI",
+		"model": "MPG B550 GAMING PLUS",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 10100,
+		"imageurl": "motherboard/mpg-b550-gaming-plus-2-250x250.jpg",
+		"name": "mpg-b550-gaming-plus"
+	},
+	"200": {
+		"brand": "MSI",
+		"model": "MPG B550I GAMING EDGE WIFI",
+		"socket": "AM4",
+		"form_factor": "Mini ITX",
+		"ram_slots": 2,
+		"max_ram": {
+			"total": 64000000000
+		},
+		"color": "Black / Silver",
+		"price": 6900,
+		"imageurl": "motherboard/mpg-b550i-gaming-edge-wifi-2-250x250.jpg",
+		"name": "mpg-b550i-gaming-edge-wifi"
+	},
+	"201": {
+		"brand": "MSI",
+		"model": "MPG X570 GAMING EDGE WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 6300,
+		"imageurl": "motherboard/mpg-x570-gaming-edge-wifi-2-250x250.jpg",
+		"name": "mpg-x570-gaming-edge-wifi"
+	},
+	"202": {
+		"brand": "MSI",
+		"model": "MPG X570 GAMING PLUS",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Red",
+		"price": 18100,
+		"imageurl": "motherboard/mpg-x570-gaming-plus-2-250x250.jpg",
+		"name": "mpg-x570-gaming-plus"
+	},
+	"203": {
+		"brand": "MSI",
+		"model": "MPG X570 GAMING PRO CARBON WIFI",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8500,
+		"imageurl": "motherboard/mpg-x570-gaming-pro-carbon-wifi-2-250x250.jpg",
+		"name": "mpg-x570-gaming-pro-carbon-wifi"
+	},
+	"204": {
+		"brand": "MSI",
+		"model": "MPG Z390 GAMING EDGE AC",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 15300,
+		"imageurl": "motherboard/mpg-z390-gaming-edge-ac-2-250x250.jpg",
+		"name": "mpg-z390-gaming-edge-ac"
+	},
+	"205": {
+		"brand": "MSI",
+		"model": "MPG Z390 GAMING PLUS",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Red",
+		"price": 8300,
+		"imageurl": "motherboard/mpg-z390-gaming-plus-7-250x250.jpg",
+		"name": "mpg-z390-gaming-plus"
+	},
+	"206": {
+		"brand": "MSI",
+		"model": "MPG Z390 GAMING PRO CARBON",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 11900,
+		"imageurl": "motherboard/mpg-z390-gaming-pro-carbon-2-250x250.jpg",
+		"name": "mpg-z390-gaming-pro-carbon"
+	},
+	"207": {
+		"brand": "MSI",
+		"model": "MPG Z390 GAMING PRO CARBON AC",
+		"socket": "LGA1151",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10300,
+		"imageurl": "motherboard/mpg-z390-gaming-pro-carbon-ac-2-250x250.jpg",
+		"name": "mpg-z390-gaming-pro-carbon-ac"
+	},
+	"208": {
+		"brand": "MSI",
+		"model": "MPG Z390M GAMING EDGE AC",
+		"socket": "LGA1151",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 15900,
+		"imageurl": "motherboard/mpg-z390m-gaming-edge-ac-2-250x250.jpg",
+		"name": "mpg-z390m-gaming-edge-ac"
+	},
+	"209": {
+		"brand": "MSI",
+		"model": "MPG Z490 GAMING CARBON WIFI",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 15900,
+		"imageurl": "motherboard/mpg-z490-gaming-carbon-wifi-2-250x250.jpg",
+		"name": "mpg-z490-gaming-carbon-wifi"
+	},
+	"210": {
+		"brand": "MSI",
+		"model": "MPG Z490 GAMING EDGE WIFI",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 8100,
+		"imageurl": "motherboard/mpg-z490-gaming-edge-wifi-2-250x250.jpg",
+		"name": "mpg-z490-gaming-edge-wifi"
+	},
+	"211": {
+		"brand": "MSI",
+		"model": "MPG Z490 GAMING PLUS",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 9700,
+		"imageurl": "motherboard/mpg-z490-gaming-plus-2-250x250.jpg",
+		"name": "mpg-z490-gaming-plus"
+	},
+	"212": {
+		"brand": "MSI",
+		"model": "MPG Z490M GAMING EDGE WIFI",
+		"socket": "LGA1200",
+		"form_factor": "Micro ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 5900,
+		"imageurl": "motherboard/mpg-z490m-gaming-edge-wifi_2-250x250.jpg",
+		"name": "mpg-z490m-gaming-edge-wifi"
+	},
+	"213": {
+		"brand": "MSI",
+		"model": "PRESTIGE X570 CREATION",
+		"socket": "AM4",
+		"form_factor": "EATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 6700,
+		"imageurl": "motherboard/prestige-x570-creation-2-250x250.jpg",
+		"name": "prestige-x570-creation"
+	},
+	"214": {
+		"brand": "MSI",
+		"model": "TRX40 PRO 10G",
+		"socket": "sTRX4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 256000000000
+		},
+		"color": "Black / Silver",
+		"price": 8900,
+		"imageurl": "motherboard/trx40-pro-10g-2-250x250.jpg",
+		"name": "trx40-pro-10g"
+	},
+	"215": {
+		"brand": "MSI",
+		"model": "TRX40 PRO WIFI",
+		"socket": "sTRX4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 256000000000
+		},
+		"color": "Black / Silver",
+		"price": 12700,
+		"imageurl": "motherboard/trx40-pro-wifi-2-250x250.jpg",
+		"name": "trx40-pro-wifi"
+	},
+	"216": {
+		"brand": "MSI",
+		"model": "X399 GAMING PRO CARBON AC",
+		"socket": "sTR4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 9700,
+		"imageurl": "motherboard/x399-gaming-pro-carbon-ac-2-250x250.jpg",
+		"name": "x399-gaming-pro-carbon-ac"
+	},
+	"217": {
+		"brand": "MSI",
+		"model": "X399 SLI PLUS",
+		"socket": "sTR4",
+		"form_factor": "ATX",
+		"ram_slots": 8,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black",
+		"price": 8300,
+		"imageurl": "motherboard/x399-sli-plus-2-250x250.jpg",
+		"name": "x399-sli-plus"
+	},
+	"218": {
+		"brand": "MSI",
+		"model": "X570-A PRO",
+		"socket": "AM4",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 16500,
+		"imageurl": "motherboard/x570-a-pro-2-250x250.jpg",
+		"name": "x570-a-pro"
+	},
+	"219": {
+		"brand": "MSI",
+		"model": "Z490-A PRO",
+		"socket": "LGA1200",
+		"form_factor": "ATX",
+		"ram_slots": 4,
+		"max_ram": {
+			"total": 128000000000
+		},
+		"color": "Black / Silver",
+		"price": 10300,
+		"imageurl": "motherboard/z490-a-pro-2-250x250.jpg",
+		"name": "z490-a-pro"
+	}
+}
