@@ -718,9 +718,9 @@ a:hover {
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   background-color: #105A80;
-  border-radius: 2rem;
+  border-radius: 0.5rem;
   width: 60%;
-  padding: 2rem;
+  padding: 5rem;
 }
 
 .subLander {

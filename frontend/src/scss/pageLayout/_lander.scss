@@ -3,6 +3,7 @@
 .lander {
 	height: 25rem;
 	background-color: $white;
+	// background-image: url("./../../img/products-banner.jpg");
 
 	&__discription {
 		position: relative;
@@ -10,9 +11,9 @@
 		left: 50%;
 		transform: translate(-50%, -50%);
 		background-color: $blue;
-		border-radius: 2rem;
+		border-radius: 0.5rem;
 		width: 60%;
-		padding: 2rem;
+		padding: 5rem;
 	}
 }
 
