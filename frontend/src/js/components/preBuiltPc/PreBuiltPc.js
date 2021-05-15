@@ -3,13 +3,6 @@ import React, { useState } from "react";
 export default function PreBuiltPc() {
   let prebuiltpc = [
     {
-      name: "ECLIPSE PC 1",
-      price: "₹102,490",
-      imageUrl:
-        "https://www.pcstudio.in/wp-content/uploads/2021/04/ECLIPSE-PC-1-1-416x416.png",
-      url: "https://www.pcstudio.in/product/eclipse-pc-1/",
-    },
-    {
       name: "ECLIPSE PC 2",
       price: "₹114,990",
       imageUrl:
@@ -36,20 +29,6 @@ export default function PreBuiltPc() {
       imageUrl:
         "https://www.pcstudio.in/wp-content/uploads/2021/03/Creator-Plus-PC-3-1.jpg",
       url: "https://www.pcstudio.in/product/creator-plus-pc-3/",
-    },
-    {
-      name: "CREATOR PC",
-      price: "₹189,000",
-      imageUrl:
-        "https://www.pcstudio.in/wp-content/uploads/2020/05/creator-pc-1_n.jpg",
-      url: "https://www.pcstudio.in/product/creator-pc/",
-    },
-    {
-      name: "CREATOR PC PLUS",
-      price: "₹300,000",
-      imageUrl:
-        "https://www.pcstudio.in/wp-content/uploads/2020/06/Creator-Pc-Plus-1.jpg",
-      url: "https://www.pcstudio.in/product/creator-pc-plus/",
     },
     {
       name: "GAMING PC",

@@ -92,3 +92,19 @@
 .checkout {
   position: relative;
 }
+
+
+.darkish-green{
+  background-color: $blue;
+}
+
+.darkish-white{
+  background-color: $white !important;
+  color: $red;
+}
+
+
+.darkish_blue{
+  background-color: $red;
+  color: $white !important;
+}
